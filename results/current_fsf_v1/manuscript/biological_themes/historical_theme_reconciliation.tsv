@@ -1,0 +1,101 @@
+historical_theme	historical_condition	historical_class_or_region	current_matching_evidence	current_GO_support	current_KEGG_support	current_status	reason	author_decision	author_notes
+Broad cellular regulation	DES	Highly Stable Constant	Broad regulatory and signaling processes	108	2	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Translation / protein targeting	DES	Highly Stable Down	Translation, ribosome and protein targeting	30	4	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Cell cycle / division	DES	Highly Stable Up	Cell cycle and division	52	6	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Cell adhesion / extracellular interaction	DES	Low Stability	Cell adhesion and extracellular organization	5	0	PARTIALLY_SUPPORTED	Current official-name evidence matched		
+Energy metabolism / redox regulation	GAM	Highly Stable Constant	Broad regulatory and signaling processes; Energy and core metabolism; Metabolism and redox processes	1393	37	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad cellular regulation	GAM	Highly Stable Down	Broad regulatory and signaling processes	1115	13	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Genome maintenance / nuclear regulation	GAM	Highly Stable Up	Broad regulatory and signaling processes; DNA repair and genome maintenance	1170	16	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad cellular regulation	GAM	Low Stability		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Translation / protein targeting	GAM	Stable Down	Translation, ribosome and protein targeting	44	7	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad cellular regulation	GAM	Stable Up	Broad regulatory and signaling processes	1115	13	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad cellular regulation	HT	Highly Stable Constant	Broad regulatory and signaling processes	289	14	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Energy metabolism / redox regulation	HT	Highly Stable Down	Broad regulatory and signaling processes; Energy and core metabolism; Metabolism and redox processes	548	68	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Genome maintenance / nuclear regulation	HT	Highly Stable Up	Broad regulatory and signaling processes; DNA repair and genome maintenance	293	14	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Translation / protein targeting	LT	Highly Stable Constant	Translation, ribosome and protein targeting	4	4	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad cellular regulation	LT	Highly Stable Down		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Broad cellular regulation	LT	Highly Stable Up		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Broad cellular regulation	LT	Low Stability		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Broad cellular regulation	UV	Highly Stable Down	Broad regulatory and signaling processes	156	11	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad cellular regulation	UV	Stable Constant	Broad regulatory and signaling processes	156	11	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad cellular regulation	UV	Stable Down	Broad regulatory and signaling processes	156	11	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Translation / protein targeting	UV	Transitional Constant	Translation, ribosome and protein targeting	17	7	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad cellular regulation	UV	Transitional Down	Broad regulatory and signaling processes	156	11	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Weak / nonspecific enrichment	OSM	Highly Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Energy metabolism / redox regulation	GAM	Transitional Down	Broad regulatory and signaling processes; Energy and core metabolism; Metabolism and redox processes	1393	37	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Weak / nonspecific enrichment	UV	Highly Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Weak / nonspecific enrichment	GAM	Low Stability		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Cell adhesion / extracellular interaction	OSM	Highly Stable Down	Cell adhesion and extracellular organization	0	1	PARTIALLY_SUPPORTED	Current official-name evidence matched		
+No clear enrichment	UV	Transitional Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No clear enrichment	UV	Low Stability		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No clear enrichment	GAM	Transitional Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Weak / nonspecific enrichment	OSM	Highly Stable Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Weak / nonspecific enrichment	UV	Highly Stable Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Weak / nonspecific enrichment	GAM	Stable Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No clear enrichment	GAM	Low Stability		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Weak / nonspecific enrichment	GAM	Transitional Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No clear enrichment	UV	Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Broad regulatory / cellular process	DES	Highly Stable Constant	Broad regulatory and signaling processes	108	2	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Translation / ribosome	DES	Highly Stable Down	Translation, ribosome and protein targeting	30	4	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	DES	Highly Stable Up	Broad regulatory and signaling processes	108	2	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Development / morphogenesis	DES	Low Stability	Development and morphogenesis	21	0	PARTIALLY_SUPPORTED	Current official-name evidence matched		
+Broad regulatory / cellular process	GAM	Highly Stable Constant	Broad regulatory and signaling processes	1115	13	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	GAM	Highly Stable Down	Broad regulatory and signaling processes	1115	13	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Genome maintenance / DNA repair	GAM	Highly Stable Up	DNA repair and genome maintenance	55	3	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	GAM	Low Stability		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Translation / ribosome	GAM	Stable Down	Translation, ribosome and protein targeting	44	7	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	GAM	Stable Up	Broad regulatory and signaling processes	1115	13	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	HT	Highly Stable Constant	Broad regulatory and signaling processes	289	14	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	HT	Highly Stable Down	Broad regulatory and signaling processes	289	14	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Chromosome / nuclear organization	HT	Highly Stable Up	Chromosome and nuclear organization	41	0	PARTIALLY_SUPPORTED	Current official-name evidence matched		
+Broad regulatory / cellular process	LT	Highly Stable Constant		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Broad regulatory / cellular process	LT	Highly Stable Down		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Broad regulatory / cellular process	LT	Highly Stable Up		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Broad regulatory / cellular process	LT	Low Stability		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Broad regulatory / cellular process	UV	Highly Stable Down	Broad regulatory and signaling processes	156	11	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	UV	Stable Constant	Broad regulatory and signaling processes	156	11	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	UV	Stable Down	Broad regulatory and signaling processes	156	11	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Translation / ribosome	UV	Transitional Constant	Translation, ribosome and protein targeting	17	7	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	UV	Transitional Down	Broad regulatory and signaling processes	156	11	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+No significant GO enrichment	OSM	Highly Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant GO enrichment	GAM	Transitional Down		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant GO enrichment	UV	Highly Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant GO enrichment	GAM	Low Stability		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant GO enrichment	OSM	Highly Stable Down		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant GO enrichment	UV	Transitional Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant GO enrichment	UV	Low Stability		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant GO enrichment	GAM	Transitional Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Broad regulatory / cellular process	OSM	Highly Stable Constant	Broad regulatory and signaling processes	10	21	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	UV	Highly Stable Constant	Broad regulatory and signaling processes	156	11	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	GAM	Stable Constant	Broad regulatory and signaling processes	1115	13	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad regulatory / cellular process	GAM	Transitional Up	Broad regulatory and signaling processes	1115	13	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+No significant GO enrichment	UV	Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Other KEGG / manual review	DES	Highly Stable Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Cell cycle regulation	DES	Highly Stable Up	Broad regulatory and signaling processes; Cell cycle and division	160	8	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Energy / core metabolism	GAM	Highly Stable Constant	Energy and core metabolism; Metabolism and redox processes	278	24	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Broad proliferation / regulatory pathway	GAM	Highly Stable Down	Broad regulatory and signaling processes	1115	13	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Other KEGG / manual review	GAM	Low Stability		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Broad proliferation / regulatory pathway	GAM	Stable Up	Broad regulatory and signaling processes	1115	13	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Endocrine / physiological regulation	HT	Highly Stable Constant	Broad regulatory and signaling processes; Endocrine and physiological regulation	298	20	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Energy / core metabolism	HT	Highly Stable Down	Energy and core metabolism; Metabolism and redox processes	259	54	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Other KEGG / manual review	HT	Highly Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Translation / ribosome	LT	Highly Stable Constant	Translation, ribosome and protein targeting	4	4	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Other KEGG / manual review	LT	Highly Stable Down		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Other KEGG / manual review	LT	Highly Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Endocrine / physiological regulation	LT	Low Stability		0	0	NOT_SUPPORTED_CURRENTLY	No current official-name evidence matched		
+Other KEGG / manual review	UV	Highly Stable Down		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Other KEGG / manual review	UV	Stable Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Other KEGG / manual review	UV	Stable Down		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Other KEGG / manual review	UV	Transitional Down		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Other KEGG / manual review	OSM	Highly Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+Energy / core metabolism	GAM	Transitional Down	Energy and core metabolism; Metabolism and redox processes	278	24	SUPPORTED_CURRENTLY	Current official-name evidence matched		
+Other KEGG / manual review	UV	Highly Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant KEGG enrichment	UV	Transitional Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant KEGG enrichment	UV	Low Stability		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant KEGG enrichment	GAM	Transitional Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant KEGG enrichment	OSM	Highly Stable Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant KEGG enrichment	UV	Highly Stable Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant KEGG enrichment	GAM	Stable Constant		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant KEGG enrichment	GAM	Low Stability		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant KEGG enrichment	GAM	Transitional Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		
+No significant KEGG enrichment	UV	Stable Up		0	0	AMBIGUOUS_REQUIRES_AUTHOR_REVIEW	No transparent match to a current candidate definition		

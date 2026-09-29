@@ -1,0 +1,19 @@
+theme_id	candidate_theme	pattern	route
+H01	Translation, ribosome and protein targeting	ribosom|translation|translational|protein targeting|signal recognition particle|aminoacyl|trna synthet|peptide biosynth	HISTORICAL_HYPOTHESIS
+H02	DNA repair and genome maintenance	dna repair|dna recombin|dna damage|genome maintenance|double.strand break|nucleotide.excision|mismatch repair|homologous recombination|base.excision	HISTORICAL_HYPOTHESIS
+H03	Chromosome and nuclear organization	chromosom|chromatin|nucleosome|nuclear organization|nucleus organization|kinetochore|centromer|telomer|histone	HISTORICAL_HYPOTHESIS
+H04	Cell cycle and division	cell cycle|cell division|mitotic|mitosis|meiotic|meiosis|cytokinesis|spindle|checkpoint	HISTORICAL_HYPOTHESIS
+H05	Metabolism and redox processes	metabol|oxidoreduct|redox|oxidation.reduction|biosynth|catabol|dehydrogenase|transferase activity	HISTORICAL_HYPOTHESIS
+H06	Energy and core metabolism	energy|oxidative phosphorylation|electron transport|respiratory|atp synth|carbon metabolism|glycolysis|citrate cycle|tca cycle	HISTORICAL_HYPOTHESIS
+H07	Protein turnover and proteostasis	proteasom|ubiquitin|protein degrad|protein catabol|proteolysis|peptidase|proteostasis|protein folding|chaperon|autophag	HISTORICAL_HYPOTHESIS
+H08	Cell adhesion and extracellular organization	cell adhesion|extracellular|cell junction|focal adhesion|matrix|cadherin|integrin	HISTORICAL_HYPOTHESIS
+H09	Development and morphogenesis	develop|morphogen|differentiation|organ formation|anatomical structure|growth	HISTORICAL_HYPOTHESIS
+H10	Neural, projection and behavior processes	neural|neuron|axon|dendrit|synap|behavior|neurotrans|projection	HISTORICAL_HYPOTHESIS
+H11	Stress response and signaling	stress|response to stimulus|signaling pathway|signal transduction|mapk|heat shock|oxidative stress	HISTORICAL_HYPOTHESIS
+H12	Endocrine and physiological regulation	endocrine|hormone|physiological|insulin|thyroid|steroid|secretion	HISTORICAL_HYPOTHESIS
+H13	Broad regulatory and signaling processes	regulation|regulatory|signaling|signal transduction|kinase activity|transcription factor|protein binding	HISTORICAL_HYPOTHESIS
+C01	Membrane transport and ion homeostasis	transport|transmembrane|channel activity|ion homeostasis|ion transport|porter activity|pump activity	CURRENT_EVIDENCE
+C02	RNA processing and expression	rna process|rna splicing|rna modification|rna metabol|transcription|mrna|rrna|ncrna|gene expression	CURRENT_EVIDENCE
+C03	Vesicle trafficking and organelle organization	vesicle|endocyt|exocyt|golgi|endoplasmic reticulum|organelle organization|intracellular transport|protein localization	CURRENT_EVIDENCE
+C04	Immune and defense processes	immune|defense response|inflammatory|cytokine|antigen|infection|host defense|innate immunity	CURRENT_EVIDENCE
+C05	Cytoskeleton and cell motility	cytoskeleton|actin|microtubule|cell motility|cell migration|cilium|flagell	CURRENT_EVIDENCE

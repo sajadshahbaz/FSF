@@ -1,0 +1,28 @@
+tau	truth_scenario	stability_region	n_features	proportion
+0.25	instable	Low Stability	996	0.996
+0.25	instable	Transitional	4	0.004
+0.25	stable_constant	Stable	350	0.35
+0.25	stable_constant	Highly Stable	650	0.65
+0.25	stable_down	Highly Stable	1000	1
+0.25	stable_up	Highly Stable	1000	1
+0.25	weakly_stable	Transitional	175	0.175
+0.25	weakly_stable	Stable	823	0.823
+0.25	weakly_stable	Highly Stable	2	0.002
+0.5	instable	Low Stability	1000	1
+0.5	stable_constant	Highly Stable	1000	1
+0.5	stable_down	Highly Stable	1000	1
+0.5	stable_up	Highly Stable	1000	1
+0.5	weakly_stable	Transitional	969	0.969
+0.5	weakly_stable	Stable	31	0.031
+0.75	instable	Low Stability	1000	1
+0.75	stable_constant	Highly Stable	1000	1
+0.75	stable_down	Highly Stable	1000	1
+0.75	stable_up	Highly Stable	1000	1
+0.75	weakly_stable	Low Stability	148	0.148
+0.75	weakly_stable	Transitional	852	0.852
+1	instable	Low Stability	1000	1
+1	stable_constant	Highly Stable	1000	1
+1	stable_down	Highly Stable	1000	1
+1	stable_up	Highly Stable	1000	1
+1	weakly_stable	Low Stability	16	0.016
+1	weakly_stable	Transitional	984	0.984

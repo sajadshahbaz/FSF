@@ -1,0 +1,12 @@
+condition	FSF_region	candidate_theme	display_theme	GO_significant_term_count	KEGG_significant_term_count	total_supporting_term_count	strongest_GO_adjusted_p	strongest_KEGG_adjusted_p	strongest_adjusted_p	neg_log10_strongest_adjusted_p	plot_order
+DES	Low Stability	Development and morphogenesis	Developmental & morphogenetic processes	21	0	21	0.00277334537030011		0.00277334537030011	2.55699604348534	1
+DES	Low Stability	Neural, projection and behavior processes	Neuronal projection & guidance	9	0	9	0.00277334537030011		0.00277334537030011	2.55699604348534	2
+DES	Low Stability	Cell adhesion and extracellular organization	Cell adhesion & extracellular matrix	5	0	5	0.00756541905991628		0.00756541905991628	2.12116701075135	3
+DES	Highly Stable	Cell cycle and division	Cell cycle & division	52	6	58	2.26058131144338e-06	4.01372029748219e-07	4.01372029748219e-07	6.39645289529958	1
+DES	Highly Stable	RNA processing and expression	RNA processing	36	0	36	3.08763346159246e-22		3.08763346159246e-22	21.5103742611394	2
+DES	Highly Stable	Protein turnover and proteostasis	Protein turnover & proteostasis	27	8	35	7.66556004433134e-06	4.86136880652941e-06	4.86136880652941e-06	5.31324143003329	3
+DES	Highly Stable	Translation, ribosome and protein targeting	Translation & ribosome	30	4	34	1.03796535357006e-53	1.86229703426214e-46	1.03796535357006e-53	52.9838171426383	4
+DES	Highly Stable	Vesicle trafficking and organelle organization	ER targeting & vesicle trafficking	32	2	34	3.6773832413061e-36	0.039194629740492	3.6773832413061e-36	35.4344611074411	5
+DES	Highly Stable	Chromosome and nuclear organization	Chromosome & nuclear organization	30	2	32	1.44818038558643e-08	0.0490821365450946	1.44818038558643e-08	7.83917733897758	6
+DES	Highly Stable	Energy and core metabolism	Oxidative phosphorylation & energy metabolism	28	2	30	5.08056543644537e-10	4.1304205550354e-11	4.1304205550354e-11	10.3840057266892	7
+DES	Highly Stable	DNA repair and genome maintenance	DNA repair & genome maintenance	11	2	13	0.00456956906691152	0.039194629740492	0.00456956906691152	2.34012475412857	8

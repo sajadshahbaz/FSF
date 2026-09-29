@@ -1,0 +1,6 @@
+truth_scenario	dominant_recovered_signal_class	n_features	recovery_proportion
+instable	Low Stability	1000	1
+stable_constant	Highly Stable Constant	1000	1
+stable_down	Highly Stable Down	1000	1
+stable_up	Highly Stable Up	1000	1
+weakly_stable	Transitional Up	969	0.969

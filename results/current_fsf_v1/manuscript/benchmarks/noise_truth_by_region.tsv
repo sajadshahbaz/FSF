@@ -1,0 +1,58 @@
+noise_sd	truth_scenario	stability_region	n_features	proportion
+0.05	instable	Low Stability	500	1
+0.05	stable_constant	Highly Stable	500	1
+0.05	stable_down	Highly Stable	500	1
+0.05	stable_up	Highly Stable	500	1
+0.05	weakly_stable	Highly Stable	500	1
+0.1	instable	Low Stability	500	1
+0.1	stable_constant	Highly Stable	500	1
+0.1	stable_down	Highly Stable	500	1
+0.1	stable_up	Highly Stable	500	1
+0.1	weakly_stable	Highly Stable	500	1
+0.2	instable	Low Stability	500	1
+0.2	stable_constant	Highly Stable	500	1
+0.2	stable_down	Highly Stable	500	1
+0.2	stable_up	Highly Stable	500	1
+0.2	weakly_stable	Stable	31	0.062
+0.2	weakly_stable	Highly Stable	469	0.938
+0.35	instable	Low Stability	498	0.996
+0.35	instable	Transitional	2	0.004
+0.35	stable_constant	Transitional	3	0.006
+0.35	stable_constant	Stable	455	0.91
+0.35	stable_constant	Highly Stable	42	0.084
+0.35	stable_down	Highly Stable	500	1
+0.35	stable_up	Highly Stable	500	1
+0.35	weakly_stable	Transitional	35	0.07
+0.35	weakly_stable	Stable	459	0.918
+0.35	weakly_stable	Highly Stable	6	0.012
+0.5	instable	Low Stability	496	0.992
+0.5	instable	Transitional	4	0.008
+0.5	stable_constant	Transitional	454	0.908
+0.5	stable_constant	Stable	46	0.092
+0.5	stable_down	Highly Stable	500	1
+0.5	stable_up	Highly Stable	500	1
+0.5	weakly_stable	Transitional	321	0.642
+0.5	weakly_stable	Stable	179	0.358
+0.75	instable	Low Stability	486	0.972
+0.75	instable	Transitional	14	0.028
+0.75	stable_constant	Low Stability	301	0.602
+0.75	stable_constant	Transitional	199	0.398
+0.75	stable_down	Stable	161	0.322
+0.75	stable_down	Highly Stable	339	0.678
+0.75	stable_up	Stable	140	0.28
+0.75	stable_up	Highly Stable	360	0.72
+0.75	weakly_stable	Transitional	491	0.982
+0.75	weakly_stable	Stable	9	0.018
+1	instable	Low Stability	483	0.966
+1	instable	Transitional	17	0.034
+1	stable_constant	Low Stability	495	0.99
+1	stable_constant	Transitional	5	0.01
+1	stable_down	Transitional	6	0.012
+1	stable_down	Stable	469	0.938
+1	stable_down	Highly Stable	25	0.05
+1	stable_up	Transitional	2	0.004
+1	stable_up	Stable	462	0.924
+1	stable_up	Highly Stable	36	0.072
+1	weakly_stable	Low Stability	7	0.014
+1	weakly_stable	Transitional	492	0.984
+1	weakly_stable	Stable	1	0.002

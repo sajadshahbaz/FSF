@@ -1,0 +1,71 @@
+gene_set_id	gene_set_family	condition	stability_region	dominant_state	signal_class	all_feature_count	annotated_feature_count
+DES__Highly_Stable	collapsed_stability	DES	Highly Stable	NA	NA	9350	8218
+DES__Low_Stability	collapsed_stability	DES	Low Stability	NA	NA	5837	5249
+GAM__Highly_Stable	collapsed_stability	GAM	Highly Stable	NA	NA	5869	5201
+GAM__Low_Stability	collapsed_stability	GAM	Low Stability	NA	NA	1085	952
+GAM__Stable	collapsed_stability	GAM	Stable	NA	NA	6127	5449
+GAM__Transitional	collapsed_stability	GAM	Transitional	NA	NA	2106	1865
+HT__Highly_Stable	collapsed_stability	HT	Highly Stable	NA	NA	15187	13467
+LT__Highly_Stable	collapsed_stability	LT	Highly Stable	NA	NA	13976	12351
+LT__Low_Stability	collapsed_stability	LT	Low Stability	NA	NA	1211	1116
+OSM__Highly_Stable	collapsed_stability	OSM	Highly Stable	NA	NA	15187	13467
+UV__Highly_Stable	collapsed_stability	UV	Highly Stable	NA	NA	2391	2152
+UV__Low_Stability	collapsed_stability	UV	Low Stability	NA	NA	2948	2554
+UV__Stable	collapsed_stability	UV	Stable	NA	NA	3151	2823
+UV__Transitional	collapsed_stability	UV	Transitional	NA	NA	6697	5938
+DES__Highly_Stable__down	directional_stable	DES	Highly Stable	down	NA	1233	1110
+DES__Highly_Stable__up	directional_stable	DES	Highly Stable	up	NA	678	619
+GAM__Highly_Stable__down	directional_stable	GAM	Highly Stable	down	NA	377	318
+GAM__Highly_Stable__up	directional_stable	GAM	Highly Stable	up	NA	45	42
+GAM__Stable__down	directional_stable	GAM	Stable	down	NA	1378	1189
+GAM__Stable__up	directional_stable	GAM	Stable	up	NA	1029	941
+HT__Highly_Stable__down	directional_stable	HT	Highly Stable	down	NA	2564	2344
+HT__Highly_Stable__up	directional_stable	HT	Highly Stable	up	NA	2390	2205
+LT__Highly_Stable__down	directional_stable	LT	Highly Stable	down	NA	84	75
+LT__Highly_Stable__up	directional_stable	LT	Highly Stable	up	NA	42	40
+OSM__Highly_Stable__down	directional_stable	OSM	Highly Stable	down	NA	238	213
+OSM__Highly_Stable__up	directional_stable	OSM	Highly Stable	up	NA	203	176
+UV__Highly_Stable__down	directional_stable	UV	Highly Stable	down	NA	117	108
+UV__Highly_Stable__up	directional_stable	UV	Highly Stable	up	NA	141	127
+UV__Stable__down	directional_stable	UV	Stable	down	NA	238	209
+UV__Stable__up	directional_stable	UV	Stable	up	NA	317	282
+DES__Highly_Stable__constant__Highly_Stable_Constant	main_class	DES	Highly Stable	constant	Highly Stable Constant	7439	6489
+DES__Highly_Stable__down__Highly_Stable_Down	main_class	DES	Highly Stable	down	Highly Stable Down	1233	1110
+DES__Highly_Stable__up__Highly_Stable_Up	main_class	DES	Highly Stable	up	Highly Stable Up	678	619
+DES__Low_Stability__tied__Low_Stability	main_class	DES	Low Stability	tied	Low Stability	5837	5249
+GAM__Highly_Stable__constant__Highly_Stable_Constant	main_class	GAM	Highly Stable	constant	Highly Stable Constant	5447	4841
+GAM__Highly_Stable__down__Highly_Stable_Down	main_class	GAM	Highly Stable	down	Highly Stable Down	377	318
+GAM__Highly_Stable__up__Highly_Stable_Up	main_class	GAM	Highly Stable	up	Highly Stable Up	45	42
+GAM__Low_Stability__constant__Low_Stability	main_class	GAM	Low Stability	constant	Low Stability	70	63
+GAM__Low_Stability__down__Low_Stability	main_class	GAM	Low Stability	down	Low Stability	40	33
+GAM__Low_Stability__tied__Low_Stability	main_class	GAM	Low Stability	tied	Low Stability	958	842
+GAM__Low_Stability__up__Low_Stability	main_class	GAM	Low Stability	up	Low Stability	17	14
+GAM__Stable__constant__Stable_Constant	main_class	GAM	Stable	constant	Stable Constant	3720	3319
+GAM__Stable__down__Stable_Down	main_class	GAM	Stable	down	Stable Down	1378	1189
+GAM__Stable__up__Stable_Up	main_class	GAM	Stable	up	Stable Up	1029	941
+GAM__Transitional__constant__Transitional_Constant	main_class	GAM	Transitional	constant	Transitional Constant	1125	1009
+GAM__Transitional__down__Transitional_Down	main_class	GAM	Transitional	down	Transitional Down	622	536
+GAM__Transitional__up__Transitional_Up	main_class	GAM	Transitional	up	Transitional Up	359	320
+HT__Highly_Stable__constant__Highly_Stable_Constant	main_class	HT	Highly Stable	constant	Highly Stable Constant	10233	8918
+HT__Highly_Stable__down__Highly_Stable_Down	main_class	HT	Highly Stable	down	Highly Stable Down	2564	2344
+HT__Highly_Stable__up__Highly_Stable_Up	main_class	HT	Highly Stable	up	Highly Stable Up	2390	2205
+LT__Highly_Stable__constant__Highly_Stable_Constant	main_class	LT	Highly Stable	constant	Highly Stable Constant	13850	12236
+LT__Highly_Stable__down__Highly_Stable_Down	main_class	LT	Highly Stable	down	Highly Stable Down	84	75
+LT__Highly_Stable__up__Highly_Stable_Up	main_class	LT	Highly Stable	up	Highly Stable Up	42	40
+LT__Low_Stability__tied__Low_Stability	main_class	LT	Low Stability	tied	Low Stability	1211	1116
+OSM__Highly_Stable__constant__Highly_Stable_Constant	main_class	OSM	Highly Stable	constant	Highly Stable Constant	14746	13078
+OSM__Highly_Stable__down__Highly_Stable_Down	main_class	OSM	Highly Stable	down	Highly Stable Down	238	213
+OSM__Highly_Stable__up__Highly_Stable_Up	main_class	OSM	Highly Stable	up	Highly Stable Up	203	176
+UV__Highly_Stable__constant__Highly_Stable_Constant	main_class	UV	Highly Stable	constant	Highly Stable Constant	2133	1917
+UV__Highly_Stable__down__Highly_Stable_Down	main_class	UV	Highly Stable	down	Highly Stable Down	117	108
+UV__Highly_Stable__up__Highly_Stable_Up	main_class	UV	Highly Stable	up	Highly Stable Up	141	127
+UV__Low_Stability__constant__Low_Stability	main_class	UV	Low Stability	constant	Low Stability	1159	1021
+UV__Low_Stability__down__Low_Stability	main_class	UV	Low Stability	down	Low Stability	392	331
+UV__Low_Stability__tied__Low_Stability	main_class	UV	Low Stability	tied	Low Stability	1028	887
+UV__Low_Stability__up__Low_Stability	main_class	UV	Low Stability	up	Low Stability	369	315
+UV__Stable__constant__Stable_Constant	main_class	UV	Stable	constant	Stable Constant	2596	2332
+UV__Stable__down__Stable_Down	main_class	UV	Stable	down	Stable Down	238	209
+UV__Stable__up__Stable_Up	main_class	UV	Stable	up	Stable Up	317	282
+UV__Transitional__constant__Transitional_Constant	main_class	UV	Transitional	constant	Transitional Constant	4888	4325
+UV__Transitional__down__Transitional_Down	main_class	UV	Transitional	down	Transitional Down	814	728
+UV__Transitional__up__Transitional_Up	main_class	UV	Transitional	up	Transitional Up	995	885

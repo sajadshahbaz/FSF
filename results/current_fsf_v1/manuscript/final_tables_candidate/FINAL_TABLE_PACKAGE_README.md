@@ -1,0 +1,31 @@
+# Final current FSF manuscript table package
+
+This directory contains manuscript-facing derivatives of frozen/current FSF authorities. It is not a new scientific authority and does not regenerate FSF results.
+
+| Table | Filename | Title/contents | Manuscript location | Related figure | Authority and guardrails |
+|---|---|---|---|---|---|
+| Table 1 | `Table1_Condition_Level_FSF_Stability_Region_Architecture.tsv` | Table 1. Condition-level FSF stability-region architecture across six environmental stress conditions | Results 3.1 | Figure 3 | results/current_fsf_v1/current_fsf_region_architecture.tsv; results/current_fsf_v1/current_fsf_feature_metrics.tsv; results/current_fsf_v1/manuscript/tables/current_region_architecture.tsv. Exact region counts; percentages displayed to one decimal place; single-contrast HT/OSM guardrail retained. |
+| S1 | `Supplementary_Table_S1_metadata.csv` | Supplementary Table S1. RNA-seq sample metadata used for FSF analysis | Methods 2.1 | — | Git object d13ab123b021672d20485f14b1381214175ac0e9:results/manuscript/tables/supplementary/locked_submission_tables/Supplementary_Table_S1_metadata.csv. Preserved byte-identical shared metadata table. |
+| S2 | `Supplementary_Table_S2_Functional_Annotation_Atlas.tsv.gz` | Supplementary Table S2. Functional annotation atlas of the FSF feature universe | Methods 2.6 and annotation-coverage Results subsection | Supplementary Figure S1 | /media/saji/5E06441D0643F5152/FSF_R_PACKAGE_ARTIFACTS/FSF_v1_annotation_master.tsv (SHA-256 25627cfcaf544dd2793d9fd2462772d9cb76f4728bbcab8c9d29599520f5d584). One frozen annotation-master row per analyzed feature; no external enrichment or inferred names. |
+| S3 | `Supplementary_Table_S3_Literature_Supported_Representative_Genes.tsv` | Supplementary Table S3. Literature-supported representative genes across FSF signal classes | Results 3.4 | — | validated_gene_shortlist.tsv; gene_literature_evidence.tsv; gene_author_decisions.tsv; current_fsf_feature_metrics.tsv. Eight author-retained literature-supported representative genes; directionality support is not claimed. |
+| S4 | `Supplementary_Table_S4_GO_Enrichment_Main_Class.tsv.gz` | Supplementary Table S4. Significant GO enrichment results for current FSF signal classes | Results 3.3 | Figure 5 | results/current_fsf_v1/manuscript/tables/current_go_statistical_summary.tsv. Raw unique GO term IDs; main_class significant rows only; adjusted P <= 0.05. |
+| S5 | `Supplementary_Table_S5_KEGG_Enrichment_Main_Class.tsv.gz` | Supplementary Table S5. Significant KEGG enrichment results for current FSF signal classes | Results 3.3 | Figure 5 | results/current_fsf_v1/manuscript/tables/current_kegg_statistical_summary.tsv. Raw unique KEGG IDs retained; ko/map-normalized pathway counts are not substituted for Figure 5 breadth counts. |
+| S6 | `Supplementary_Table_S6_Synthetic_Baseline_Benchmark.tsv` | Supplementary Table S6. Baseline synthetic benchmark performance of FSF | Synthetic-baseline Results subsection | Figure 6 | baseline_summary.tsv; baseline_truth_by_class.tsv. Generator truth-scenario labels are provenance labels, not current FSF class names. |
+| S7A | `Supplementary_Table_S7A_Noise_Gradient_SSI_Summary.tsv` | Supplementary Table S7A. SSI behavior across the synthetic noise gradient | Noise-robustness Results subsection | — | noise_summary.tsv. Authority columns and values preserved exactly; not directly plotted in the current figure builder. |
+| S7B | `Supplementary_Table_S7B_Noise_Gradient_Dominant_Class_Recovery.tsv` | Supplementary Table S7B. Dominant-class recovery across the synthetic noise gradient | Noise-robustness Results subsection | Figure 6 | noise_dominant_recovery.tsv. Direct authority for the current Figure 6 noise panels. |
+| S7C | `Supplementary_Table_S7C_Noise_Gradient_Class_Assignments.tsv` | Supplementary Table S7C. FSF class assignments across the synthetic noise gradient | Noise-robustness Results subsection | — | noise_truth_by_class.tsv. Authority columns and values preserved exactly; S7D retired as redundant; not directly plotted in the current figure builder. |
+| S8A | `Supplementary_Table_S8A_Tau_Sensitivity_Class_Composition.tsv` | Supplementary Table S8A. FSF class composition across directional-threshold values | Tau-sensitivity Results subsection | — | tau_truth_by_class.tsv. Included in the governed tau source bundle but not plotted by the current Supplementary Figure S2 builder. |
+| S8B | `Supplementary_Table_S8B_Tau_Sensitivity_SSI_Summary.tsv` | Supplementary Table S8B. SSI sensitivity to the directional-state threshold | Tau-sensitivity Results subsection | Supplementary Figure S2 | tau_summary.tsv. Mean SSI is the endpoint plotted in the current Supplementary Figure S2 builder. |
+
+## Interpretation guardrails
+
+- Table 1 reports current stability-region architecture. HT and OSM each have one perturbation contrast; SSI = 1 is structurally determined and does not demonstrate cross-perturbation reproducibility.
+- S1 is preserved byte-for-byte from the governed shared metadata table, including lowercase condition codes and all seven columns.
+- S2 is a deterministic gzip representation of the frozen annotation master. Annotation coverage and enrichment-universe sizes are distinct governed concepts: 13,467 features have at least one annotation source; 9,321 are GO-mapped; the KO background contains 7,178 features; and the KEGG pathway background contains 4,680 features.
+- S3 contains eight retained representative genes. Literature supports interpretability only; exact FSF directionality is not claimed as independently validated. Low Stability remains a single non-directional class.
+- S4 and S5 contain only significant `main_class` rows with adjusted P values no greater than 0.05. No term descriptions were invented.
+- S5 retains raw KEGG identifiers. `koXXXXX` and `mapXXXXX` identifiers are not silently collapsed or substituted.
+- S6 truth-scenario names are historical generator labels, not current FSF signal-class names.
+- S7D is retired as redundant; no S7D file is included.
+- Blank related-figure fields mean the table is not directly plotted by the current frozen figure builder.
+- The workbook is a human-review aid only. Large S2, S4, and S5 datasets are indexed rather than embedded.

@@ -1,0 +1,61 @@
+noise_sd	truth_scenario	signal_class	n_features	proportion
+0.05	instable	Low Stability	500	1
+0.05	stable_constant	Highly Stable Constant	500	1
+0.05	stable_down	Highly Stable Down	500	1
+0.05	stable_up	Highly Stable Up	500	1
+0.05	weakly_stable	Highly Stable Up	500	1
+0.1	instable	Low Stability	500	1
+0.1	stable_constant	Highly Stable Constant	500	1
+0.1	stable_down	Highly Stable Down	500	1
+0.1	stable_up	Highly Stable Up	500	1
+0.1	weakly_stable	Highly Stable Up	500	1
+0.2	instable	Low Stability	500	1
+0.2	stable_constant	Highly Stable Constant	500	1
+0.2	stable_down	Highly Stable Down	500	1
+0.2	stable_up	Highly Stable Up	500	1
+0.2	weakly_stable	Highly Stable Up	469	0.938
+0.2	weakly_stable	Stable Up	31	0.062
+0.35	instable	Low Stability	498	0.996
+0.35	instable	Transitional Up	2	0.004
+0.35	stable_constant	Stable Constant	455	0.91
+0.35	stable_constant	Highly Stable Constant	42	0.084
+0.35	stable_constant	Transitional Constant	3	0.006
+0.35	stable_down	Highly Stable Down	500	1
+0.35	stable_up	Highly Stable Up	500	1
+0.35	weakly_stable	Stable Up	459	0.918
+0.35	weakly_stable	Transitional Up	35	0.07
+0.35	weakly_stable	Highly Stable Up	6	0.012
+0.5	instable	Low Stability	496	0.992
+0.5	instable	Transitional Down	2	0.004
+0.5	instable	Transitional Up	2	0.004
+0.5	stable_constant	Transitional Constant	454	0.908
+0.5	stable_constant	Stable Constant	46	0.092
+0.5	stable_down	Highly Stable Down	500	1
+0.5	stable_up	Highly Stable Up	500	1
+0.5	weakly_stable	Transitional Up	321	0.642
+0.5	weakly_stable	Stable Up	179	0.358
+0.75	instable	Low Stability	486	0.972
+0.75	instable	Transitional Down	8	0.016
+0.75	instable	Transitional Up	6	0.012
+0.75	stable_constant	Low Stability	301	0.602
+0.75	stable_constant	Transitional Constant	199	0.398
+0.75	stable_down	Highly Stable Down	339	0.678
+0.75	stable_down	Stable Down	161	0.322
+0.75	stable_up	Highly Stable Up	360	0.72
+0.75	stable_up	Stable Up	140	0.28
+0.75	weakly_stable	Transitional Up	491	0.982
+0.75	weakly_stable	Stable Up	9	0.018
+1	instable	Low Stability	483	0.966
+1	instable	Transitional Down	9	0.018
+1	instable	Transitional Up	8	0.016
+1	stable_constant	Low Stability	495	0.99
+1	stable_constant	Transitional Constant	5	0.01
+1	stable_down	Stable Down	469	0.938
+1	stable_down	Highly Stable Down	25	0.05
+1	stable_down	Transitional Down	6	0.012
+1	stable_up	Stable Up	462	0.924
+1	stable_up	Highly Stable Up	36	0.072
+1	stable_up	Transitional Up	2	0.004
+1	weakly_stable	Transitional Up	492	0.984
+1	weakly_stable	Low Stability	7	0.014
+1	weakly_stable	Stable Up	1	0.002

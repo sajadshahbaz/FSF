@@ -1,0 +1,6 @@
+truth_scenario	n_features	mean_ssi	median_ssi	mean_stability_deviation	median_stability_deviation
+instable	1000	0.38374	0.38	0.61626	0.62
+stable_constant	1000	0.99915	1	8.500000000000007e-4	0
+stable_down	1000	1	1	0	0
+stable_up	1000	1	1	0	0
+weakly_stable	1000	0.66312	0.66	0.33688	0.33999999999999997

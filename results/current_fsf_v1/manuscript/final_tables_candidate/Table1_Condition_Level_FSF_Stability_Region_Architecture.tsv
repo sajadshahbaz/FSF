@@ -1,0 +1,7 @@
+condition	n_features	n_perturbations	low_stability_n	low_stability_percent	transitional_n	transitional_percent	stable_n	stable_percent	highly_stable_n	highly_stable_percent	design_note
+DES	15187	2	5837	38.4	0	0.0	0	0.0	9350	61.6	
+GAM	15187	8	1085	7.1	2106	13.9	6127	40.3	5869	38.6	
+HT	15187	1	0	0.0	0	0.0	0	0.0	15187	100.0	Single perturbation contrast; SSI = 1 is structurally determined and does not demonstrate cross-perturbation reproducibility.
+LT	15187	2	1211	8.0	0	0.0	0	0.0	13976	92.0	
+OSM	15187	1	0	0.0	0	0.0	0	0.0	15187	100.0	Single perturbation contrast; SSI = 1 is structurally determined and does not demonstrate cross-perturbation reproducibility.
+UV	15187	14	2948	19.4	6697	44.1	3151	20.7	2391	15.7	

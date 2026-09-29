@@ -1,0 +1,17 @@
+Package: FSF
+Type: Package
+Title: Feature Signal Stratification
+Version: 0.1.0
+Authors@R: person("Sajad", "Shahbazi", role = c("aut", "cre"),
+    email = "sajad642008@gmail.com")
+Description: Base-R implementation of the Feature Signal
+    Stratification framework. FSF characterizes perturbation-derived signed
+    effects through Signal Identity, the Signal Stratification Index, signal
+    classes, and condition-level signal architectures.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.0

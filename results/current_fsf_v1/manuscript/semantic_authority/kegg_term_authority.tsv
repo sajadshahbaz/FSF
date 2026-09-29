@@ -1,0 +1,789 @@
+kegg_id	kegg_identifier_type	kegg_name	kegg_description_if_available	source_version	mapping_status
+K00002	KO	AKR1A1, adh	alcohol dehydrogenase (NADP+) [EC:1.1.1.2]	KEGG KO 2026-09-18	mapped
+K00058	KO	serA, PHGDH	D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399]	KEGG KO 2026-09-18	mapped
+K00227	KO	SC5DL, ERG3	Delta7-sterol 5-desaturase [EC:1.14.19.20]	KEGG KO 2026-09-18	mapped
+K00235	KO	SDHB, SDH2	succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]	KEGG KO 2026-09-18	mapped
+K00310	KO	SE	pyrimidodiazepine synthase [EC:1.5.4.1]	KEGG KO 2026-09-18	mapped
+K00344	KO	qor, CRYZ	NADPH:quinone reductase [EC:1.6.5.5]	KEGG KO 2026-09-18	mapped
+K00452	KO	HAAO	3-hydroxyanthranilate 3,4-dioxygenase [EC:1.13.11.6]	KEGG KO 2026-09-18	mapped
+K00469	KO	MIOX	inositol oxygenase [EC:1.13.99.1]	KEGG KO 2026-09-18	mapped
+K00471	KO	BBOX1	gamma-butyrobetaine dioxygenase [EC:1.14.11.1]	KEGG KO 2026-09-18	mapped
+K00474	KO	TMLHE	trimethyllysine dioxygenase [EC:1.14.11.8]	KEGG KO 2026-09-18	mapped
+K00485	KO	FMO	dimethylaniline monooxygenase (N-oxide forming) / hypotaurine monooxygenase [EC:1.14.13.8 1.8.1.-]	KEGG KO 2026-09-18	mapped
+K00490	KO	CYP4F	cytochrome P450 family 4 subfamily F [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K00500	KO	phhA, PAH	phenylalanine-4-hydroxylase [EC:1.14.16.1]	KEGG KO 2026-09-18	mapped
+K00503	KO	DBH	dopamine beta-monooxygenase [EC:1.14.17.1]	KEGG KO 2026-09-18	mapped
+K00512	KO	CYP17A	steroid 17alpha-monooxygenase / 17alpha-hydroxyprogesterone deacetylase [EC:1.14.14.19 1.14.14.32]	KEGG KO 2026-09-18	mapped
+K00541	KO	NNMT	nicotinamide N-methyltransferase [EC:2.1.1.1]	KEGG KO 2026-09-18	mapped
+K00562	KO	INMT, TEMT	methyltransferase [EC:2.1.1.49 2.1.1.96]	KEGG KO 2026-09-18	mapped
+K00665	KO	FASN	fatty acid synthase, animal type [EC:2.3.1.85]	KEGG KO 2026-09-18	mapped
+K00735	KO	B3GAT1	galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1 [EC:2.4.1.135]	KEGG KO 2026-09-18	mapped
+K00799	KO	GST, gst	glutathione S-transferase [EC:2.5.1.18]	KEGG KO 2026-09-18	mapped
+K00819	KO	rocD, OAT	ornithine--oxo-acid transaminase [EC:2.6.1.13]	KEGG KO 2026-09-18	mapped
+K00831	KO	serC, PSAT1	phosphoserine aminotransferase [EC:2.6.1.52]	KEGG KO 2026-09-18	mapped
+K00901	KO	dgkA, DGK	diacylglycerol kinase (ATP) [EC:2.7.1.107]	KEGG KO 2026-09-18	mapped
+K01014	KO	SULT1A	aryl sulfotransferase [EC:2.8.2.1]	KEGG KO 2026-09-18	mapped
+K01016	KO	SULT1E1, STE	estrone sulfotransferase [EC:2.8.2.4]	KEGG KO 2026-09-18	mapped
+K01025	KO	SULT1	sulfotransferase [EC:2.8.2.-]	KEGG KO 2026-09-18	mapped
+K01028	KO	scoA	3-oxoacid CoA-transferase subunit A [EC:2.8.3.5]	KEGG KO 2026-09-18	mapped
+K01048	KO	pldB	lysophospholipase [EC:3.1.1.5]	KEGG KO 2026-09-18	mapped
+K01074	KO	PPT	palmitoyl-protein thioesterase [EC:3.1.2.22]	KEGG KO 2026-09-18	mapped
+K01077	KO	ALP, phoA, phoB	alkaline phosphatase [EC:3.1.3.1]	KEGG KO 2026-09-18	mapped
+K01104	KO	E3.1.3.48	protein-tyrosine phosphatase [EC:3.1.3.48]	KEGG KO 2026-09-18	mapped
+K01166	KO	RNASET2	ribonuclease T2 [EC:4.6.1.19]	KEGG KO 2026-09-18	mapped
+K01183	KO	E3.2.1.14	chitinase [EC:3.2.1.14]	KEGG KO 2026-09-18	mapped
+K01291	KO	CPB1	carboxypeptidase B [EC:3.4.17.2]	KEGG KO 2026-09-18	mapped
+K01296	KO	CPM	carboxypeptidase M [EC:3.4.17.12]	KEGG KO 2026-09-18	mapped
+K01298	KO	CPA2	carboxypeptidase A2 [EC:3.4.17.15]	KEGG KO 2026-09-18	mapped
+K01300	KO	CPB2	carboxypeptidase B2 [EC:3.4.17.20]	KEGG KO 2026-09-18	mapped
+K01312	KO	PRSS1_2_3	trypsin [EC:3.4.21.4]	KEGG KO 2026-09-18	mapped
+K01315	KO	PLG	plasminogen [EC:3.4.21.7]	KEGG KO 2026-09-18	mapped
+K01316	KO	TMPRSS15, PRSS7	enterokinase [EC:3.4.21.9]	KEGG KO 2026-09-18	mapped
+K01317	KO	ACR	acrosin [EC:3.4.21.10]	KEGG KO 2026-09-18	mapped
+K01324	KO	KLKB1	plasma kallikrein [EC:3.4.21.34]	KEGG KO 2026-09-18	mapped
+K01325	KO	KLK1_2	tissue kallikrein [EC:3.4.21.35]	KEGG KO 2026-09-18	mapped
+K01327	KO	ELANE	leukocyte elastase [EC:3.4.21.37]	KEGG KO 2026-09-18	mapped
+K01334	KO	CFD	complement factor D [EC:3.4.21.46]	KEGG KO 2026-09-18	mapped
+K01341	KO	KEX2	kexin [EC:3.4.21.61]	KEGG KO 2026-09-18	mapped
+K01350	KO	PRTN3	myeloblastin [EC:3.4.21.76]	KEGG KO 2026-09-18	mapped
+K01362	KO	OVCH	ovochymase [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K01363	KO	CTSB	cathepsin B [EC:3.4.22.1]	KEGG KO 2026-09-18	mapped
+K01388	KO	MMP1	matrix metalloproteinase-1 (interstitial collagenase) [EC:3.4.24.7]	KEGG KO 2026-09-18	mapped
+K01394	KO	MMP3	matrix metalloproteinase-3 (stromelysin 1, progelatinase) [EC:3.4.24.17]	KEGG KO 2026-09-18	mapped
+K01396	KO	MMP10	matrix metalloproteinase-10 (stromelysin 2) [EC:3.4.24.22]	KEGG KO 2026-09-18	mapped
+K01402	KO	MMP8	matrix metalloproteinase-8 (neutrophil collagenase) [EC:3.4.24.34]	KEGG KO 2026-09-18	mapped
+K01413	KO	MMP12	matrix metalloproteinase-12 (macrophage elastase) [EC:3.4.24.65]	KEGG KO 2026-09-18	mapped
+K01427	KO	URE	urease [EC:3.5.1.5]	KEGG KO 2026-09-18	mapped
+K01441	KO	ACER1_2, ASAH3	alkaline ceramidase [EC:3.5.1.23]	KEGG KO 2026-09-18	mapped
+K01446	KO	PGRP	peptidoglycan recognition protein	KEGG KO 2026-09-18	mapped
+K01489	KO	cdd, CDA	cytidine deaminase [EC:3.5.4.5]	KEGG KO 2026-09-18	mapped
+K01495	KO	GCH1, folE	GTP cyclohydrolase IA [EC:3.5.4.16]	KEGG KO 2026-09-18	mapped
+K01540	KO	ATP1B, CD298	sodium/potassium-transporting ATPase subunit beta	KEGG KO 2026-09-18	mapped
+K01581	KO	E4.1.1.17, ODC1, speC, speF	ornithine decarboxylase [EC:4.1.1.17]	KEGG KO 2026-09-18	mapped
+K01832	KO	TBXAS1, CYP5A	thromboxane-A synthase [EC:5.3.99.5]	KEGG KO 2026-09-18	mapped
+K01858	KO	INO1, ISYNA1	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	KEGG KO 2026-09-18	mapped
+K01893	KO	NARS, asnS	asparaginyl-tRNA synthetase [EC:6.1.1.22]	KEGG KO 2026-09-18	mapped
+K01946	KO	ACACB	acetyl-CoA carboxylase / biotin carboxylase 2 [EC:6.4.1.2 6.3.4.14 2.1.3.15]	KEGG KO 2026-09-18	mapped
+K02104	KO	AOS	protein giant-lens (argos)	KEGG KO 2026-09-18	mapped
+K02151	KO	ATPeV1F, ATP6S14	V-type H+-transporting ATPase subunit F	KEGG KO 2026-09-18	mapped
+K02183	KO	CALM	calmodulin	KEGG KO 2026-09-18	mapped
+K02259	KO	COX15, ctaA	heme a synthase [EC:1.17.99.9]	KEGG KO 2026-09-18	mapped
+K02520	KO	infC, MTIF3	translation initiation factor IF-3	KEGG KO 2026-09-18	mapped
+K02934	KO	RP-L6e, RPL6	large subunit ribosomal protein L6e	KEGG KO 2026-09-18	mapped
+K03094	KO	SKP1, CBF3D	S-phase kinase-associated protein 1	KEGG KO 2026-09-18	mapped
+K03102	KO	SQD	squid	KEGG KO 2026-09-18	mapped
+K03113	KO	EIF1, SUI1	translation initiation factor 1	KEGG KO 2026-09-18	mapped
+K03211	KO	ETV6_7, yan	ETS translocation variant 6/7	KEGG KO 2026-09-18	mapped
+K03243	KO	EIF5B	translation initiation factor 5B	KEGG KO 2026-09-18	mapped
+K03264	KO	EIF6	translation initiation factor 6	KEGG KO 2026-09-18	mapped
+K03283	KO	HSPA1_6_8	heat shock 70kDa protein 1/6/8	KEGG KO 2026-09-18	mapped
+K03317	KO	TC.CNT	concentrative nucleoside transporter, CNT family	KEGG KO 2026-09-18	mapped
+K03381	KO	catA	catechol 1,2-dioxygenase [EC:1.13.11.1]	KEGG KO 2026-09-18	mapped
+K03495	KO	gidA, mnmG, MTO1	tRNA uridine 5-carboxymethylaminomethyl modification enzyme	KEGG KO 2026-09-18	mapped
+K03514	KO	PAPD5_7, TRF4	non-canonical poly(A) RNA polymerase PAPD5/7 [EC:2.7.7.19]	KEGG KO 2026-09-18	mapped
+K03518	KO	coxS	aerobic carbon-monoxide dehydrogenase small subunit [EC:1.2.5.3]	KEGG KO 2026-09-18	mapped
+K03686	KO	dnaJ	molecular chaperone DnaJ	KEGG KO 2026-09-18	mapped
+K03781	KO	katE, CAT, catB, srpA	catalase [EC:1.11.1.6]	KEGG KO 2026-09-18	mapped
+K03791	KO	K03791	putative chitinase	KEGG KO 2026-09-18	mapped
+K03877	KO	B3GALT5	beta-1,3-galactosyltransferase 5 [EC:2.4.1.-]	KEGG KO 2026-09-18	mapped
+K03883	KO	ND5	NADH-ubiquinone oxidoreductase chain 5 [EC:7.1.1.2]	KEGG KO 2026-09-18	mapped
+K03910	KO	A2M	alpha-2-macroglobulin	KEGG KO 2026-09-18	mapped
+K03933	KO	cpbD	chitin-binding protein	KEGG KO 2026-09-18	mapped
+K03940	KO	NDUFS7	NADH dehydrogenase (ubiquinone) Fe-S protein 7 [EC:7.1.1.2]	KEGG KO 2026-09-18	mapped
+K03942	KO	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1 [EC:7.1.1.2]	KEGG KO 2026-09-18	mapped
+K03963	KO	NDUFB7	NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 7	KEGG KO 2026-09-18	mapped
+K04097	KO	HPGDS	prostaglandin-H2 D-isomerase / glutathione transferase [EC:5.3.99.2 2.5.1.18]	KEGG KO 2026-09-18	mapped
+K04130	KO	CHRM2	muscarinic acetylcholine receptor M2	KEGG KO 2026-09-18	mapped
+K04142	KO	ADRB2	adrenergic receptor beta-2	KEGG KO 2026-09-18	mapped
+K04144	KO	DRD1	dopamine receptor D1	KEGG KO 2026-09-18	mapped
+K04147	KO	DRD4	dopamine receptor D4	KEGG KO 2026-09-18	mapped
+K04160	KO	HTR4	5-hydroxytryptamine receptor 4	KEGG KO 2026-09-18	mapped
+K04204	KO	NPY1R	neuropeptide Y receptor type 1	KEGG KO 2026-09-18	mapped
+K04205	KO	NPY2R	neuropeptide Y receptor type 2	KEGG KO 2026-09-18	mapped
+K04206	KO	NPY4R	neuropeptide Y receptor type 4	KEGG KO 2026-09-18	mapped
+K04208	KO	NPY6R	neuropeptide Y receptor type 6	KEGG KO 2026-09-18	mapped
+K04209	KO	NPFR	neuropeptide F receptor	KEGG KO 2026-09-18	mapped
+K04230	KO	GALR1	galanin receptor 1	KEGG KO 2026-09-18	mapped
+K04251	KO	OPN1LW, OPN1MW	long/medium wavelength-sensitive opsin	KEGG KO 2026-09-18	mapped
+K04285	KO	MTNR1A	melatonin receptor type 1A	KEGG KO 2026-09-18	mapped
+K04286	KO	MTNR1B	melatonin receptor type 1B	KEGG KO 2026-09-18	mapped
+K04314	KO	PRLHR, GPR10	prolactin releasing hormone receptor	KEGG KO 2026-09-18	mapped
+K04349	KO	RASGRF1	Ras-specific guanine nucleotide-releasing factor 1	KEGG KO 2026-09-18	mapped
+K04357	KO	EGF	epidermal growth factor	KEGG KO 2026-09-18	mapped
+K04358	KO	FGF	fibroblast growth factor	KEGG KO 2026-09-18	mapped
+K04362	KO	FGFR1, CD331	fibroblast growth factor receptor 1 [EC:2.7.10.1]	KEGG KO 2026-09-18	mapped
+K04371	KO	ERK, MAPK1_3	mitogen-activated protein kinase 1/3 [EC:2.7.11.24]	KEGG KO 2026-09-18	mapped
+K04372	KO	MKNK, MNK	MAP kinase interacting serine/threonine kinase [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K04402	KO	GADD45	growth arrest and DNA-damage-inducible protein	KEGG KO 2026-09-18	mapped
+K04429	KO	TAO	thousand and one amino acid protein kinase [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K04430	KO	MAP2K4, MKK4	mitogen-activated protein kinase kinase 4 [EC:2.7.12.2]	KEGG KO 2026-09-18	mapped
+K04448	KO	JUN	transcription factor AP-1	KEGG KO 2026-09-18	mapped
+K04457	KO	PPM1A, PP2CA	protein phosphatase 1A [EC:3.1.3.16]	KEGG KO 2026-09-18	mapped
+K04461	KO	PPM1B, PP2CB	protein phosphatase 1B [EC:3.1.3.16]	KEGG KO 2026-09-18	mapped
+K04462	KO	MECOM, EVI1, PRDM3	[histone H3]-lysine9 N-methyltransferase (ecotropic virus integration site 1 protein) [EC:2.1.1.367]	KEGG KO 2026-09-18	mapped
+K04465	KO	NR4A1, HMR	nuclear receptor subfamily 4 group A member 1	KEGG KO 2026-09-18	mapped
+K04489	KO	CASP3A	caspase 3A [EC:3.4.22.-]	KEGG KO 2026-09-18	mapped
+K04494	KO	CHD8, HELSNF1	chromodomain helicase DNA binding protein 8 [EC:5.6.2.-]	KEGG KO 2026-09-18	mapped
+K04515	KO	CAMK2	calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17]	KEGG KO 2026-09-18	mapped
+K04547	KO	GNG13	guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13	KEGG KO 2026-09-18	mapped
+K04565	KO	SOD1	superoxide dismutase, Cu-Zn family [EC:1.15.1.1]	KEGG KO 2026-09-18	mapped
+K04605	KO	GRM2	metabotropic glutamate receptor 2	KEGG KO 2026-09-18	mapped
+K04608	KO	GRM6	metabotropic glutamate receptor 6	KEGG KO 2026-09-18	mapped
+K04611	KO	MXR	metabotropic X receptor	KEGG KO 2026-09-18	mapped
+K04632	KO	GNAS	guanine nucleotide-binding protein G(s) subunit alpha	KEGG KO 2026-09-18	mapped
+K04633	KO	GNAL	guanine nucleotide-binding protein G(olf) subunit alpha	KEGG KO 2026-09-18	mapped
+K04662	KO	BMP4	bone morphogenetic protein 4	KEGG KO 2026-09-18	mapped
+K04676	KO	SMAD1	mothers against decapentaplegic homolog 1	KEGG KO 2026-09-18	mapped
+K04678	KO	SMURF	E3 ubiquitin ligase SMURF1/2 [EC:2.3.2.26]	KEGG KO 2026-09-18	mapped
+K04711	KO	ACER3, YDC1	dihydroceramidase [EC:3.5.1.-]	KEGG KO 2026-09-18	mapped
+K04803	KO	CHRNA1	nicotinic acetylcholine receptor alpha-1	KEGG KO 2026-09-18	mapped
+K04819	KO	HTR3	5-hydroxytryptamine receptor 3	KEGG KO 2026-09-18	mapped
+K04936	KO	KCNMA1, KCA1.1	potassium large conductance calcium-activated channel subfamily M alpha member 1	KEGG KO 2026-09-18	mapped
+K04964	KO	TRPC1	transient receptor potential cation channel subfamily C member 1	KEGG KO 2026-09-18	mapped
+K04967	KO	TRPC4	transient receptor potential cation channel subfamily C member 4	KEGG KO 2026-09-18	mapped
+K04968	KO	TRPC5	transient receptor potential cation channel subfamily C member 5	KEGG KO 2026-09-18	mapped
+K04979	KO	TRPM4	transient receptor potential cation channel subfamily M member 4	KEGG KO 2026-09-18	mapped
+K04984	KO	TRPA1, ANKTM1	transient receptor potential cation channel subfamily A member 1	KEGG KO 2026-09-18	mapped
+K05032	KO	ABCC8, SUR1	ATP-binding cassette subfamily C (CFTR/MRP) member 8	KEGG KO 2026-09-18	mapped
+K05090	KO	CSF1R, FMS, CD115	macrophage colony-stimulating factor 1 receptor [EC:2.7.10.1]	KEGG KO 2026-09-18	mapped
+K05093	KO	FGFR2, CD332	fibroblast growth factor receptor 2 [EC:2.7.10.1]	KEGG KO 2026-09-18	mapped
+K05094	KO	FGFR3, CD333	fibroblast growth factor receptor 3 [EC:2.7.10.1]	KEGG KO 2026-09-18	mapped
+K05095	KO	FGFR4, CD334	fibroblast growth factor receptor 4 [EC:2.7.10.1]	KEGG KO 2026-09-18	mapped
+K05096	KO	FLT1, VEGFR1	FMS-like tyrosine kinase 1 [EC:2.7.10.1]	KEGG KO 2026-09-18	mapped
+K05097	KO	FLT4, VEGFR3	FMS-like tyrosine kinase 4 [EC:2.7.10.1]	KEGG KO 2026-09-18	mapped
+K05098	KO	KDR, VEGFR2, CD309	kinase insert domain protein receptor [EC:2.7.10.1]	KEGG KO 2026-09-18	mapped
+K05175	KO	GABRA	gamma-aminobutyric acid receptor subunit alpha	KEGG KO 2026-09-18	mapped
+K05181	KO	GABRB	gamma-aminobutyric acid receptor subunit beta	KEGG KO 2026-09-18	mapped
+K05184	KO	GABRD	gamma-aminobutyric acid receptor subunit delta	KEGG KO 2026-09-18	mapped
+K05193	KO	GLRA1	glycine receptor alpha-1	KEGG KO 2026-09-18	mapped
+K05194	KO	GLRA2	glycine receptor alpha-2	KEGG KO 2026-09-18	mapped
+K05195	KO	GLRA3	glycine receptor alpha-3	KEGG KO 2026-09-18	mapped
+K05242	KO	AVP	arginine vasopressin	KEGG KO 2026-09-18	mapped
+K05271	KO	GLRA4	glycine receptor alpha-4	KEGG KO 2026-09-18	mapped
+K05273	KO	GRGLCN	glutamate receptor, anionic	KEGG KO 2026-09-18	mapped
+K05349	KO	bglX	beta-glucosidase [EC:3.2.1.21]	KEGG KO 2026-09-18	mapped
+K05502	KO	BMP1, TLD	bone morphogenetic protein 1 [EC:3.4.24.19]	KEGG KO 2026-09-18	mapped
+K05612	KO	SLC1A1, EAAT3	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter), member 1	KEGG KO 2026-09-18	mapped
+K05613	KO	SLC1A2, EAAT2	solute carrier family 1 (glial high affinity glutamate transporter), member 2	KEGG KO 2026-09-18	mapped
+K05641	KO	ABCA1	ATP-binding cassette, subfamily A (ABC1), member 1	KEGG KO 2026-09-18	mapped
+K05643	KO	ABCA3	ATP-binding cassette, subfamily A (ABC1), member 3	KEGG KO 2026-09-18	mapped
+K05645	KO	ABCA7	ATP-binding cassette, subfamily A (ABC1), member 7	KEGG KO 2026-09-18	mapped
+K05665	KO	ABCC1	ATP-binding cassette, subfamily C (CFTR/MRP), member 1 [EC:7.6.2.3]	KEGG KO 2026-09-18	mapped
+K05666	KO	ABCC2	ATP-binding cassette, subfamily C (CFTR/MRP), member 2	KEGG KO 2026-09-18	mapped
+K05667	KO	ABCC3	ATP-binding cassette, subfamily C (CFTR/MRP), member 3	KEGG KO 2026-09-18	mapped
+K05674	KO	ABCC10	ATP-binding cassette, subfamily C (CFTR/MRP), member 10	KEGG KO 2026-09-18	mapped
+K05688	KO	PINK1	PTEN induced putative kinase 1 [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K05695	KO	PTPRF, LAR	receptor-type tyrosine-protein phosphatase F [EC:3.1.3.48]	KEGG KO 2026-09-18	mapped
+K05725	KO	PTK2, FAK	focal adhesion kinase 1 [EC:2.7.10.2]	KEGG KO 2026-09-18	mapped
+K05761	KO	VIL	villin	KEGG KO 2026-09-18	mapped
+K05768	KO	GSN	gelsolin	KEGG KO 2026-09-18	mapped
+K05850	KO	ATP2B	P-type Ca2+ transporter type 2B [EC:7.2.2.10]	KEGG KO 2026-09-18	mapped
+K05870	KO	CREB1	cyclic AMP-responsive element-binding protein 1	KEGG KO 2026-09-18	mapped
+K05871	KO	PTK2B, FAK2	focal adhesion kinase 2 [EC:2.7.10.2]	KEGG KO 2026-09-18	mapped
+K06100	KO	SYMPK	symplekin	KEGG KO 2026-09-18	mapped
+K06236	KO	COL1A	collagen type I alpha	KEGG KO 2026-09-18	mapped
+K06240	KO	LAMA3_5	laminin, alpha 3/5	KEGG KO 2026-09-18	mapped
+K06254	KO	AGRN	agrin	KEGG KO 2026-09-18	mapped
+K06271	KO	TLN	talin	KEGG KO 2026-09-18	mapped
+K06537	KO	CD151, TSPAN24	CD151 antigen	KEGG KO 2026-09-18	mapped
+K06642	KO	PRKDC	DNA-dependent protein kinase catalytic subunit [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K06643	KO	MDM2	E3 ubiquitin-protein ligase Mdm2 [EC:2.3.2.27]	KEGG KO 2026-09-18	mapped
+K06669	KO	SMC3, CSPG6	structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)	KEGG KO 2026-09-18	mapped
+K06674	KO	SMC2	structural maintenance of chromosome 2	KEGG KO 2026-09-18	mapped
+K06675	KO	SMC4	structural maintenance of chromosome 4	KEGG KO 2026-09-18	mapped
+K06765	KO	DCC	deleted in colorectal carcinoma	KEGG KO 2026-09-18	mapped
+K06766	KO	NEO1	neogenin	KEGG KO 2026-09-18	mapped
+K06777	KO	PTPRD	receptor-type tyrosine-protein phosphatase delta [EC:3.1.3.48]	KEGG KO 2026-09-18	mapped
+K06792	KO	AGC1, CSPG1	aggrecan 1	KEGG KO 2026-09-18	mapped
+K06793	KO	VCAN, CSPG2	versican core protein	KEGG KO 2026-09-18	mapped
+K06819	KO	NRP2	neuropilin 2	KEGG KO 2026-09-18	mapped
+K06827	KO	CTGF, CCN2, IGFBP8	connective tissue growth factor (insulin-like growth factor-binding protein 8)	KEGG KO 2026-09-18	mapped
+K06829	KO	CYR61, CCN1, IGFBP10	insulin-like growth factor-binding protein 10	KEGG KO 2026-09-18	mapped
+K07055	KO	TRM12, TYW2	tRNA wybutosine-synthesizing protein 2 [EC:2.5.1.114]	KEGG KO 2026-09-18	mapped
+K07205	KO	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1	KEGG KO 2026-09-18	mapped
+K07342	KO	SEC61G, SSS1, secE	protein transport protein SEC61 subunit gamma and related proteins	KEGG KO 2026-09-18	mapped
+K07371	KO	BLNK	B-cell linker protein	KEGG KO 2026-09-18	mapped
+K07378	KO	NLGN	neuroligin	KEGG KO 2026-09-18	mapped
+K07408	KO	CYP1A1	cytochrome P450 family 1 subfamily A1 [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K07409	KO	CYP1A2	cytochrome P450 family 1 subfamily A2 [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K07414	KO	CYP2D	cytochrome P450 family 2 subfamily D [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K07424	KO	CYP3A	cytochrome P450 family 3 subfamily A [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K07426	KO	CYP4B1	cytochrome P450 family 4 subfamily B1 [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K07535	KO	badH	2-hydroxycyclohexanecarboxyl-CoA dehydrogenase [EC:1.1.1.-]	KEGG KO 2026-09-18	mapped
+K07748	KO	NSDHL, ERG26	sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating) [EC:1.1.1.170]	KEGG KO 2026-09-18	mapped
+K07763	KO	MMP14	matrix metalloproteinase-14 (membrane-inserted) [EC:3.4.24.80]	KEGG KO 2026-09-18	mapped
+K07817	KO	PTPRN	receptor-type tyrosine-protein phosphatase N [EC:3.1.3.48]	KEGG KO 2026-09-18	mapped
+K07918	KO	RAB32	Ras-related protein Rab-32	KEGG KO 2026-09-18	mapped
+K07923	KO	RAB38	Ras-related protein Rab-38	KEGG KO 2026-09-18	mapped
+K07935	KO	IFT22, RABL5	intraflagellar transport protein 22	KEGG KO 2026-09-18	mapped
+K07994	KO	MMP13	matrix metalloproteinase-13 (collagenase 3) [EC:3.4.24.-]	KEGG KO 2026-09-18	mapped
+K07999	KO	MMP20	matrix metalloproteinase-20 (enamelysin) [EC:3.4.24.-]	KEGG KO 2026-09-18	mapped
+K08000	KO	MMP21	matrix metalloproteinase-21 [EC:3.4.24.-]	KEGG KO 2026-09-18	mapped
+K08017	KO	AVIL	advillin	KEGG KO 2026-09-18	mapped
+K08031	KO	PAX6	paired box protein 6	KEGG KO 2026-09-18	mapped
+K08033	KO	NEUROD1	neurogenic differentiation factor 1	KEGG KO 2026-09-18	mapped
+K08052	KO	NF1	neurofibromin 1	KEGG KO 2026-09-18	mapped
+K08076	KO	E3.4.24.21	astacin [EC:3.4.24.21]	KEGG KO 2026-09-18	mapped
+K08134	KO	P3H1	procollagen-proline 3-dioxygenase 1 [EC:1.14.11.7]	KEGG KO 2026-09-18	mapped
+K08143	KO	SLC2A5, GLUT5	MFS transporter, SP family, solute carrier family 2 (facilitated glucose/fructose transporter), member 5	KEGG KO 2026-09-18	mapped
+K08198	KO	SLC22A1, OCT1	MFS transporter, OCT family, solute carrier family 22 (organic cation transporter), member 1	KEGG KO 2026-09-18	mapped
+K08203	KO	SLC22A6, OAT1	MFS transporter, OCT family, solute carrier family 22 (organic anion transporter), member 6	KEGG KO 2026-09-18	mapped
+K08204	KO	SLC22A7, OAT2	MFS transporter, OCT family, solute carrier family 22 (organic anion transporter), member 7	KEGG KO 2026-09-18	mapped
+K08211	KO	SLC22A15	MFS transporter, OCT family, solute carrier family 22 (organic cation transporter), member 15	KEGG KO 2026-09-18	mapped
+K08237	KO	E2.4.1.218	hydroquinone glucosyltransferase [EC:2.4.1.218]	KEGG KO 2026-09-18	mapped
+K08252	KO	E2.7.10.1	receptor protein-tyrosine kinase [EC:2.7.10.1]	KEGG KO 2026-09-18	mapped
+K08409	KO	GPR45	G protein-coupled receptor 45	KEGG KO 2026-09-18	mapped
+K08471	KO	GR	gustatory receptor	KEGG KO 2026-09-18	mapped
+K08494	KO	NSPN	novel plant SNARE	KEGG KO 2026-09-18	mapped
+K08508	KO	SNAP23	synaptosomal-associated protein 23	KEGG KO 2026-09-18	mapped
+K08558	KO	NR4A2, NURR1	nuclear receptor subfamily 4 group A member 2	KEGG KO 2026-09-18	mapped
+K08606	KO	MEP1B	meprin B [EC:3.4.24.63]	KEGG KO 2026-09-18	mapped
+K08637	KO	CPA4	carboxypeptidase A4 [EC:3.4.17.-]	KEGG KO 2026-09-18	mapped
+K08664	KO	PRSS8	prostasin [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K08716	KO	SLC14A	solute carrier family 14 (urea transporter)	KEGG KO 2026-09-18	mapped
+K08738	KO	CYC	cytochrome c	KEGG KO 2026-09-18	mapped
+K08752	KO	FABP3	fatty acid-binding protein 3, muscle and heart	KEGG KO 2026-09-18	mapped
+K08756	KO	FABP7	fatty acid-binding protein 7, brain	KEGG KO 2026-09-18	mapped
+K08778	KO	ASTL	astacin-like metalloendopeptidase [EC:3.4.-.-]	KEGG KO 2026-09-18	mapped
+K08779	KO	CPA1	carboxypeptidase A1 [EC:3.4.17.1]	KEGG KO 2026-09-18	mapped
+K08780	KO	CPA3	carboxypeptidase A3 [EC:3.4.17.1]	KEGG KO 2026-09-18	mapped
+K08781	KO	CPA5	carboxypeptidase A5 [EC:3.4.17.1]	KEGG KO 2026-09-18	mapped
+K08810	KO	TRIO	triple functional domain protein [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K08811	KO	TSSK, STK22	testis-specific serine kinase [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K08885	KO	TNK1	non-receptor tyrosine-protein kinase TNK1 [EC:2.7.10.2]	KEGG KO 2026-09-18	mapped
+K08886	KO	TNK2, ACK1	activated CDC42 kinase 1 [EC:2.7.10.2 2.7.11.1]	KEGG KO 2026-09-18	mapped
+K09037	KO	MAFF_G_K	transcription factor MAFF/G/K	KEGG KO 2026-09-18	mapped
+K09050	KO			KEGG KO 2026-09-18	unmapped
+K09052	KO	CREM	cAMP response element modulator	KEGG KO 2026-09-18	mapped
+K09057	KO	HLF	hepatic leukemia factor	KEGG KO 2026-09-18	mapped
+K09059	KO	NFIL3, E4BP4	nuclear factor, interleukin 3 regulated	KEGG KO 2026-09-18	mapped
+K09062	KO	GT	protein giant	KEGG KO 2026-09-18	mapped
+K09078	KO	NEUROD2	neurogenic differentiation factor 2	KEGG KO 2026-09-18	mapped
+K09091	KO	HEY	hairy and enhancer of split related with YRPW motif	KEGG KO 2026-09-18	mapped
+K09103	KO	EBF, COE	early B-cell factor	KEGG KO 2026-09-18	mapped
+K09115	KO	MNT, ROX	MAX-binding protein	KEGG KO 2026-09-18	mapped
+K09203	KO	EGR1	early growth response protein 1	KEGG KO 2026-09-18	mapped
+K09267	KO	SOX1S	transcription factor SOX1/3/14/21 (SOX group B)	KEGG KO 2026-09-18	mapped
+K09275	KO	TFCP2	transcription factor CP2 and related proteins	KEGG KO 2026-09-18	mapped
+K09309	KO	NKX1	homeobox protein Nkx-1	KEGG KO 2026-09-18	mapped
+K09322	KO	MEOX, MOX	homeobox protein MOX	KEGG KO 2026-09-18	mapped
+K09351	KO	NKX6-3	homeobox protein Nkx-6.3	KEGG KO 2026-09-18	mapped
+K09353	KO	LBX	homeobox protein LBX	KEGG KO 2026-09-18	mapped
+K09368	KO	POU6F	POU domain transcription factor, class 6	KEGG KO 2026-09-18	mapped
+K09372	KO	LHX1	LIM homeobox protein 1	KEGG KO 2026-09-18	mapped
+K09383	KO	PAX5	paired box protein 5	KEGG KO 2026-09-18	mapped
+K09395	KO	FOXB	forkhead box protein B	KEGG KO 2026-09-18	mapped
+K09411	KO	FOXX	forkhead box protein, other	KEGG KO 2026-09-18	mapped
+K09428	KO	ELF1_2_4	E74-like factor 1/2/4	KEGG KO 2026-09-18	mapped
+K09490	KO	HSPA5, BIP	endoplasmic reticulum chaperone BiP [EC:5.6.1.10]	KEGG KO 2026-09-18	mapped
+K09522	KO	DNAJC2	DnaJ homolog subfamily C member 2	KEGG KO 2026-09-18	mapped
+K09542	KO	CRYAB	crystallin, alpha B	KEGG KO 2026-09-18	mapped
+K09543	KO	HSPB2	heat shock protein beta-2	KEGG KO 2026-09-18	mapped
+K09584	KO	PDIA6, TXNDC7	protein disulfide-isomerase A6 [EC:5.3.4.1]	KEGG KO 2026-09-18	mapped
+K09608	KO	TLL1	tolloid-like protein 1 [EC:3.4.24.-]	KEGG KO 2026-09-18	mapped
+K09614	KO	CORIN	atrial natriuretic peptide-converting enzyme [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09615	KO	TPSG1	tryptase gamma 1 [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09625	KO	PRSS21	testisin [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09626	KO	PRSS22, BSSP4	brain-specific serine protease 4 [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09628	KO	PRSS27	serine protease 27 [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09629	KO	PRSS33	serine protease 33 [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09630	KO	PRSS36	polyserase 2 [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09632	KO	CTRL	chymotrypsin-like protease [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09638	KO	TMPRSS7	transmembrane protease serine 7 [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09640	KO	TMPRSS9	transmembrane protease serine 9 [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09643	KO	TMPRSS13, TMPRSS11	transmembrane protease serine 13	KEGG KO 2026-09-18	mapped
+K09647	KO	IMP1	mitochondrial inner membrane protease subunit 1 [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K09871	KO	AQP12	aquaporin-12	KEGG KO 2026-09-18	mapped
+K09884	KO	AQPN	aquaporin rerated protein, invertebrate	KEGG KO 2026-09-18	mapped
+K10158	KO	B3GAT3	galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3 [EC:2.4.1.135]	KEGG KO 2026-09-18	mapped
+K10277	KO	KDM8, JMJD5	[protein]-arginine 3-hydroxylase / protease [EC:1.14.11.73 3.4.-.-]	KEGG KO 2026-09-18	mapped
+K10358	KO	MYO6	myosin VI	KEGG KO 2026-09-18	mapped
+K10368	KO	CAPG	macrophage-capping protein	KEGG KO 2026-09-18	mapped
+K10380	KO	ANK1	ankyrin-1	KEGG KO 2026-09-18	mapped
+K10382	KO	DST	dystonin	KEGG KO 2026-09-18	mapped
+K10388	KO	PLEC	plectin	KEGG KO 2026-09-18	mapped
+K10396	KO	KIF5	kinesin family member 5 (plus-end-directed kinesin ATPase) [EC:5.6.1.3]	KEGG KO 2026-09-18	mapped
+K10406	KO	KIFC2_3	kinesin family member C2/C3	KEGG KO 2026-09-18	mapped
+K10413	KO	DYNC1H	dynein cytoplasmic 1 heavy chain	KEGG KO 2026-09-18	mapped
+K10442	KO	KLHL1_4_5	kelch-like protein 1/4/5	KEGG KO 2026-09-18	mapped
+K10444	KO	KLHL6	kelch-like protein 6	KEGG KO 2026-09-18	mapped
+K10446	KO	KLHL8	kelch-like protein 8	KEGG KO 2026-09-18	mapped
+K10449	KO	KLHL11	kelch-like protein 11	KEGG KO 2026-09-18	mapped
+K10455	KO	KLHL18	kelch-like protein 18	KEGG KO 2026-09-18	mapped
+K10593	KO	EDD1, UBR5	E3 ubiquitin-protein ligase EDD1 [EC:2.3.2.26]	KEGG KO 2026-09-18	mapped
+K10691	KO	UBR4, ZUBR1	E3 ubiquitin-protein ligase UBR4 [EC:2.3.2.27]	KEGG KO 2026-09-18	mapped
+K10696	KO	BRE1	E3 ubiquitin-protein ligase BRE1 [EC:2.3.2.27]	KEGG KO 2026-09-18	mapped
+K10742	KO	DNA2	DNA replication ATP-dependent helicase/nuclease Dna2 [EC:5.6.2.3 3.1.-.-]	KEGG KO 2026-09-18	mapped
+K10747	KO	LIG1	DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	KEGG KO 2026-09-18	mapped
+K10798	KO	PARP3_4	protein mono-ADP-ribosyltransferase 3/4 [EC:2.4.2.-]	KEGG KO 2026-09-18	mapped
+K10803	KO	XRCC1	DNA-repair protein XRCC1	KEGG KO 2026-09-18	mapped
+K10866	KO	RAD50	DNA repair protein RAD50 [EC:3.6.-.-]	KEGG KO 2026-09-18	mapped
+K10875	KO	RAD54L, RAD54	DNA repair and recombination protein RAD54 and RAD54-like protein [EC:5.6.2.-]	KEGG KO 2026-09-18	mapped
+K10885	KO	XRCC5, KU80, G22P2	ATP-dependent DNA helicase 2 subunit 2	KEGG KO 2026-09-18	mapped
+K11262	KO	ACACA	acetyl-CoA carboxylase / biotin carboxylase 1 [EC:6.4.1.2 6.3.4.14 2.1.3.15]	KEGG KO 2026-09-18	mapped
+K11275	KO	H1_5	histone H1/5	KEGG KO 2026-09-18	mapped
+K11339	KO	MORF4L1, MRG15, EAF3	mortality factor 4-like protein 1	KEGG KO 2026-09-18	mapped
+K11423	KO	SETD2	[histone H3]-lysine36 N-trimethyltransferase [EC:2.1.1.359]	KEGG KO 2026-09-18	mapped
+K11450	KO	KDM1A, AOF2, LSD1	[histone H3]-N6,N6-dimethyl-L-lysine4 FAD-dependent demethylase [EC:1.14.99.66]	KEGG KO 2026-09-18	mapped
+K11487	KO	PCGF1, NSPC1	polycomb group RING finger protein 1	KEGG KO 2026-09-18	mapped
+K11838	KO	USP7, UBP15	ubiquitin carboxyl-terminal hydrolase 7 [EC:3.4.19.12]	KEGG KO 2026-09-18	mapped
+K11843	KO	USP14, UBP6	ubiquitin carboxyl-terminal hydrolase 14 [EC:3.4.19.12]	KEGG KO 2026-09-18	mapped
+K11994	KO	DNASE1	deoxyribonuclease-1 [EC:3.1.21.1]	KEGG KO 2026-09-18	mapped
+K11995	KO	DNASE1L	deoxyribonuclease-1-like protein [EC:3.1.21.-]	KEGG KO 2026-09-18	mapped
+K12040	KO	SLC9A3, NHE3	solute carrier family 9 (sodium/hydrogen exchanger), member 3	KEGG KO 2026-09-18	mapped
+K12114	KO	VRI	vrille	KEGG KO 2026-09-18	mapped
+K12132	KO	prkC, stkP	eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K12162	KO	UFM1	ubiquitin-fold modifier 1	KEGG KO 2026-09-18	mapped
+K12180	KO	COPS7, CSN7	COP9 signalosome complex subunit 7	KEGG KO 2026-09-18	mapped
+K12192	KO	CHMP2B	charged multivesicular body protein 2B	KEGG KO 2026-09-18	mapped
+K12201	KO	SLC2A7, GLUT7	MFS transporter, SP family, solute carrier family 2 (facilitated glucose/fructose transporter), member 7	KEGG KO 2026-09-18	mapped
+K12298	KO	CEL	bile salt-stimulated lipase [EC:3.1.1.3 3.1.1.13]	KEGG KO 2026-09-18	mapped
+K12323	KO	NPR1, ANPRA	atrial natriuretic peptide receptor 1 [EC:4.6.1.2]	KEGG KO 2026-09-18	mapped
+K12326	KO	RASGRF2	Ras-specific guanine nucleotide-releasing factor 2	KEGG KO 2026-09-18	mapped
+K12348	KO	ASAH1	acid ceramidase [EC:3.5.1.23]	KEGG KO 2026-09-18	mapped
+K12350	KO	SMPD1, ASM	sphingomyelin phosphodiesterase [EC:3.1.4.12]	KEGG KO 2026-09-18	mapped
+K12367	KO	DOCK2	dedicator of cytokinesis protein 2	KEGG KO 2026-09-18	mapped
+K12374	KO	ARSD_F_H	arylsulfatase D/F/H [EC:3.1.6.-]	KEGG KO 2026-09-18	mapped
+K12383	KO	GM2A	ganglioside GM2 activator	KEGG KO 2026-09-18	mapped
+K12478	KO	EEA1	early endosome antigen 1	KEGG KO 2026-09-18	mapped
+K12482	KO	RUFY1_2, RABIP4	RUN and FYVE domain-containing protein 1/2	KEGG KO 2026-09-18	mapped
+K12497	KO	EGR3	early growth response protein 3	KEGG KO 2026-09-18	mapped
+K12550	KO	LPO	lactoperoxidase [EC:1.11.1.7]	KEGG KO 2026-09-18	mapped
+K12571	KO	PAN2	PAB-dependent poly(A)-specific ribonuclease subunit 2 [EC:3.1.13.4]	KEGG KO 2026-09-18	mapped
+K12749	KO	MYL3	myosin light chain 3	KEGG KO 2026-09-18	mapped
+K12892	KO	SRSF3, SFRS3	serine/arginine-rich splicing factor 3	KEGG KO 2026-09-18	mapped
+K12930	KO	BZ1	anthocyanidin 3-O-glucosyltransferase [EC:2.4.1.115]	KEGG KO 2026-09-18	mapped
+K13046	KO	tok	tolkin [EC:3.4.24.-]	KEGG KO 2026-09-18	mapped
+K13047	KO	TLL2	tolloid-like protein 2 [EC:3.4.24.-]	KEGG KO 2026-09-18	mapped
+K13168	KO	CLASRP, SFRS16	CLK4-associating serine/arginine rich protein	KEGG KO 2026-09-18	mapped
+K13169	KO	AKAP17, SFRS17	A-kinase anchor protein 17	KEGG KO 2026-09-18	mapped
+K13269	KO	E2.4.1.234	kaempferol 3-O-beta-D-galactosyltransferase [EC:2.4.1.234]	KEGG KO 2026-09-18	mapped
+K13293	KO	PDE4	cAMP-specific phosphodiesterase 4 [EC:3.1.4.53]	KEGG KO 2026-09-18	mapped
+K13349	KO	MPV17L	Mpv17-like protein	KEGG KO 2026-09-18	mapped
+K13618	KO	PLA1A	phosphatidylserine sn-1 acylhydrolase [EC:3.1.1.111]	KEGG KO 2026-09-18	mapped
+K13691	KO	SGT1	pathogen-inducible salicylic acid glucosyltransferase [EC:2.4.1.-]	KEGG KO 2026-09-18	mapped
+K13706	KO	ABHD14	[protein]-L-lysine N-acetyltransferase [EC:2.3.1.338]	KEGG KO 2026-09-18	mapped
+K13803	KO	TRPL	transient-receptor-potential-like protein	KEGG KO 2026-09-18	mapped
+K13811	KO	PAPSS	3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25]	KEGG KO 2026-09-18	mapped
+K13907	KO	CSTA_B	cystatin-A/B	KEGG KO 2026-09-18	mapped
+K13963	KO	SERPINB	serpin B	KEGG KO 2026-09-18	mapped
+K14016	KO	UFD1	ubiquitin fusion degradation protein 1	KEGG KO 2026-09-18	mapped
+K14071	KO	LKR	leucokinin receptor	KEGG KO 2026-09-18	mapped
+K14072	KO	Rya-R, NEPYR	RYamide receptor	KEGG KO 2026-09-18	mapped
+K14073	KO	PNLIP, PL	pancreatic triacylglycerol lipase [EC:3.1.1.3]	KEGG KO 2026-09-18	mapped
+K14074	KO	PNLIPRP1, PLRP1	pancreatic lipase-related protein 1 [EC:3.1.1.3]	KEGG KO 2026-09-18	mapped
+K14075	KO	PNLIPRP2, PLRP2	pancreatic lipase-related protein 2 [EC:3.1.1.3]	KEGG KO 2026-09-18	mapped
+K14157	KO	AASS	alpha-aminoadipic semialdehyde synthase [EC:1.5.1.8 1.5.1.9]	KEGG KO 2026-09-18	mapped
+K14165	KO	K14165	atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]	KEGG KO 2026-09-18	mapped
+K14325	KO	RNPS1	RNA-binding protein with serine-rich domain 1	KEGG KO 2026-09-18	mapped
+K14381	KO	SQSTM1	sequestosome 1	KEGG KO 2026-09-18	mapped
+K14387	KO	SLC5A7, CHT1	solute carrier family 5 (high affinity choline transporter), member 7	KEGG KO 2026-09-18	mapped
+K14401	KO	CPSF1, CFT1	cleavage and polyadenylation specificity factor subunit 1	KEGG KO 2026-09-18	mapped
+K14411	KO	MSI	RNA-binding protein Musashi	KEGG KO 2026-09-18	mapped
+K14428	KO	SLC12A8, CCC9	solute carrier family 12 (potassium/chloride transporters), member 8	KEGG KO 2026-09-18	mapped
+K14437	KO	CHD7	chromodomain-helicase-DNA-binding protein 7 [EC:5.6.2.-]	KEGG KO 2026-09-18	mapped
+K14438	KO	CHD9	chromodomain-helicase-DNA-binding protein 9 [EC:5.6.2.-]	KEGG KO 2026-09-18	mapped
+K14445	KO	SLC13A2_3_5	solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2/3/5	KEGG KO 2026-09-18	mapped
+K14462	KO	APOB	apolipoprotein B	KEGG KO 2026-09-18	mapped
+K14525	KO	RPP25	ribonucleases P/MRP protein subunit RPP25 [EC:3.1.26.5]	KEGG KO 2026-09-18	mapped
+K14549	KO	UTP15	U3 small nucleolar RNA-associated protein 15	KEGG KO 2026-09-18	mapped
+K14554	KO	UTP21, WDR36	U3 small nucleolar RNA-associated protein 21	KEGG KO 2026-09-18	mapped
+K14559	KO	MPP10	U3 small nucleolar RNA-associated protein MPP10	KEGG KO 2026-09-18	mapped
+K14567	KO	UTP14	U3 small nucleolar RNA-associated protein 14	KEGG KO 2026-09-18	mapped
+K14613	KO	SLC46A1	MFS transporter, PCFT/HCP family, solute carrier family 46 (folate transporter), member 1	KEGG KO 2026-09-18	mapped
+K14683	KO	SLC34A, NPT, nptA	solute carrier family 34 (sodium-dependent phosphate cotransporter)	KEGG KO 2026-09-18	mapped
+K14711	KO	SLC39A5, ZIP5	solute carrier family 39 (zinc transporter), member 5	KEGG KO 2026-09-18	mapped
+K14716	KO	SLC39A10, ZIP10	solute carrier family 39 (zinc transporter), member 10	KEGG KO 2026-09-18	mapped
+K14722	KO	SLC9A2, NHE2	solute carrier family 9 (sodium/hydrogen exchanger), member 2	KEGG KO 2026-09-18	mapped
+K14786	KO	KRI1	protein KRI1	KEGG KO 2026-09-18	mapped
+K14792	KO	RRP5, PDCD11	rRNA biogenesis protein RRP5	KEGG KO 2026-09-18	mapped
+K14823	KO	EBP2, EBNA1BP2	rRNA-processing protein EBP2	KEGG KO 2026-09-18	mapped
+K14833	KO	NOC2	nucleolar complex protein 2	KEGG KO 2026-09-18	mapped
+K14850	KO	RRP8	ribosomal RNA-processing protein 8 [EC:2.1.1.287]	KEGG KO 2026-09-18	mapped
+K14851	KO	RRP17, NOL12	ribosomal RNA-processing protein 17	KEGG KO 2026-09-18	mapped
+K14937	KO	CYP15A1_C1	methyl farnesoate epoxidase / farnesoate epoxidase [EC:1.14.14.127 1.14.14.128]	KEGG KO 2026-09-18	mapped
+K14951	KO	ATP13A3_4_5	cation-transporting P-type ATPase 13A3/4/5 [EC:7.2.2.-]	KEGG KO 2026-09-18	mapped
+K14985	KO	CYP18A1	26-hydroxylase [EC:1.14.-.-]	KEGG KO 2026-09-18	mapped
+K14995	KO	SLC38A9	solute carrier family 38 (sodium-coupled neutral amino acid transporter), member 9	KEGG KO 2026-09-18	mapped
+K15048	KO	KALRN	kalirin [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K15101	KO	SLC25A2_15, ORNT	solute carrier family 25 (mitochondrial ornithine transporter) member 2/15	KEGG KO 2026-09-18	mapped
+K15109	KO	SLC25A20, CACT, CAC, CRC1	solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member 20	KEGG KO 2026-09-18	mapped
+K15271	KO	HFM1, MER3	ATP-dependent DNA helicase HFM1/MER3 [EC:5.6.2.4]	KEGG KO 2026-09-18	mapped
+K15290	KO	SYT1	synaptotagmin-1	KEGG KO 2026-09-18	mapped
+K15308	KO	TTP	tristetraprolin	KEGG KO 2026-09-18	mapped
+K15541	KO	MPE1	protein MPE1	KEGG KO 2026-09-18	mapped
+K15602	KO	PROM2	prominin 2	KEGG KO 2026-09-18	mapped
+K15692	KO	RNF13, RZF	E3 ubiquitin-protein ligase RNF13 [EC:2.3.2.27]	KEGG KO 2026-09-18	mapped
+K15716	KO	ZSWIM2	E3 ubiquitin-protein ligase ZSWIM2 [EC:2.3.2.27]	KEGG KO 2026-09-18	mapped
+K15890	KO	FOHSDR	NADP+-dependent farnesol dehydrogenase [EC:1.1.1.216]	KEGG KO 2026-09-18	mapped
+K15901	KO	TPRKB, CGI121	EKC/KEOPS complex subunit TPRKB/CGI121	KEGG KO 2026-09-18	mapped
+K16072	KO	ERC1, CAST2, ELKS	ELKS/RAB6-interacting/CAST family member 1	KEGG KO 2026-09-18	mapped
+K16261	KO	YAT	yeast amino acid transporter	KEGG KO 2026-09-18	mapped
+K16307	KO	CDC42BP	serine/threonine-protein kinase MRCK [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K16353	KO	SDK	protein sidekick	KEGG KO 2026-09-18	mapped
+K16449	KO	RGS	regulator of G-protein signaling	KEGG KO 2026-09-18	mapped
+K16462	KO	CEP164	centrosomal protein CEP164	KEGG KO 2026-09-18	mapped
+K16506	KO	FAT1_3	protocadherin Fat 1/3	KEGG KO 2026-09-18	mapped
+K16507	KO	DCHS1_2, PCDH16_23	protocadherin-16/23	KEGG KO 2026-09-18	mapped
+K16608	KO	TTLL3_8	tubulin monoglycylase TTLL3/8 [EC:6.3.2.-]	KEGG KO 2026-09-18	mapped
+K16630	KO	COL22A	collagen type XXII alpha	KEGG KO 2026-09-18	mapped
+K16669	KO	FAT4	protocadherin Fat 4	KEGG KO 2026-09-18	mapped
+K16679	KO	WGN	wengen	KEGG KO 2026-09-18	mapped
+K16733	KO	RACGAP1, Tum	Rac GTPase-activating protein 1	KEGG KO 2026-09-18	mapped
+K16790	KO	SMAD5	mothers against decapentaplegic homolog 5	KEGG KO 2026-09-18	mapped
+K16796	KO	SOX2	transcription factor SOX2 (SOX group B)	KEGG KO 2026-09-18	mapped
+K17089	KO	ANXA3	annexin A3	KEGG KO 2026-09-18	mapped
+K17233	KO	DUOXA1	dual oxidase maturation factor 1	KEGG KO 2026-09-18	mapped
+K17256	KO	IGFALS, ALS	insulin-like growth factor-binding protein complex acid labile subunit	KEGG KO 2026-09-18	mapped
+K17277	KO	EPS8	epidermal growth factor receptor kinase substrate 8	KEGG KO 2026-09-18	mapped
+K17280	KO	CHRDL2	chordin-like protein 2	KEGG KO 2026-09-18	mapped
+K17307	KO	FBLN1_2	fibulin 1/2	KEGG KO 2026-09-18	mapped
+K17349	KO	TSPAN8	tetraspanin-8	KEGG KO 2026-09-18	mapped
+K17478	KO	FKBP15, WAFL	FK506-binding protein 15	KEGG KO 2026-09-18	mapped
+K17535	KO	TNNI3K	serine/threonine-protein kinase TNNI3K [EC:2.7.11.1]	KEGG KO 2026-09-18	mapped
+K17572	KO	ARFGEF3, KEPI	brefeldin A-inhibited guanine nucleotide-exchange protein 3	KEGG KO 2026-09-18	mapped
+K17580	KO	CASC1	cancer susceptibility candidate protein 1	KEGG KO 2026-09-18	mapped
+K17680	KO	TWNK, PEO1	twinkle mtDNA helicase [EC:5.6.2.3]	KEGG KO 2026-09-18	mapped
+K17689	KO	CYP3A4	cytochrome P450 family 3 subfamily A4 [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-]	KEGG KO 2026-09-18	mapped
+K17690	KO	CYP3A5	cytochrome P450 family 3 subfamily A5 [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K17691	KO	CYP3A7	cytochrome P450 family 3 subfamily A7 [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K17692	KO	CYP3A43	cytochrome P450 family 3 subfamily A43 [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K17712	KO	CYP2D6	cytochrome P450 family 2 subfamily D6 [EC:1.14.14.1]	KEGG KO 2026-09-18	mapped
+K17726	KO	CYP4F2_3	phylloquinone omega-hydroxylase / docosahexaenoic acid omega-hydroxylase / leukotriene-B4 20-monooxygenase [EC:1.14.14.78 1.14.14.79 1.14.14.94]	KEGG KO 2026-09-18	mapped
+K17731	KO	CYP4F22	ultra-long-chain fatty acid omega-hydroxylase [EC:1.14.14.177]	KEGG KO 2026-09-18	mapped
+K17785	KO	IMMT, MIC60	MICOS complex subunit MIC60	KEGG KO 2026-09-18	mapped
+K17796	KO	TIM21	mitochondrial import inner membrane translocase subunit TIM21	KEGG KO 2026-09-18	mapped
+K17813	KO	CYP1D	cytochrome P450 family 1 subfamily D	KEGG KO 2026-09-18	mapped
+K17814	KO	CYP1	cytochrome P450 family 1, invertebrate	KEGG KO 2026-09-18	mapped
+K17858	KO			KEGG KO 2026-09-18	unmapped
+K17860	KO			KEGG KO 2026-09-18	unmapped
+K17868	KO	DPH7, RRT2	diphthine methyl ester acylhydrolase [EC:3.1.1.97]	KEGG KO 2026-09-18	mapped
+K17926	KO	SNX14	sorting nexin-14	KEGG KO 2026-09-18	mapped
+K17952	KO	CYP29A	cytochrome P450 family 29 subfamily A	KEGG KO 2026-09-18	mapped
+K18172	KO	CMC2	COX assembly mitochondrial protein 2	KEGG KO 2026-09-18	mapped
+K18186	KO	PET100	protein PET100, animal type	KEGG KO 2026-09-18	mapped
+K18211	KO	SNAP25	synaptosomal-associated protein 25	KEGG KO 2026-09-18	mapped
+K18402	KO	PHF20	PHD finger protein 20	KEGG KO 2026-09-18	mapped
+K18408	KO	TDRD9	ATP-dependent RNA helicase TDRD9 [EC:5.6.2.5]	KEGG KO 2026-09-18	mapped
+K18436	KO	PDE7	high affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7 [EC:3.1.4.53]	KEGG KO 2026-09-18	mapped
+K18493	KO	LHX5	LIM homeobox protein 5	KEGG KO 2026-09-18	mapped
+K18542	KO	LCE	choriolysin L [EC:3.4.24.66]	KEGG KO 2026-09-18	mapped
+K18543	KO	HCE	choriolysin H [EC:3.4.24.67]	KEGG KO 2026-09-18	mapped
+K18597	KO	EML5	echinoderm microtubule-associated protein-like 5	KEGG KO 2026-09-18	mapped
+K18598	KO	EML6	echinoderm microtubule-associated protein-like 6	KEGG KO 2026-09-18	mapped
+K18644	KO	EIF4EBP2	eukaryotic translation initiation factor 4E binding protein 2	KEGG KO 2026-09-18	mapped
+K18645	KO	EIF4EBP3	eukaryotic translation initiation factor 4E binding protein 3	KEGG KO 2026-09-18	mapped
+K18740	KO	EXD1, EGL	exonuclease 3'-5' domain-containing protein 1	KEGG KO 2026-09-18	mapped
+K18753	KO	ZFP36L	butyrate response factor	KEGG KO 2026-09-18	mapped
+K18826	KO	CAMKMT	calmodulin-lysine N-methyltransferase [EC:2.1.1.60]	KEGG KO 2026-09-18	mapped
+K19013	KO	STAB2, HARE	stabilin-2	KEGG KO 2026-09-18	mapped
+K19020	KO	STAB1	stabilin-1	KEGG KO 2026-09-18	mapped
+K19326	KO	SYNE1	nesprin-1	KEGG KO 2026-09-18	mapped
+K19362	KO	TMEM231	transmembrane protein 231	KEGG KO 2026-09-18	mapped
+K19511	KO	PXDN, VPO1	peroxidase [EC:1.11.1.7]	KEGG KO 2026-09-18	mapped
+K19584	KO	PRKX	protein kinase X [EC:2.7.11.11]	KEGG KO 2026-09-18	mapped
+K19606	KO	CRTAP	cartilage-associated protein	KEGG KO 2026-09-18	mapped
+K19720	KO	COL3A	collagen type III alpha	KEGG KO 2026-09-18	mapped
+K19827	KO	MACF1	microtuble-actin crosslinking factor 1	KEGG KO 2026-09-18	mapped
+K19828	KO	MTG1	mitochondrial GTPase 1	KEGG KO 2026-09-18	mapped
+K19871	KO	SALL	sal-like protein	KEGG KO 2026-09-18	mapped
+K19872	KO	FKTN	fukutin [EC:2.7.8.-]	KEGG KO 2026-09-18	mapped
+K19878	KO	ERC2, CAST	ELKS/RAB6-interacting/CAST family member 2	KEGG KO 2026-09-18	mapped
+K19895	KO	GFRA	GDNF family receptor alpha	KEGG KO 2026-09-18	mapped
+K19899	KO	GP2	pancreatic secretory granule membrane major glycoprotein GP2	KEGG KO 2026-09-18	mapped
+K19919	KO	CRISP1_2_3	cysteine-rich secretory protein 1/2/3	KEGG KO 2026-09-18	mapped
+K19941	KO	SYN	synapsin	KEGG KO 2026-09-18	mapped
+K20008	KO	DCP1	death caspase-1 [EC:3.4.22.-]	KEGG KO 2026-09-18	mapped
+K20067	KO	STON	stonin	KEGG KO 2026-09-18	mapped
+K20111	KO	OVCH2	oviductin [EC:3.4.21.120]	KEGG KO 2026-09-18	mapped
+K20285	KO	RABEPK	Rab9 effector protein with kelch motifs	KEGG KO 2026-09-18	mapped
+K20286	KO	TMF1	TATA element modulatory factor	KEGG KO 2026-09-18	mapped
+K20526	KO	TAGLN	transgelin	KEGG KO 2026-09-18	mapped
+K20628	KO	exlX	expansin	KEGG KO 2026-09-18	mapped
+K20645	KO	ARHGAP30	Rho GTPase-activating protein 30	KEGG KO 2026-09-18	mapped
+K20671	KO	PSH	serine protease persephone [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K20672	KO	SPE	spatzle-processing enzyme [EC:3.4.21.-]	KEGG KO 2026-09-18	mapped
+K20675	KO	SPIRIT	serine protease immune response integrator	KEGG KO 2026-09-18	mapped
+K20723	KO	RTN3	reticulon-3	KEGG KO 2026-09-18	mapped
+K20751	KO	E3.4.21.99	spermosin [EC:3.4.21.99]	KEGG KO 2026-09-18	mapped
+K20840	KO	SLC46A3	MFS transporter, PCFT/HCP family, solute carrier family 46, member 3	KEGG KO 2026-09-18	mapped
+K21283	KO	BMP2	bone morphogenetic protein 2	KEGG KO 2026-09-18	mapped
+K21374	KO	UGT85A23_24	7-deoxyloganetin glucosyltransferase [EC:2.4.1.324]	KEGG KO 2026-09-18	mapped
+K21396	KO	WHT	ATP-binding cassette, subfamily G (WHITE), eye pigment precursor transporter	KEGG KO 2026-09-18	mapped
+K21411	KO	ANKLE1, LEM3	ankyrin repeat and LEM domain-containing protein 1	KEGG KO 2026-09-18	mapped
+K21414	KO	ANKS4B, HARP	ankyrin repeat and SAM domain-containing protein 4B	KEGG KO 2026-09-18	mapped
+K21598	KO	GCM	chorion-specific transcription factor GCM	KEGG KO 2026-09-18	mapped
+K21847	KO	SGSM1, RUTBC2	small G protein signaling modulator 1	KEGG KO 2026-09-18	mapped
+K21851	KO	SGSM2, RUTBC1	small G protein signaling modulator 2	KEGG KO 2026-09-18	mapped
+K21852	KO	DOCK6_7_8	dedicator of cytokinesis protein 6/7/8	KEGG KO 2026-09-18	mapped
+K21878	KO	USH1G	Usher syndrome type-1G protein	KEGG KO 2026-09-18	mapped
+K21893	KO	NGB	neuroglobin	KEGG KO 2026-09-18	mapped
+K21912	KO	KBTBD12	kelch repeat and BTB domain-containing protein 12	KEGG KO 2026-09-18	mapped
+K22078	KO	PGGHG, ATHL1	protein-glucosylgalactosylhydroxylysine glucosidase [EC:3.2.1.107]	KEGG KO 2026-09-18	mapped
+K22197	KO	BAF45A, PHF10	BRG1-associated factor 45A	KEGG KO 2026-09-18	mapped
+K22312	KO	ST2A, SOT15	hydroxyjasmonate sulfotransferase [EC:2.8.2.39]	KEGG KO 2026-09-18	mapped
+K22410	KO	PRDM16	[histone H3]-lysine9 N-methyltransferase [EC:2.1.1.367]	KEGG KO 2026-09-18	mapped
+K22459	KO	P3H2	procollagen-proline 3-dioxygenase 2 [EC:1.14.11.7]	KEGG KO 2026-09-18	mapped
+K22460	KO	P3H3	procollagen-proline 3-dioxygenase 3 [EC:1.14.11.7]	KEGG KO 2026-09-18	mapped
+K22471	KO	CCN4, WISP1	CCN family member 4	KEGG KO 2026-09-18	mapped
+K22503	KO	DARS1	aspartyl-tRNA synthetase [EC:6.1.1.12]	KEGG KO 2026-09-18	mapped
+ko00010	PATHWAY	Glycolysis / Gluconeogenesis		KEGG PATHWAY 2026-09-17	mapped
+ko00020	PATHWAY	Citrate cycle (TCA cycle)		KEGG PATHWAY 2026-09-17	mapped
+ko00140	PATHWAY	Steroid hormone biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+ko00190	PATHWAY	Oxidative phosphorylation		KEGG PATHWAY 2026-09-17	mapped
+ko00230	PATHWAY	Purine metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00250	PATHWAY	Alanine, aspartate and glutamate metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00260	PATHWAY	Glycine, serine and threonine metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00280	PATHWAY	Valine, leucine and isoleucine degradation		KEGG PATHWAY 2026-09-17	mapped
+ko00330	PATHWAY	Arginine and proline metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00350	PATHWAY	Tyrosine metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00380	PATHWAY	Tryptophan metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00480	PATHWAY	Glutathione metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00515	PATHWAY	Mannose type O-glycan biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+ko00590	PATHWAY	Arachidonic acid metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00591	PATHWAY	Linoleic acid metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00640	PATHWAY	Propanoate metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00680	PATHWAY	Methane metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00710	PATHWAY	Carbon fixation by Calvin cycle		KEGG PATHWAY 2026-09-17	mapped
+ko00720	PATHWAY	Other carbon fixation pathways		KEGG PATHWAY 2026-09-17	mapped
+ko00790	PATHWAY	Folate biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+ko00791	PATHWAY	Atrazine degradation		KEGG PATHWAY 2026-09-17	mapped
+ko00830	PATHWAY	Retinol metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00900	PATHWAY	Terpenoid backbone biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+ko00910	PATHWAY	Nitrogen metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko00970	PATHWAY	Aminoacyl-tRNA biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+ko00980	PATHWAY	Metabolism of xenobiotics by cytochrome P450		KEGG PATHWAY 2026-09-17	mapped
+ko00981	PATHWAY	Insect hormone biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+ko00982	PATHWAY	Drug metabolism - cytochrome P450		KEGG PATHWAY 2026-09-17	mapped
+ko00983	PATHWAY	Drug metabolism - other enzymes		KEGG PATHWAY 2026-09-17	mapped
+ko01100	PATHWAY	Metabolic pathways		KEGG PATHWAY 2026-09-17	mapped
+ko01110	PATHWAY	Biosynthesis of secondary metabolites		KEGG PATHWAY 2026-09-17	mapped
+ko01120	PATHWAY	Microbial metabolism in diverse environments		KEGG PATHWAY 2026-09-17	mapped
+ko01130	PATHWAY			KEGG PATHWAY 2026-09-17	unmapped
+ko01200	PATHWAY	Carbon metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko01230	PATHWAY	Biosynthesis of amino acids		KEGG PATHWAY 2026-09-17	mapped
+ko01521	PATHWAY	EGFR tyrosine kinase inhibitor resistance		KEGG PATHWAY 2026-09-17	mapped
+ko01522	PATHWAY	Endocrine resistance		KEGG PATHWAY 2026-09-17	mapped
+ko01523	PATHWAY	Antifolate resistance		KEGG PATHWAY 2026-09-17	mapped
+ko01524	PATHWAY	Platinum drug resistance		KEGG PATHWAY 2026-09-17	mapped
+ko02010	PATHWAY	ABC transporters		KEGG PATHWAY 2026-09-17	mapped
+ko03010	PATHWAY	Ribosome		KEGG PATHWAY 2026-09-17	mapped
+ko03013	PATHWAY	Nucleocytoplasmic transport		KEGG PATHWAY 2026-09-17	mapped
+ko03015	PATHWAY	mRNA surveillance pathway		KEGG PATHWAY 2026-09-17	mapped
+ko03018	PATHWAY	RNA degradation		KEGG PATHWAY 2026-09-17	mapped
+ko03030	PATHWAY	DNA replication		KEGG PATHWAY 2026-09-17	mapped
+ko03040	PATHWAY	Spliceosome		KEGG PATHWAY 2026-09-17	mapped
+ko03050	PATHWAY	Proteasome		KEGG PATHWAY 2026-09-17	mapped
+ko03410	PATHWAY	Base excision repair		KEGG PATHWAY 2026-09-17	mapped
+ko03420	PATHWAY	Nucleotide excision repair		KEGG PATHWAY 2026-09-17	mapped
+ko03460	PATHWAY	Fanconi anemia pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04010	PATHWAY	MAPK signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04013	PATHWAY	MAPK signaling pathway - fly		KEGG PATHWAY 2026-09-17	mapped
+ko04014	PATHWAY	Ras signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04015	PATHWAY	Rap1 signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04022	PATHWAY	cGMP-PKG signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04071	PATHWAY	Sphingolipid signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04080	PATHWAY	Neuroactive ligand-receptor interaction		KEGG PATHWAY 2026-09-17	mapped
+ko04110	PATHWAY	Cell cycle		KEGG PATHWAY 2026-09-17	mapped
+ko04111	PATHWAY	Cell cycle - yeast		KEGG PATHWAY 2026-09-17	mapped
+ko04113	PATHWAY	Meiosis - yeast		KEGG PATHWAY 2026-09-17	mapped
+ko04114	PATHWAY	Oocyte meiosis		KEGG PATHWAY 2026-09-17	mapped
+ko04136	PATHWAY	Autophagy - other		KEGG PATHWAY 2026-09-17	mapped
+ko04137	PATHWAY	Mitophagy - animal		KEGG PATHWAY 2026-09-17	mapped
+ko04138	PATHWAY	Autophagy - yeast		KEGG PATHWAY 2026-09-17	mapped
+ko04140	PATHWAY	Autophagy - animal		KEGG PATHWAY 2026-09-17	mapped
+ko04141	PATHWAY	Protein processing in endoplasmic reticulum		KEGG PATHWAY 2026-09-17	mapped
+ko04142	PATHWAY	Lysosome biogenesis		KEGG PATHWAY 2026-09-17	mapped
+ko04144	PATHWAY	Endocytosis		KEGG PATHWAY 2026-09-17	mapped
+ko04146	PATHWAY	Peroxisome		KEGG PATHWAY 2026-09-17	mapped
+ko04151	PATHWAY	PI3K-Akt signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04213	PATHWAY	Longevity regulating pathway - multiple species		KEGG PATHWAY 2026-09-17	mapped
+ko04214	PATHWAY	Apoptosis - fly		KEGG PATHWAY 2026-09-17	mapped
+ko04217	PATHWAY	Necroptosis		KEGG PATHWAY 2026-09-17	mapped
+ko04260	PATHWAY	Cardiac muscle contraction		KEGG PATHWAY 2026-09-17	mapped
+ko04270	PATHWAY	Vascular smooth muscle contraction		KEGG PATHWAY 2026-09-17	mapped
+ko04320	PATHWAY	Dorso-ventral axis formation		KEGG PATHWAY 2026-09-17	mapped
+ko04370	PATHWAY	VEGF signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04380	PATHWAY	Osteoclast differentiation		KEGG PATHWAY 2026-09-17	mapped
+ko04391	PATHWAY	Hippo signaling pathway - fly		KEGG PATHWAY 2026-09-17	mapped
+ko04510	PATHWAY	Focal adhesion		KEGG PATHWAY 2026-09-17	mapped
+ko04512	PATHWAY	ECM-receptor interaction		KEGG PATHWAY 2026-09-17	mapped
+ko04514	PATHWAY	Cell adhesion molecule (CAM) interaction		KEGG PATHWAY 2026-09-17	mapped
+ko04550	PATHWAY	Signaling pathways regulating pluripotency of stem cells		KEGG PATHWAY 2026-09-17	mapped
+ko04610	PATHWAY	Complement and coagulation cascades		KEGG PATHWAY 2026-09-17	mapped
+ko04612	PATHWAY	Antigen processing and presentation		KEGG PATHWAY 2026-09-17	mapped
+ko04624	PATHWAY	Toll and Imd signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04630	PATHWAY	JAK-STAT signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04657	PATHWAY	IL-17 signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04668	PATHWAY	TNF signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04711	PATHWAY	Circadian rhythm - fly		KEGG PATHWAY 2026-09-17	mapped
+ko04723	PATHWAY	Retrograde endocannabinoid signaling		KEGG PATHWAY 2026-09-17	mapped
+ko04915	PATHWAY	Estrogen signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04919	PATHWAY	Thyroid hormone signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04921	PATHWAY	Oxytocin signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04923	PATHWAY	Regulation of lipolysis in adipocytes		KEGG PATHWAY 2026-09-17	mapped
+ko04924	PATHWAY	Renin secretion		KEGG PATHWAY 2026-09-17	mapped
+ko04925	PATHWAY	Aldosterone synthesis and secretion		KEGG PATHWAY 2026-09-17	mapped
+ko04926	PATHWAY	Relaxin signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+ko04930	PATHWAY	Type II diabetes mellitus		KEGG PATHWAY 2026-09-17	mapped
+ko04931	PATHWAY	Insulin resistance		KEGG PATHWAY 2026-09-17	mapped
+ko04932	PATHWAY	Non-alcoholic fatty liver disease		KEGG PATHWAY 2026-09-17	mapped
+ko04974	PATHWAY	Protein digestion and absorption		KEGG PATHWAY 2026-09-17	mapped
+ko04976	PATHWAY	Bile secretion		KEGG PATHWAY 2026-09-17	mapped
+ko04977	PATHWAY	Vitamin digestion and absorption		KEGG PATHWAY 2026-09-17	mapped
+ko04979	PATHWAY	Cholesterol metabolism		KEGG PATHWAY 2026-09-17	mapped
+ko05010	PATHWAY	Alzheimer disease		KEGG PATHWAY 2026-09-17	mapped
+ko05012	PATHWAY	Parkinson disease		KEGG PATHWAY 2026-09-17	mapped
+ko05016	PATHWAY	Huntington disease		KEGG PATHWAY 2026-09-17	mapped
+ko05020	PATHWAY	Prion disease		KEGG PATHWAY 2026-09-17	mapped
+ko05030	PATHWAY	Cocaine addiction		KEGG PATHWAY 2026-09-17	mapped
+ko05110	PATHWAY	Vibrio cholerae infection		KEGG PATHWAY 2026-09-17	mapped
+ko05150	PATHWAY	Staphylococcus aureus infection		KEGG PATHWAY 2026-09-17	mapped
+ko05165	PATHWAY	Human papillomavirus infection		KEGG PATHWAY 2026-09-17	mapped
+ko05166	PATHWAY	Human T-cell leukemia virus 1 infection		KEGG PATHWAY 2026-09-17	mapped
+ko05168	PATHWAY	Herpes simplex virus 1 infection		KEGG PATHWAY 2026-09-17	mapped
+ko05169	PATHWAY	Epstein-Barr virus infection		KEGG PATHWAY 2026-09-17	mapped
+ko05200	PATHWAY	Pathways in cancer		KEGG PATHWAY 2026-09-17	mapped
+ko05204	PATHWAY	Chemical carcinogenesis - DNA adducts		KEGG PATHWAY 2026-09-17	mapped
+ko05206	PATHWAY	MicroRNAs in cancer		KEGG PATHWAY 2026-09-17	mapped
+ko05210	PATHWAY	Colorectal cancer		KEGG PATHWAY 2026-09-17	mapped
+ko05213	PATHWAY	Endometrial cancer		KEGG PATHWAY 2026-09-17	mapped
+ko05215	PATHWAY	Prostate cancer		KEGG PATHWAY 2026-09-17	mapped
+ko05218	PATHWAY	Melanoma		KEGG PATHWAY 2026-09-17	mapped
+ko05222	PATHWAY	Small cell lung cancer		KEGG PATHWAY 2026-09-17	mapped
+ko05224	PATHWAY	Breast cancer		KEGG PATHWAY 2026-09-17	mapped
+ko05226	PATHWAY	Gastric cancer		KEGG PATHWAY 2026-09-17	mapped
+ko05321	PATHWAY	Inflammatory bowel disease		KEGG PATHWAY 2026-09-17	mapped
+ko05323	PATHWAY	Rheumatoid arthritis		KEGG PATHWAY 2026-09-17	mapped
+ko05410	PATHWAY	Hypertrophic cardiomyopathy		KEGG PATHWAY 2026-09-17	mapped
+ko05418	PATHWAY	Fluid shear stress and atherosclerosis		KEGG PATHWAY 2026-09-17	mapped
+map00010	PATHWAY	Glycolysis / Gluconeogenesis		KEGG PATHWAY 2026-09-17	mapped
+map00020	PATHWAY	Citrate cycle (TCA cycle)		KEGG PATHWAY 2026-09-17	mapped
+map00140	PATHWAY	Steroid hormone biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+map00190	PATHWAY	Oxidative phosphorylation		KEGG PATHWAY 2026-09-17	mapped
+map00230	PATHWAY	Purine metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00250	PATHWAY	Alanine, aspartate and glutamate metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00260	PATHWAY	Glycine, serine and threonine metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00280	PATHWAY	Valine, leucine and isoleucine degradation		KEGG PATHWAY 2026-09-17	mapped
+map00330	PATHWAY	Arginine and proline metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00350	PATHWAY	Tyrosine metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00380	PATHWAY	Tryptophan metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00480	PATHWAY	Glutathione metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00515	PATHWAY	Mannose type O-glycan biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+map00590	PATHWAY	Arachidonic acid metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00591	PATHWAY	Linoleic acid metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00640	PATHWAY	Propanoate metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00680	PATHWAY	Methane metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00710	PATHWAY	Carbon fixation by Calvin cycle		KEGG PATHWAY 2026-09-17	mapped
+map00720	PATHWAY	Other carbon fixation pathways		KEGG PATHWAY 2026-09-17	mapped
+map00790	PATHWAY	Folate biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+map00791	PATHWAY	Atrazine degradation		KEGG PATHWAY 2026-09-17	mapped
+map00830	PATHWAY	Retinol metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00900	PATHWAY	Terpenoid backbone biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+map00910	PATHWAY	Nitrogen metabolism		KEGG PATHWAY 2026-09-17	mapped
+map00970	PATHWAY	Aminoacyl-tRNA biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+map00980	PATHWAY	Metabolism of xenobiotics by cytochrome P450		KEGG PATHWAY 2026-09-17	mapped
+map00981	PATHWAY	Insect hormone biosynthesis		KEGG PATHWAY 2026-09-17	mapped
+map00982	PATHWAY	Drug metabolism - cytochrome P450		KEGG PATHWAY 2026-09-17	mapped
+map00983	PATHWAY	Drug metabolism - other enzymes		KEGG PATHWAY 2026-09-17	mapped
+map01100	PATHWAY	Metabolic pathways		KEGG PATHWAY 2026-09-17	mapped
+map01110	PATHWAY	Biosynthesis of secondary metabolites		KEGG PATHWAY 2026-09-17	mapped
+map01120	PATHWAY	Microbial metabolism in diverse environments		KEGG PATHWAY 2026-09-17	mapped
+map01130	PATHWAY			KEGG PATHWAY 2026-09-17	unmapped
+map01200	PATHWAY	Carbon metabolism		KEGG PATHWAY 2026-09-17	mapped
+map01230	PATHWAY	Biosynthesis of amino acids		KEGG PATHWAY 2026-09-17	mapped
+map01521	PATHWAY	EGFR tyrosine kinase inhibitor resistance		KEGG PATHWAY 2026-09-17	mapped
+map01522	PATHWAY	Endocrine resistance		KEGG PATHWAY 2026-09-17	mapped
+map01523	PATHWAY	Antifolate resistance		KEGG PATHWAY 2026-09-17	mapped
+map01524	PATHWAY	Platinum drug resistance		KEGG PATHWAY 2026-09-17	mapped
+map02010	PATHWAY	ABC transporters		KEGG PATHWAY 2026-09-17	mapped
+map03010	PATHWAY	Ribosome		KEGG PATHWAY 2026-09-17	mapped
+map03013	PATHWAY	Nucleocytoplasmic transport		KEGG PATHWAY 2026-09-17	mapped
+map03015	PATHWAY	mRNA surveillance pathway		KEGG PATHWAY 2026-09-17	mapped
+map03018	PATHWAY	RNA degradation		KEGG PATHWAY 2026-09-17	mapped
+map03030	PATHWAY	DNA replication		KEGG PATHWAY 2026-09-17	mapped
+map03040	PATHWAY	Spliceosome		KEGG PATHWAY 2026-09-17	mapped
+map03050	PATHWAY	Proteasome		KEGG PATHWAY 2026-09-17	mapped
+map03410	PATHWAY	Base excision repair		KEGG PATHWAY 2026-09-17	mapped
+map03420	PATHWAY	Nucleotide excision repair		KEGG PATHWAY 2026-09-17	mapped
+map03460	PATHWAY	Fanconi anemia pathway		KEGG PATHWAY 2026-09-17	mapped
+map04010	PATHWAY	MAPK signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04013	PATHWAY	MAPK signaling pathway - fly		KEGG PATHWAY 2026-09-17	mapped
+map04014	PATHWAY	Ras signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04015	PATHWAY	Rap1 signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04022	PATHWAY	cGMP-PKG signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04071	PATHWAY	Sphingolipid signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04080	PATHWAY	Neuroactive ligand-receptor interaction		KEGG PATHWAY 2026-09-17	mapped
+map04110	PATHWAY	Cell cycle		KEGG PATHWAY 2026-09-17	mapped
+map04111	PATHWAY	Cell cycle - yeast		KEGG PATHWAY 2026-09-17	mapped
+map04113	PATHWAY	Meiosis - yeast		KEGG PATHWAY 2026-09-17	mapped
+map04114	PATHWAY	Oocyte meiosis		KEGG PATHWAY 2026-09-17	mapped
+map04136	PATHWAY	Autophagy - other		KEGG PATHWAY 2026-09-17	mapped
+map04137	PATHWAY	Mitophagy - animal		KEGG PATHWAY 2026-09-17	mapped
+map04138	PATHWAY	Autophagy - yeast		KEGG PATHWAY 2026-09-17	mapped
+map04140	PATHWAY	Autophagy - animal		KEGG PATHWAY 2026-09-17	mapped
+map04141	PATHWAY	Protein processing in endoplasmic reticulum		KEGG PATHWAY 2026-09-17	mapped
+map04142	PATHWAY	Lysosome biogenesis		KEGG PATHWAY 2026-09-17	mapped
+map04144	PATHWAY	Endocytosis		KEGG PATHWAY 2026-09-17	mapped
+map04146	PATHWAY	Peroxisome		KEGG PATHWAY 2026-09-17	mapped
+map04151	PATHWAY	PI3K-Akt signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04213	PATHWAY	Longevity regulating pathway - multiple species		KEGG PATHWAY 2026-09-17	mapped
+map04214	PATHWAY	Apoptosis - fly		KEGG PATHWAY 2026-09-17	mapped
+map04217	PATHWAY	Necroptosis		KEGG PATHWAY 2026-09-17	mapped
+map04260	PATHWAY	Cardiac muscle contraction		KEGG PATHWAY 2026-09-17	mapped
+map04270	PATHWAY	Vascular smooth muscle contraction		KEGG PATHWAY 2026-09-17	mapped
+map04320	PATHWAY	Dorso-ventral axis formation		KEGG PATHWAY 2026-09-17	mapped
+map04370	PATHWAY	VEGF signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04380	PATHWAY	Osteoclast differentiation		KEGG PATHWAY 2026-09-17	mapped
+map04391	PATHWAY	Hippo signaling pathway - fly		KEGG PATHWAY 2026-09-17	mapped
+map04510	PATHWAY	Focal adhesion		KEGG PATHWAY 2026-09-17	mapped
+map04512	PATHWAY	ECM-receptor interaction		KEGG PATHWAY 2026-09-17	mapped
+map04514	PATHWAY	Cell adhesion molecule (CAM) interaction		KEGG PATHWAY 2026-09-17	mapped
+map04550	PATHWAY	Signaling pathways regulating pluripotency of stem cells		KEGG PATHWAY 2026-09-17	mapped
+map04610	PATHWAY	Complement and coagulation cascades		KEGG PATHWAY 2026-09-17	mapped
+map04612	PATHWAY	Antigen processing and presentation		KEGG PATHWAY 2026-09-17	mapped
+map04624	PATHWAY	Toll and Imd signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04630	PATHWAY	JAK-STAT signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04657	PATHWAY	IL-17 signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04668	PATHWAY	TNF signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04711	PATHWAY	Circadian rhythm - fly		KEGG PATHWAY 2026-09-17	mapped
+map04723	PATHWAY	Retrograde endocannabinoid signaling		KEGG PATHWAY 2026-09-17	mapped
+map04915	PATHWAY	Estrogen signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04919	PATHWAY	Thyroid hormone signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04921	PATHWAY	Oxytocin signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04923	PATHWAY	Regulation of lipolysis in adipocytes		KEGG PATHWAY 2026-09-17	mapped
+map04924	PATHWAY	Renin secretion		KEGG PATHWAY 2026-09-17	mapped
+map04925	PATHWAY	Aldosterone synthesis and secretion		KEGG PATHWAY 2026-09-17	mapped
+map04926	PATHWAY	Relaxin signaling pathway		KEGG PATHWAY 2026-09-17	mapped
+map04930	PATHWAY	Type II diabetes mellitus		KEGG PATHWAY 2026-09-17	mapped
+map04931	PATHWAY	Insulin resistance		KEGG PATHWAY 2026-09-17	mapped
+map04932	PATHWAY	Non-alcoholic fatty liver disease		KEGG PATHWAY 2026-09-17	mapped
+map04974	PATHWAY	Protein digestion and absorption		KEGG PATHWAY 2026-09-17	mapped
+map04976	PATHWAY	Bile secretion		KEGG PATHWAY 2026-09-17	mapped
+map04977	PATHWAY	Vitamin digestion and absorption		KEGG PATHWAY 2026-09-17	mapped
+map04979	PATHWAY	Cholesterol metabolism		KEGG PATHWAY 2026-09-17	mapped
+map05010	PATHWAY	Alzheimer disease		KEGG PATHWAY 2026-09-17	mapped
+map05012	PATHWAY	Parkinson disease		KEGG PATHWAY 2026-09-17	mapped
+map05016	PATHWAY	Huntington disease		KEGG PATHWAY 2026-09-17	mapped
+map05020	PATHWAY	Prion disease		KEGG PATHWAY 2026-09-17	mapped
+map05030	PATHWAY	Cocaine addiction		KEGG PATHWAY 2026-09-17	mapped
+map05110	PATHWAY	Vibrio cholerae infection		KEGG PATHWAY 2026-09-17	mapped
+map05150	PATHWAY	Staphylococcus aureus infection		KEGG PATHWAY 2026-09-17	mapped
+map05165	PATHWAY	Human papillomavirus infection		KEGG PATHWAY 2026-09-17	mapped
+map05166	PATHWAY	Human T-cell leukemia virus 1 infection		KEGG PATHWAY 2026-09-17	mapped
+map05168	PATHWAY	Herpes simplex virus 1 infection		KEGG PATHWAY 2026-09-17	mapped
+map05169	PATHWAY	Epstein-Barr virus infection		KEGG PATHWAY 2026-09-17	mapped
+map05200	PATHWAY	Pathways in cancer		KEGG PATHWAY 2026-09-17	mapped
+map05204	PATHWAY	Chemical carcinogenesis - DNA adducts		KEGG PATHWAY 2026-09-17	mapped
+map05206	PATHWAY	MicroRNAs in cancer		KEGG PATHWAY 2026-09-17	mapped
+map05210	PATHWAY	Colorectal cancer		KEGG PATHWAY 2026-09-17	mapped
+map05213	PATHWAY	Endometrial cancer		KEGG PATHWAY 2026-09-17	mapped
+map05215	PATHWAY	Prostate cancer		KEGG PATHWAY 2026-09-17	mapped
+map05218	PATHWAY	Melanoma		KEGG PATHWAY 2026-09-17	mapped
+map05222	PATHWAY	Small cell lung cancer		KEGG PATHWAY 2026-09-17	mapped
+map05224	PATHWAY	Breast cancer		KEGG PATHWAY 2026-09-17	mapped
+map05226	PATHWAY	Gastric cancer		KEGG PATHWAY 2026-09-17	mapped
+map05321	PATHWAY	Inflammatory bowel disease		KEGG PATHWAY 2026-09-17	mapped
+map05323	PATHWAY	Rheumatoid arthritis		KEGG PATHWAY 2026-09-17	mapped
+map05410	PATHWAY	Hypertrophic cardiomyopathy		KEGG PATHWAY 2026-09-17	mapped
+map05418	PATHWAY	Fluid shear stress and atherosclerosis		KEGG PATHWAY 2026-09-17	mapped

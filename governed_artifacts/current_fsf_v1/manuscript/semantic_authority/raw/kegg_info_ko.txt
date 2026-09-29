@@ -1,0 +1,21 @@
+ko	KO functional orthologs
+orthology	28,488 entries
+	Last update 2026/09/18
+	Kanehisa Laboratories
+
+linked db	pathway
+	brite
+	module
+	genes
+	<org>
+	ag
+	vg
+	vp
+	reaction
+	rclass
+	enzyme
+	network
+	ntmap
+	disease
+	drug
+	pubmed

@@ -1,0 +1,4 @@
+source	identifier_type	total_unique_ids	mapped_ids	unmapped_ids	obsolete_ids	ambiguous_or_replaced_ids
+GO	GO	3962	3962	0	393	338
+KEGG	KO	528	525	3		
+KEGG	PATHWAY	260	258	2		

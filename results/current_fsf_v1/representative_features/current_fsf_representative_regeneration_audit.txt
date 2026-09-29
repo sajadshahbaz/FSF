@@ -1,0 +1,39 @@
+FSF v1 current representative regeneration audit
+HEAD=b803fc2e43cf4639a7585c106c9d8afcb2bfc543
+writer=readr::write_tsv(quote=needed,na=NA)
+workflow_sha256=5e4b5b0994c6008b417bba060a2cd5525d7812a3ae9ac87f8d31c0aa9c11cf12
+scientific_lock_sha256=f3782d3fa2c6dc6b67df1784695934f78e9a570391f4f3a26e5b645d5515023c
+annotation_authority_sha256=d77095e469f19ce34fb260de1caec1e67235fe167196c770f7a1a4abf8072575
+current_fsf_authority_sha256=f0874a99572884064d52ae0a77af7f4fe95863c1e8776be505fcd358827b095e
+join_helper_sha256=910a565ee6548d70dc23bd0145913f365314b2b7470931ab5c8b99e245ea5bd7
+annotation_master_sha256=25627cfcaf544dd2793d9fd2462772d9cb76f4728bbcab8c9d29599520f5d584
+candidate_total=71238
+candidate_counts DES=9350 GAM=11996 HT=15187 LT=13976 OSM=15187 UV=5542
+directional_counts DES_down_1233 GAM_down_1755 HT_down_2564 LT_down_84 OSM_down_238 UV_down_355 DES_up_678 GAM_up_1074 HT_up_2390 LT_up_42 OSM_up_203 UV_up_458
+top100_directional=1126
+top100_annotated=1115
+top50_annotated_compact=590
+uv_strict_0.50_0.60=2451
+uv_all_transitional=TRUE
+uv_admitted_to_stable_candidates=0
+historical_top100_directional historical=1126 current=1126 retained=1126 removed=0 added=0
+historical_top100_annotated historical=1115 current=1115 retained=1115 removed=0 added=0
+historical_top50_annotated historical=590 current=590 retained=590 removed=0 added=0
+dimensions current_fsf_stable_signal_catalog=71238x14 current_fsf_stable_directional_signals=11074x14 current_fsf_stable_constant_signals=60164x14 current_fsf_stable_signal_summary=24x6 current_fsf_top100_stable_directional_signals=1126x14 current_fsf_stable_signal_annotated_catalog=71238x49 current_fsf_stable_signal_annotation_coverage=24x21 current_fsf_top100_annotated_stable_directional_signals=1115x49 current_fsf_top50_annotated_stable_directional_signals_compact=590x49
+current_fsf_stable_signal_catalog exact=6.41142e+05 nonexact=0.00000e+00 max_abs_diff=0.00000e+00
+current_fsf_stable_directional_signals exact=9.9666e+04 nonexact=0.0000e+00 max_abs_diff=0.0000e+00
+current_fsf_stable_constant_signals exact=5.41476e+05 nonexact=0.00000e+00 max_abs_diff=0.00000e+00
+current_fsf_stable_signal_summary exact=4.200000e+01 nonexact=6.000000e+00 max_abs_diff=1.110223e-16
+current_fsf_top100_stable_directional_signals exact=1.0134e+04 nonexact=0.0000e+00 max_abs_diff=0.0000e+00
+current_fsf_stable_signal_annotated_catalog exact=9.833030e+05 nonexact=6.524000e+03 max_abs_diff=1.504633e-36
+current_fsf_stable_signal_annotation_coverage exact=3.910000e+02 nonexact=1.700000e+01 max_abs_diff=1.110223e-16
+current_fsf_top100_annotated_stable_directional_signals exact=1.637200e+04 nonexact=1.370000e+02 max_abs_diff=1.880791e-37
+current_fsf_top50_annotated_stable_directional_signals_compact exact=8.734000e+03 nonexact=8.000000e+01 max_abs_diff=5.877472e-39
+fsf_field_mismatches=0
+fsf_max_abs_diff=0e+00
+annotation_field_mismatches=0
+annotation_max_abs_diff=1.504633e-36
+duplicate_keys=0
+key_order_preserved=TRUE
+enrichment_run=FALSE
+repository_publication_occurred=FALSE

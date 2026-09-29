@@ -1,0 +1,7 @@
+truth_scenario	n_features	mean_ssi	median_ssi	mean_stability_deviation	median_stability_deviation	predicted_signal_class	class_count	class_proportion
+instable	1000	0.38374	0.38	0.61626	0.62	Low Stability	1000	1
+stable_constant	1000	0.99915	1	0.000850000000000001	0	Highly Stable Constant	1000	1
+stable_down	1000	1	1	0	0	Highly Stable Down	1000	1
+stable_up	1000	1	1	0	0	Highly Stable Up	1000	1
+weakly_stable	1000	0.66312	0.66	0.33688	0.34	Stable Up	31	0.031
+weakly_stable	1000	0.66312	0.66	0.33688	0.34	Transitional Up	969	0.969

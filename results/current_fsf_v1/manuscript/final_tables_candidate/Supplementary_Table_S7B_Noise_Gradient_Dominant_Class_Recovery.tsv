@@ -1,0 +1,36 @@
+noise_sd	truth_scenario	dominant_recovered_signal_class	n_features	recovery_proportion
+0.05	instable	Low Stability	500	1
+0.05	stable_constant	Highly Stable Constant	500	1
+0.05	stable_down	Highly Stable Down	500	1
+0.05	stable_up	Highly Stable Up	500	1
+0.05	weakly_stable	Highly Stable Up	500	1
+0.1	instable	Low Stability	500	1
+0.1	stable_constant	Highly Stable Constant	500	1
+0.1	stable_down	Highly Stable Down	500	1
+0.1	stable_up	Highly Stable Up	500	1
+0.1	weakly_stable	Highly Stable Up	500	1
+0.2	instable	Low Stability	500	1
+0.2	stable_constant	Highly Stable Constant	500	1
+0.2	stable_down	Highly Stable Down	500	1
+0.2	stable_up	Highly Stable Up	500	1
+0.2	weakly_stable	Highly Stable Up	469	0.938
+0.35	instable	Low Stability	498	0.996
+0.35	stable_constant	Stable Constant	455	0.91
+0.35	stable_down	Highly Stable Down	500	1
+0.35	stable_up	Highly Stable Up	500	1
+0.35	weakly_stable	Stable Up	459	0.918
+0.5	instable	Low Stability	496	0.992
+0.5	stable_constant	Transitional Constant	454	0.908
+0.5	stable_down	Highly Stable Down	500	1
+0.5	stable_up	Highly Stable Up	500	1
+0.5	weakly_stable	Transitional Up	321	0.642
+0.75	instable	Low Stability	486	0.972
+0.75	stable_constant	Low Stability	301	0.602
+0.75	stable_down	Highly Stable Down	339	0.678
+0.75	stable_up	Highly Stable Up	360	0.72
+0.75	weakly_stable	Transitional Up	491	0.982
+1	instable	Low Stability	483	0.966
+1	stable_constant	Low Stability	495	0.99
+1	stable_down	Stable Down	469	0.938
+1	stable_up	Stable Up	462	0.924
+1	weakly_stable	Transitional Up	492	0.984

@@ -1,0 +1,2 @@
+relative_path	source_release_sha256	clean_release_sha256	reason
+scripts/current/figures/build_author_reviewed_biological_theme_panels.R	354dcde0aa46803eacbc304aab96a766c80e422181825d070667abd4028b4a03	4ffc0ecf0e10744620b04fb84a5fc1ca7437033a19c0caf12413ff0e8cc5726f	Clean-release portability only: stale Git-history assertions replaced by SHA-256 verification of the current manuscript release state; scientific plotting logic unchanged.

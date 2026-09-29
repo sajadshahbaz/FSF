@@ -1,0 +1,25 @@
+condition	stability_region	dominant_state	signal_class	n_features	proportion
+DES	Highly Stable	constant	Highly Stable Constant	7439	0.7956149732620321
+DES	Highly Stable	down	Highly Stable Down	1233	0.1318716577540107
+DES	Highly Stable	up	Highly Stable Up	678	0.07251336898395722
+GAM	Highly Stable	constant	Highly Stable Constant	5447	0.45406802267422475
+GAM	Highly Stable	down	Highly Stable Down	377	0.031427142380793596
+GAM	Highly Stable	up	Highly Stable Up	45	0.003751250416805602
+GAM	Stable	constant	Stable Constant	3720	0.31010336778926306
+GAM	Stable	down	Stable Down	1378	0.11487162387462488
+GAM	Stable	up	Stable Up	1029	0.0857785928642881
+HT	Highly Stable	constant	Highly Stable Constant	10233	0.6737999604925266
+HT	Highly Stable	down	Highly Stable Down	2564	0.16882860341081188
+HT	Highly Stable	up	Highly Stable Up	2390	0.15737143609666163
+LT	Highly Stable	constant	Highly Stable Constant	13850	0.9909845449341729
+LT	Highly Stable	down	Highly Stable Down	84	0.006010303377218088
+LT	Highly Stable	up	Highly Stable Up	42	0.003005151688609044
+OSM	Highly Stable	constant	Highly Stable Constant	14746	0.9709620069796536
+OSM	Highly Stable	down	Highly Stable Down	238	0.01567129782050438
+OSM	Highly Stable	up	Highly Stable Up	203	0.01336669519984197
+UV	Highly Stable	constant	Highly Stable Constant	2133	0.3848791050162396
+UV	Highly Stable	down	Highly Stable Down	117	0.021111512089498376
+UV	Highly Stable	up	Highly Stable Up	141	0.02544207867195958
+UV	Stable	constant	Stable Constant	2596	0.468422952002887
+UV	Stable	down	Stable Down	238	0.04294478527607362
+UV	Stable	up	Stable Up	317	0.05719956694334175

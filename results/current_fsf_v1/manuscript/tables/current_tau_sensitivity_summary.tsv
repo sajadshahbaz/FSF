@@ -1,0 +1,111 @@
+tau	truth_scenario	metric	category	value
+0.25	instable	mean_ssi	NA	0.40475
+0.25	instable	mean_stability_deviation	NA	0.5952500000000001
+0.25	instable	median_ssi	NA	0.4
+0.25	instable	median_stability_deviation	NA	0.6
+0.25	instable	signal_class_proportion	Low Stability	0.996
+0.25	instable	signal_class_proportion	Transitional Down	0.002
+0.25	instable	signal_class_proportion	Transitional Up	0.002
+0.25	stable_constant	mean_ssi	NA	0.90428
+0.25	stable_constant	mean_stability_deviation	NA	0.09572
+0.25	stable_constant	median_ssi	NA	0.91
+0.25	stable_constant	median_stability_deviation	NA	0.08999999999999997
+0.25	stable_constant	signal_class_proportion	Highly Stable Constant	0.65
+0.25	stable_constant	signal_class_proportion	Stable Constant	0.35
+0.25	stable_down	mean_ssi	NA	1
+0.25	stable_down	mean_stability_deviation	NA	0
+0.25	stable_down	median_ssi	NA	1
+0.25	stable_down	median_stability_deviation	NA	0
+0.25	stable_down	signal_class_proportion	Highly Stable Down	1
+0.25	stable_up	mean_ssi	NA	1
+0.25	stable_up	mean_stability_deviation	NA	0
+0.25	stable_up	median_ssi	NA	1
+0.25	stable_up	median_stability_deviation	NA	0
+0.25	stable_up	signal_class_proportion	Highly Stable Up	1
+0.25	weakly_stable	mean_ssi	NA	0.78141
+0.25	weakly_stable	mean_stability_deviation	NA	0.21859
+0.25	weakly_stable	median_ssi	NA	0.78
+0.25	weakly_stable	median_stability_deviation	NA	0.21999999999999997
+0.25	weakly_stable	signal_class_proportion	Highly Stable Up	0.002
+0.25	weakly_stable	signal_class_proportion	Stable Up	0.823
+0.25	weakly_stable	signal_class_proportion	Transitional Up	0.175
+0.5	instable	mean_ssi	NA	0.38374
+0.5	instable	mean_stability_deviation	NA	0.61626
+0.5	instable	median_ssi	NA	0.38
+0.5	instable	median_stability_deviation	NA	0.62
+0.5	instable	signal_class_proportion	Low Stability	1
+0.5	stable_constant	mean_ssi	NA	0.99915
+0.5	stable_constant	mean_stability_deviation	NA	8.500000000000007e-4
+0.5	stable_constant	median_ssi	NA	1
+0.5	stable_constant	median_stability_deviation	NA	0
+0.5	stable_constant	signal_class_proportion	Highly Stable Constant	1
+0.5	stable_down	mean_ssi	NA	1
+0.5	stable_down	mean_stability_deviation	NA	0
+0.5	stable_down	median_ssi	NA	1
+0.5	stable_down	median_stability_deviation	NA	0
+0.5	stable_down	signal_class_proportion	Highly Stable Down	1
+0.5	stable_up	mean_ssi	NA	1
+0.5	stable_up	mean_stability_deviation	NA	0
+0.5	stable_up	median_ssi	NA	1
+0.5	stable_up	median_stability_deviation	NA	0
+0.5	stable_up	signal_class_proportion	Highly Stable Up	1
+0.5	weakly_stable	mean_ssi	NA	0.66312
+0.5	weakly_stable	mean_stability_deviation	NA	0.33688
+0.5	weakly_stable	median_ssi	NA	0.66
+0.5	weakly_stable	median_stability_deviation	NA	0.33999999999999997
+0.5	weakly_stable	signal_class_proportion	Stable Up	0.031
+0.5	weakly_stable	signal_class_proportion	Transitional Up	0.969
+0.75	instable	mean_ssi	NA	0.38362
+0.75	instable	mean_stability_deviation	NA	0.61638
+0.75	instable	median_ssi	NA	0.38
+0.75	instable	median_stability_deviation	NA	0.62
+0.75	instable	signal_class_proportion	Low Stability	1
+0.75	stable_constant	mean_ssi	NA	1
+0.75	stable_constant	mean_stability_deviation	NA	0
+0.75	stable_constant	median_ssi	NA	1
+0.75	stable_constant	median_stability_deviation	NA	0
+0.75	stable_constant	signal_class_proportion	Highly Stable Constant	1
+0.75	stable_down	mean_ssi	NA	1
+0.75	stable_down	mean_stability_deviation	NA	0
+0.75	stable_down	median_ssi	NA	1
+0.75	stable_down	median_stability_deviation	NA	0
+0.75	stable_down	signal_class_proportion	Highly Stable Down	1
+0.75	stable_up	mean_ssi	NA	1
+0.75	stable_up	mean_stability_deviation	NA	0
+0.75	stable_up	median_ssi	NA	1
+0.75	stable_up	median_stability_deviation	NA	0
+0.75	stable_up	signal_class_proportion	Highly Stable Up	1
+0.75	weakly_stable	mean_ssi	NA	0.54035
+0.75	weakly_stable	mean_stability_deviation	NA	0.45965
+0.75	weakly_stable	median_ssi	NA	0.53
+0.75	weakly_stable	median_stability_deviation	NA	0.47
+0.75	weakly_stable	signal_class_proportion	Low Stability	0.148
+0.75	weakly_stable	signal_class_proportion	Transitional Constant	0.197
+0.75	weakly_stable	signal_class_proportion	Transitional Up	0.655
+1	instable	mean_ssi	NA	0.38345
+1	instable	mean_stability_deviation	NA	0.61655
+1	instable	median_ssi	NA	0.38
+1	instable	median_stability_deviation	NA	0.62
+1	instable	signal_class_proportion	Low Stability	1
+1	stable_constant	mean_ssi	NA	1
+1	stable_constant	mean_stability_deviation	NA	0
+1	stable_constant	median_ssi	NA	1
+1	stable_constant	median_stability_deviation	NA	0
+1	stable_constant	signal_class_proportion	Highly Stable Constant	1
+1	stable_down	mean_ssi	NA	0.99962
+1	stable_down	mean_stability_deviation	NA	3.8000000000000035e-4
+1	stable_down	median_ssi	NA	1
+1	stable_down	median_stability_deviation	NA	0
+1	stable_down	signal_class_proportion	Highly Stable Down	1
+1	stable_up	mean_ssi	NA	0.99954
+1	stable_up	mean_stability_deviation	NA	4.600000000000004e-4
+1	stable_up	median_ssi	NA	1
+1	stable_up	median_stability_deviation	NA	0
+1	stable_up	signal_class_proportion	Highly Stable Up	1
+1	weakly_stable	mean_ssi	NA	0.60841
+1	weakly_stable	mean_stability_deviation	NA	0.39159
+1	weakly_stable	median_ssi	NA	0.61
+1	weakly_stable	median_stability_deviation	NA	0.39
+1	weakly_stable	signal_class_proportion	Low Stability	0.016
+1	weakly_stable	signal_class_proportion	Transitional Constant	0.977
+1	weakly_stable	signal_class_proportion	Transitional Up	0.007

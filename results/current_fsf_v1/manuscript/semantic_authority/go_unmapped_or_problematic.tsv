@@ -1,0 +1,509 @@
+go_id	canonical_go_id	go_name	go_namespace	obsolete_status	replacement_or_consider	source_version	mapping_status
+GO:0000002	GO:0000002	obsolete mitochondrial genome maintenance	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0000003	GO:0000003	obsolete reproduction	biological_process	obsolete	replaced_by:GO:0022414	releases/2026-07-26	obsolete
+GO:0000275	GO:0000275	obsolete mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)	cellular_component	obsolete	replaced_by:GO:0045259	releases/2026-07-26	obsolete
+GO:0000276	GO:0000276	obsolete mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	cellular_component	obsolete	replaced_by:GO:0045259	releases/2026-07-26	obsolete
+GO:0000291	GO:0000291	obsolete nuclear-transcribed mRNA catabolic process, exonucleolytic	biological_process	obsolete	replaced_by:GO:0000956	releases/2026-07-26	obsolete
+GO:0000335	GO:0000335	obsolete negative regulation of transposition, DNA-mediated	biological_process	obsolete	consider:GO:0006313	releases/2026-07-26	obsolete
+GO:0000337	GO:0000337	obsolete regulation of transposition, DNA-mediated	biological_process	obsolete	consider:GO:0006313	releases/2026-07-26	obsolete
+GO:0000726	GO:0000726	obsolete non-recombinational repair	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0000733	GO:0000733	obsolete DNA strand renaturation	biological_process	obsolete	consider:GO:0036310	releases/2026-07-26	obsolete
+GO:0000777	GO:0000776	kinetochore	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0000780	GO:0000779	condensed chromosome, centromeric region	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0000784	GO:0000781	chromosome, telomeric region	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0000790	GO:0000785	chromatin	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0000798	GO:0008278	cohesin complex	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0000799	GO:0000796	condensin complex	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0000904	GO:0000904	obsolete cell morphogenesis involved in differentiation	biological_process	obsolete	replaced_by:GO:0000902	releases/2026-07-26	obsolete
+GO:0000988	GO:0000988	obsolete transcription factor activity, protein binding	molecular_function	obsolete	consider:GO:0005515;GO:0140110	releases/2026-07-26	obsolete
+GO:0000989	GO:0000989	obsolete transcription factor activity, transcription factor binding	molecular_function	obsolete	consider:GO:0008134;GO:0140110	releases/2026-07-26	obsolete
+GO:0001012	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0001030	GO:0001002	RNA polymerase III type 1 promoter sequence-specific DNA binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0001031	GO:0001003	RNA polymerase III type 2 promoter sequence-specific DNA binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0001047	GO:0001046	core promoter sequence-specific DNA binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0001055	GO:0001055	obsolete RNA polymerase II activity	molecular_function	obsolete	replaced_by:GO:0003899	releases/2026-07-26	obsolete
+GO:0001076	GO:0001076	obsolete transcription factor activity, RNA polymerase II transcription factor binding	molecular_function	obsolete	consider:GO:0061629;GO:0140110	releases/2026-07-26	obsolete
+GO:0001078	GO:0001227	DNA-binding transcription repressor activity, RNA polymerase II-specific	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0001102	GO:0061629	RNA polymerase II-specific DNA-binding transcription factor binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0001135	GO:0001135	obsolete RNA polymerase II transcription regulator recruiting activity	molecular_function	obsolete	replaced_by:GO:0003712	releases/2026-07-26	obsolete
+GO:0001306	GO:0001306	obsolete age-dependent response to oxidative stress	biological_process	obsolete	consider:GO:0034599	releases/2026-07-26	obsolete
+GO:0001505	GO:0001505	obsolete regulation of neurotransmitter levels	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0001871	GO:0001871	obsolete pattern binding	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0003252	GO:0003252	obsolete negative regulation of cell proliferation involved in heart valve morphogenesis	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0003705	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0004003	GO:0003678	DNA helicase activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0004004	GO:0003724	RNA helicase activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0004012	GO:0140326	ATPase-coupled intramembrane lipid carrier activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0005088	GO:0005085	guanyl-nucleotide exchange factor activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0005089	GO:0005085	guanyl-nucleotide exchange factor activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0005548	GO:0005548	obsolete phospholipid transporter activity	molecular_function	obsolete	consider:GO:0120014;GO:0170055	releases/2026-07-26	obsolete
+GO:0005615	GO:0005615	obsolete extracellular space	cellular_component	obsolete	replaced_by:GO:0005576	releases/2026-07-26	obsolete
+GO:0005623	GO:0005623	obsolete cell	cellular_component	obsolete		releases/2026-07-26	obsolete
+GO:0005719	GO:0000791	euchromatin	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0005746	GO:0005746	obsolete mitochondrial respirasome	cellular_component	obsolete	replaced_by:GO:0098803	releases/2026-07-26	obsolete
+GO:0005747	GO:0005747	obsolete mitochondrial respiratory chain complex I	cellular_component	obsolete	replaced_by:GO:0045271	releases/2026-07-26	obsolete
+GO:0005750	GO:0005750	obsolete mitochondrial respiratory chain complex III	cellular_component	obsolete	replaced_by:GO:0045275	releases/2026-07-26	obsolete
+GO:0005751	GO:0005751	obsolete mitochondrial respiratory chain complex IV	cellular_component	obsolete	replaced_by:GO:0045277	releases/2026-07-26	obsolete
+GO:0005753	GO:0005753	obsolete mitochondrial proton-transporting ATP synthase complex	cellular_component	obsolete	replaced_by:GO:0045259	releases/2026-07-26	obsolete
+GO:0005844	GO:0005844	obsolete polysome	cellular_component	obsolete	consider:GO:0005840	releases/2026-07-26	obsolete
+GO:0005913	GO:0005912	adherens junction	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0005924	GO:0005924	obsolete cell-substrate adherens junction	cellular_component	obsolete		releases/2026-07-26	obsolete
+GO:0005947	GO:0005947	obsolete mitochondrial alpha-ketoglutarate dehydrogenase complex	cellular_component	obsolete	replaced_by:GO:0045252	releases/2026-07-26	obsolete
+GO:0006034	GO:0006034	obsolete cuticle chitin metabolic process	biological_process	obsolete	replaced_by:GO:0006030	releases/2026-07-26	obsolete
+GO:0006035	GO:0006035	obsolete cuticle chitin biosynthetic process	biological_process	obsolete	replaced_by:GO:0006031	releases/2026-07-26	obsolete
+GO:0006037	GO:0006037	obsolete cell wall chitin metabolic process	biological_process	obsolete	replaced_by:GO:0006030	releases/2026-07-26	obsolete
+GO:0006082	GO:0006082	obsolete organic acid metabolic process	biological_process	obsolete	replaced_by:GO:0008152	releases/2026-07-26	obsolete
+GO:0006266	GO:0006266	obsolete DNA ligation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0006268	GO:0006268	obsolete DNA unwinding involved in DNA replication	biological_process	obsolete	replaced_by:GO:0006260	releases/2026-07-26	obsolete
+GO:0006296	GO:0006296	obsolete nucleotide-excision repair, DNA incision, 5'-to lesion	biological_process	obsolete	replaced_by:GO:0006289	releases/2026-07-26	obsolete
+GO:0006305	GO:0006305	obsolete DNA alkylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0006306	GO:0006306	obsolete DNA methylation	biological_process	obsolete	consider:GO:0009008;GO:0009307;GO:0031507	releases/2026-07-26	obsolete
+GO:0006323	GO:0051276	chromosome organization	biological_process	current		releases/2026-07-26	alternate_id
+GO:0006333	GO:0006325	chromatin organization	biological_process	current		releases/2026-07-26	alternate_id
+GO:0006336	GO:0006325	chromatin organization	biological_process	current		releases/2026-07-26	alternate_id
+GO:0006342	GO:0031507	heterochromatin formation	biological_process	current		releases/2026-07-26	alternate_id
+GO:0006378	GO:0006378	obsolete mRNA polyadenylation	biological_process	obsolete	consider:GO:0006397;GO:0097222;GO:0180010	releases/2026-07-26	obsolete
+GO:0006379	GO:0006379	obsolete mRNA cleavage	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0006464	GO:0036211	protein modification process	biological_process	current		releases/2026-07-26	alternate_id
+GO:0006471	GO:0006471	obsolete protein ADP-ribosylation	biological_process	obsolete	consider:GO:1990404	releases/2026-07-26	obsolete
+GO:0006558	GO:0006558	obsolete L-phenylalanine metabolic process	biological_process	obsolete	consider:GO:0006559;GO:0009094	releases/2026-07-26	obsolete
+GO:0006570	GO:0006570	obsolete tyrosine metabolic process	biological_process	obsolete	consider:GO:0006571;GO:0006572	releases/2026-07-26	obsolete
+GO:0006725	GO:0006725	obsolete cellular aromatic compound metabolic process	biological_process	obsolete	replaced_by:GO:0008152	releases/2026-07-26	obsolete
+GO:0006732	GO:0006732	obsolete coenzyme metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0006733	GO:0006733	obsolete oxidoreduction coenzyme metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0006767	GO:0006767	obsolete water-soluble vitamin metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0006807	GO:0006807	obsolete nitrogen compound metabolic process	biological_process	obsolete	replaced_by:GO:0008152	releases/2026-07-26	obsolete
+GO:0006875	GO:0006875	obsolete intracellular metal ion homeostasis	biological_process	obsolete	replaced_by:GO:0030003	releases/2026-07-26	obsolete
+GO:0006928	GO:0006928	obsolete movement of cell or subcellular component	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0006949	GO:0006949	obsolete syncytium formation	biological_process	obsolete	consider:GO:0000768	releases/2026-07-26	obsolete
+GO:0006977	GO:0006977	obsolete DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	biological_process	obsolete	replaced_by:GO:0030330	releases/2026-07-26	obsolete
+GO:0007016	GO:0007016	obsolete cytoskeletal anchoring at plasma membrane	biological_process	obsolete	consider:GO:0007010;GO:0106006	releases/2026-07-26	obsolete
+GO:0007050	GO:0051726	regulation of cell cycle	biological_process	current		releases/2026-07-26	alternate_id
+GO:0007257	GO:0007257	obsolete activation of JUN kinase activity	biological_process	obsolete	consider:GO:0007254;GO:0043539	releases/2026-07-26	obsolete
+GO:0007303	GO:0007303	obsolete cytoplasmic transport, nurse cell to oocyte	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0007568	GO:0007568	obsolete aging	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0007569	GO:0007569	obsolete cell aging	biological_process	obsolete	consider:GO:0090398	releases/2026-07-26	obsolete
+GO:0007571	GO:0007571	obsolete age-dependent general metabolic decline	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0008022	GO:0008022	obsolete protein C-terminus binding	molecular_function	obsolete	replaced_by:GO:0005515	releases/2026-07-26	obsolete
+GO:0008026	GO:0004386	helicase activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0008139	GO:0008139	obsolete nuclear localization sequence binding	molecular_function	obsolete	replaced_by:GO:0140142	releases/2026-07-26	obsolete
+GO:0008144	GO:0008144	obsolete drug binding	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0008536	GO:0031267	small GTPase binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0008565	GO:0008565	obsolete protein transporter activity	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0009064	GO:0009064	obsolete glutamine family amino acid metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0009108	GO:0009108	obsolete coenzyme biosynthetic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0009161	GO:0009161	obsolete ribonucleoside monophosphate metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0009199	GO:0009199	obsolete ribonucleoside triphosphate metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0009991	GO:0009991	obsolete response to extracellular stimulus	biological_process	obsolete	consider:GO:0051716	releases/2026-07-26	obsolete
+GO:0010033	GO:0010033	obsolete response to organic substance	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0010035	GO:0010035	obsolete response to inorganic substance	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0010243	GO:0010243	obsolete response to organonitrogen compound	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0010259	GO:0010259	obsolete multicellular organism aging	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0010390	GO:0010390	obsolete histone monoubiquitination	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0010528	GO:0010528	obsolete regulation of transposition	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0010529	GO:0010529	obsolete negative regulation of transposition	biological_process	obsolete	consider:GO:0010526	releases/2026-07-26	obsolete
+GO:0010769	GO:0010769	obsolete regulation of cell morphogenesis involved in differentiation	biological_process	obsolete	replaced_by:GO:0022604	releases/2026-07-26	obsolete
+GO:0010941	GO:0010941	obsolete regulation of cell death	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0010942	GO:0010942	obsolete positive regulation of cell death	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0010990	GO:0010990	obsolete regulation of SMAD protein complex assembly	biological_process	obsolete	consider:GO:0060390	releases/2026-07-26	obsolete
+GO:0010991	GO:0010991	obsolete negative regulation of SMAD protein complex assembly	biological_process	obsolete	consider:GO:0060392	releases/2026-07-26	obsolete
+GO:0014065	GO:0014065	obsolete phosphatidylinositol 3-kinase signaling	biological_process	obsolete	replaced_by:GO:0043491	releases/2026-07-26	obsolete
+GO:0014070	GO:0014070	obsolete response to organic cyclic compound	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0014877	GO:0014877	obsolete response to muscle inactivity involved in regulation of muscle adaptation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0015002	GO:0015002	obsolete heme-copper terminal oxidase activity	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0015037	GO:0015035	protein-disulfide reductase activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0015077	GO:0022890	obsolete inorganic cation transmembrane transporter activity	molecular_function	obsolete	replaced_by:GO:0022857	releases/2026-07-26	alternate_id
+GO:0015103	GO:0015103	obsolete inorganic anion transmembrane transporter activity	molecular_function	obsolete	replaced_by:GO:0022857	releases/2026-07-26	obsolete
+GO:0015238	GO:0042910	xenobiotic transmembrane transporter activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0015318	GO:0015318	obsolete inorganic molecular entity transmembrane transporter activity	molecular_function	obsolete	replaced_by:GO:0022857	releases/2026-07-26	obsolete
+GO:0015405	GO:0042626	ATPase-coupled transmembrane transporter activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0015672	GO:0098662	obsolete inorganic cation transmembrane transport	biological_process	obsolete	replaced_by:GO:0055085	releases/2026-07-26	alternate_id
+GO:0015711	GO:0015711	obsolete organic anion transport	biological_process	obsolete	replaced_by:GO:0055085	releases/2026-07-26	obsolete
+GO:0015893	GO:0042908	xenobiotic transport	biological_process	current		releases/2026-07-26	alternate_id
+GO:0016021	GO:0016020	membrane	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0016053	GO:0016053	obsolete organic acid biosynthetic process	biological_process	obsolete	replaced_by:GO:0008152	releases/2026-07-26	obsolete
+GO:0016054	GO:0016054	obsolete organic acid catabolic process	biological_process	obsolete	replaced_by:GO:0008152	releases/2026-07-26	obsolete
+GO:0016246	GO:0035194	regulatory ncRNA-mediated post-transcriptional gene silencing	biological_process	current		releases/2026-07-26	alternate_id
+GO:0016307	GO:0016307	obsolete phosphatidylinositol phosphate kinase activity	molecular_function	obsolete	replaced_by:GO:0052742	releases/2026-07-26	obsolete
+GO:0016458	GO:0016458	obsolete gene silencing	biological_process	obsolete	consider:GO:0010629;GO:0031507	releases/2026-07-26	obsolete
+GO:0016569	GO:0016569	obsolete covalent chromatin modification	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0016570	GO:0016570	obsolete histone modification	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0016571	GO:0016571	obsolete histone methylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0016573	GO:0016573	obsolete histone acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0016574	GO:0016574	obsolete histone ubiquitination	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0016578	GO:0016578	obsolete histone deubiquitination	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0016676	GO:0016676	obsolete oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0016681	GO:0016681	obsolete oxidoreductase activity, acting on diphenols and related substances as donors, cytochrome as acceptor	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0017016	GO:0031267	small GTPase binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0017048	GO:0031267	small GTPase binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0017112	GO:0005085	guanyl-nucleotide exchange factor activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0017137	GO:0031267	small GTPase binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0017144	GO:0006805	xenobiotic metabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:0018024	GO:0018024	obsolete histone lysine N-methyltransferase activity	molecular_function	obsolete	consider:GO:0140938;GO:0140939;GO:0140940	releases/2026-07-26	obsolete
+GO:0018130	GO:0018130	obsolete heterocycle biosynthetic process	biological_process	obsolete	replaced_by:GO:0009058	releases/2026-07-26	obsolete
+GO:0018193	GO:0018193	obsolete peptidyl-amino acid modification	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0018209	GO:0018209	obsolete peptidyl-serine modification	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0018210	GO:0018210	obsolete peptidyl-threonine modification	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0018212	GO:0018212	obsolete peptidyl-tyrosine modification	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0019048	GO:0019048	obsolete modulation by virus of host process	biological_process	obsolete	replaced_by:GO:0044003	releases/2026-07-26	obsolete
+GO:0019054	GO:0019054	obsolete modulation by virus of host cellular process	biological_process	obsolete	replaced_by:GO:0044068	releases/2026-07-26	obsolete
+GO:0019220	GO:0019220	obsolete regulation of phosphate metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0019438	GO:0019438	obsolete aromatic compound biosynthetic process	biological_process	obsolete	replaced_by:GO:0009058	releases/2026-07-26	obsolete
+GO:0019439	GO:0019439	obsolete aromatic compound catabolic process	biological_process	obsolete	replaced_by:GO:0009056	releases/2026-07-26	obsolete
+GO:0019934	GO:0019934	obsolete cGMP-mediated signaling	biological_process	obsolete	consider:GO:0007168;GO:0007199;GO:0038060	releases/2026-07-26	obsolete
+GO:0022610	GO:0022610	obsolete biological adhesion	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0022838	GO:0015267	channel activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0023014	GO:0007165	signal transduction	biological_process	current		releases/2026-07-26	alternate_id
+GO:0030062	GO:0030062	obsolete mitochondrial tricarboxylic acid cycle enzyme complex	cellular_component	obsolete	replaced_by:GO:0045239	releases/2026-07-26	obsolete
+GO:0030176	GO:0030176	obsolete integral component of endoplasmic reticulum membrane	cellular_component	obsolete	replaced_by:GO:0005789	releases/2026-07-26	obsolete
+GO:0030423	GO:0098795	global gene silencing by mRNA cleavage	biological_process	current		releases/2026-07-26	alternate_id
+GO:0030676	GO:0005085	guanyl-nucleotide exchange factor activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0030898	GO:0000146	microfilament motor activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0031056	GO:0031056	obsolete regulation of histone modification	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0031057	GO:0031057	obsolete negative regulation of histone modification	biological_process	obsolete	consider:GO:0006338;GO:0040029	releases/2026-07-26	obsolete
+GO:0031058	GO:0031058	obsolete positive regulation of histone modification	biological_process	obsolete	consider:GO:0006338;GO:0040029	releases/2026-07-26	obsolete
+GO:0031060	GO:0031060	obsolete regulation of histone methylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0031062	GO:0031062	obsolete positive regulation of histone methylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0031063	GO:0031063	obsolete regulation of histone deacetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0031065	GO:0031065	obsolete positive regulation of histone deacetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0031235	GO:0031235	obsolete intrinsic component of the cytoplasmic side of the plasma membrane	cellular_component	obsolete	replaced_by:GO:0009898	releases/2026-07-26	obsolete
+GO:0031323	GO:0031323	obsolete regulation of cellular metabolic process	biological_process	obsolete	replaced_by:GO:0019222	releases/2026-07-26	obsolete
+GO:0031324	GO:0031324	obsolete negative regulation of cellular metabolic process	biological_process	obsolete	replaced_by:GO:0009892	releases/2026-07-26	obsolete
+GO:0031325	GO:0031325	obsolete positive regulation of cellular metabolic process	biological_process	obsolete	replaced_by:GO:0009893	releases/2026-07-26	obsolete
+GO:0031326	GO:0031326	obsolete regulation of cellular biosynthetic process	biological_process	obsolete	replaced_by:GO:0009889	releases/2026-07-26	obsolete
+GO:0031327	GO:0031327	obsolete negative regulation of cellular biosynthetic process	biological_process	obsolete	replaced_by:GO:0009890	releases/2026-07-26	obsolete
+GO:0031328	GO:0031328	obsolete positive regulation of cellular biosynthetic process	biological_process	obsolete	replaced_by:GO:0009891	releases/2026-07-26	obsolete
+GO:0031329	GO:0031329	obsolete regulation of cellular catabolic process	biological_process	obsolete	replaced_by:GO:0009894	releases/2026-07-26	obsolete
+GO:0031330	GO:0031330	obsolete negative regulation of cellular catabolic process	biological_process	obsolete	replaced_by:GO:0009895	releases/2026-07-26	obsolete
+GO:0031331	GO:0031331	obsolete positive regulation of cellular catabolic process	biological_process	obsolete	replaced_by:GO:0009896	releases/2026-07-26	obsolete
+GO:0031497	GO:0006325	chromatin organization	biological_process	current		releases/2026-07-26	alternate_id
+GO:0031498	GO:0031498	obsolete chromatin disassembly	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0031572	GO:0007095	mitotic G2 DNA damage checkpoint signaling	biological_process	current		releases/2026-07-26	alternate_id
+GO:0031618	GO:0005721	pericentric heterochromatin	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0031668	GO:0031668	obsolete cellular response to extracellular stimulus	biological_process	obsolete	consider:GO:0051716	releases/2026-07-26	obsolete
+GO:0031933	GO:0031933	obsolete telomeric heterochromatin	cellular_component	obsolete		releases/2026-07-26	obsolete
+GO:0031935	GO:0031935	obsolete regulation of chromatin silencing	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0031937	GO:0031937	obsolete positive regulation of chromatin silencing	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0032155	GO:0032155	obsolete cell division site part	cellular_component	obsolete	consider:GO:0032153	releases/2026-07-26	obsolete
+GO:0032268	GO:0051246	regulation of protein metabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:0032269	GO:0051248	negative regulation of protein metabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:0032270	GO:0051247	positive regulation of protein metabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:0032504	GO:0032504	obsolete multicellular organism reproduction	biological_process	obsolete	replaced_by:GO:0048609	releases/2026-07-26	obsolete
+GO:0032508	GO:0032508	obsolete DNA duplex unwinding	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0032947	GO:0060090	molecular adaptor activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0032990	GO:0032990	obsolete cell part morphogenesis	biological_process	obsolete	replaced_by:GO:0032989	releases/2026-07-26	obsolete
+GO:0033267	GO:0033267	obsolete axon part	cellular_component	obsolete	consider:GO:0030424	releases/2026-07-26	obsolete
+GO:0033522	GO:0033522	obsolete histone H2A ubiquitination	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0033613	GO:0140297	DNA-binding transcription factor binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0034248	GO:0034248	obsolete regulation of amide metabolic process	biological_process	obsolete	replaced_by:GO:0019222	releases/2026-07-26	obsolete
+GO:0034249	GO:0034249	obsolete negative regulation of amide metabolic process	biological_process	obsolete	replaced_by:GO:0009892	releases/2026-07-26	obsolete
+GO:0034250	GO:0034250	obsolete positive regulation of amide metabolic process	biological_process	obsolete	replaced_by:GO:0009893	releases/2026-07-26	obsolete
+GO:0034401	GO:0034401	obsolete chromatin organization involved in regulation of transcription	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0034470	GO:0034470	obsolete ncRNA processing	biological_process	obsolete	replaced_by:GO:0006396	releases/2026-07-26	obsolete
+GO:0034508	GO:0034508	obsolete centromere complex assembly	biological_process	obsolete	consider:GO:0034080;GO:0051382	releases/2026-07-26	obsolete
+GO:0034613	GO:0008104	intracellular protein localization	biological_process	current		releases/2026-07-26	alternate_id
+GO:0034622	GO:0065003	protein-containing complex assembly	biological_process	current		releases/2026-07-26	alternate_id
+GO:0034641	GO:0034641	obsolete cellular nitrogen compound metabolic process	biological_process	obsolete	replaced_by:GO:0008152	releases/2026-07-26	obsolete
+GO:0034645	GO:0034645	obsolete cellular macromolecule biosynthetic process	biological_process	obsolete	replaced_by:GO:0009059	releases/2026-07-26	obsolete
+GO:0034660	GO:0034660	obsolete ncRNA metabolic process	biological_process	obsolete	replaced_by:GO:0016070	releases/2026-07-26	obsolete
+GO:0034724	GO:0006325	chromatin organization	biological_process	current		releases/2026-07-26	alternate_id
+GO:0034968	GO:0034968	obsolete histone lysine methylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0034990	GO:0030892	mitotic cohesin complex	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0034991	GO:0030893	meiotic cohesin complex	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0035004	GO:0035004	obsolete phosphatidylinositol 3-kinase activity	molecular_function	obsolete	replaced_by:GO:0016303	releases/2026-07-26	obsolete
+GO:0035012	GO:0035012	obsolete polytene chromosome, telomeric region	cellular_component	obsolete		releases/2026-07-26	obsolete
+GO:0035064	GO:0035064	obsolete methylated histone binding	molecular_function	obsolete	consider:GO:0140566	releases/2026-07-26	obsolete
+GO:0035065	GO:0035065	obsolete regulation of histone acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0035068	GO:0016442	RISC complex	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0035087	GO:0070922	RISC complex assembly	biological_process	current		releases/2026-07-26	alternate_id
+GO:0035093	GO:0035092	sperm DNA condensation	biological_process	current		releases/2026-07-26	alternate_id
+GO:0035257	GO:0016922	nuclear receptor binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0035258	GO:0016922	nuclear receptor binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0035280	GO:0070922	RISC complex assembly	biological_process	current		releases/2026-07-26	alternate_id
+GO:0035327	GO:0000791	euchromatin	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0035383	GO:0035383	obsolete thioester metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0035518	GO:0035518	obsolete histone H2A monoubiquitination	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0035561	GO:0035561	obsolete regulation of chromatin binding	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0035616	GO:0035616	obsolete histone H2B conserved C-terminal lysine deubiquitination	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0035690	GO:0071466	cellular response to xenobiotic stimulus	biological_process	current		releases/2026-07-26	alternate_id
+GO:0036003	GO:0036003	obsolete positive regulation of transcription from RNA polymerase II promoter in response to stress	biological_process	obsolete	consider:GO:0033554;GO:0045944	releases/2026-07-26	obsolete
+GO:0036123	GO:0036123	obsolete histone H3-K9 dimethylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0036251	GO:0036251	obsolete positive regulation of transcription from RNA polymerase II promoter in response to salt stress	biological_process	obsolete	consider:GO:0045944;GO:0071472	releases/2026-07-26	obsolete
+GO:0036459	GO:0004843	cysteine-type deubiquitinase activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0038028	GO:0038028	obsolete insulin receptor signaling pathway via phosphatidylinositol 3-kinase	biological_process	obsolete	replaced_by:GO:0008286	releases/2026-07-26	obsolete
+GO:0039519	GO:0039519	obsolete modulation by virus of host autophagy	biological_process	obsolete	replaced_by:GO:0075071	releases/2026-07-26	obsolete
+GO:0040035	GO:0040035	obsolete hermaphrodite genitalia development	biological_process	obsolete	consider:GO:0030540	releases/2026-07-26	obsolete
+GO:0042125	GO:0042125	obsolete protein galactosylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0042133	GO:0042133	obsolete neurotransmitter metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0042136	GO:0042136	obsolete neurotransmitter biosynthetic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0042439	GO:0042439	obsolete ethanolamine-containing compound metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0042493	GO:0009410	response to xenobiotic stimulus	biological_process	current		releases/2026-07-26	alternate_id
+GO:0042623	GO:0016887	ATP hydrolysis activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0042737	GO:0042178	xenobiotic catabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:0042766	GO:0042766	obsolete nucleosome mobilization	biological_process	obsolete	consider:GO:0140658;GO:0140750;GO:0140751	releases/2026-07-26	obsolete
+GO:0042788	GO:0042788	obsolete polysomal ribosome	cellular_component	obsolete	consider:GO:0005840	releases/2026-07-26	obsolete
+GO:0042886	GO:0042886	obsolete amide transport	biological_process	obsolete	replaced_by:GO:0071705	releases/2026-07-26	obsolete
+GO:0042891	GO:0042891	obsolete antibiotic transport	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043044	GO:0006338	chromatin remodeling	biological_process	current		releases/2026-07-26	alternate_id
+GO:0043046	GO:0043046	obsolete DNA methylation involved in gamete generation	biological_process	obsolete	replaced_by:GO:0071514	releases/2026-07-26	obsolete
+GO:0043225	GO:0043225	obsolete ATPase-coupled inorganic anion transmembrane transporter activity	molecular_function	obsolete	replaced_by:GO:0042626	releases/2026-07-26	obsolete
+GO:0043433	GO:0043433	obsolete negative regulation of DNA-binding transcription factor activity	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043486	GO:0043486	obsolete histone exchange	biological_process	obsolete	consider:GO:0006338;GO:0140713	releases/2026-07-26	obsolete
+GO:0043492	GO:0042626	ATPase-coupled transmembrane transporter activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0043551	GO:0043551	obsolete regulation of phosphatidylinositol 3-kinase activity	biological_process	obsolete	consider:GO:0035014	releases/2026-07-26	obsolete
+GO:0043603	GO:0043603	obsolete amide metabolic process	biological_process	obsolete	replaced_by:GO:0008152	releases/2026-07-26	obsolete
+GO:0043604	GO:0043604	obsolete amide biosynthetic process	biological_process	obsolete	replaced_by:GO:0009058	releases/2026-07-26	obsolete
+GO:0043618	GO:0043618	obsolete regulation of transcription from RNA polymerase II promoter in response to stress	biological_process	obsolete	consider:GO:0006357;GO:0033554	releases/2026-07-26	obsolete
+GO:0043620	GO:0043620	obsolete regulation of DNA-templated transcription in response to stress	biological_process	obsolete	consider:GO:0006355;GO:0033554	releases/2026-07-26	obsolete
+GO:0043621	GO:0043621	obsolete protein self-association	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0043624	GO:0032984	protein-containing complex disassembly	biological_process	current		releases/2026-07-26	alternate_id
+GO:0043631	GO:0043631	obsolete RNA polyadenylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043900	GO:0043900	obsolete regulation of multi-organism process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043902	GO:0043902	obsolete positive regulation of multi-organism process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043928	GO:0043928	obsolete exonucleolytic catabolism of deadenylated mRNA	biological_process	obsolete	replaced_by:GO:0000288	releases/2026-07-26	obsolete
+GO:0043966	GO:0043966	obsolete histone H3 acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043967	GO:0043967	obsolete histone H4 acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043972	GO:0043972	obsolete histone H3-K23 acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043974	GO:0043974	obsolete histone H3-K27 acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043981	GO:0043981	obsolete histone H4-K5 acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043982	GO:0043982	obsolete histone H4-K8 acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0043984	GO:0043984	obsolete histone H4-K16 acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0044030	GO:0044030	obsolete regulation of DNA methylation	biological_process	obsolete	consider:GO:0030234;GO:0040029	releases/2026-07-26	obsolete
+GO:0044106	GO:0009308	amine metabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:0044107	GO:0044107	obsolete cellular alcohol metabolic process	biological_process	obsolete	replaced_by:GO:0006066	releases/2026-07-26	obsolete
+GO:0044108	GO:0044108	obsolete cellular alcohol biosynthetic process	biological_process	obsolete	replaced_by:GO:0046165	releases/2026-07-26	obsolete
+GO:0044212	GO:0000976	transcription cis-regulatory region binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0044214	GO:0044214	obsolete spanning component of plasma membrane	cellular_component	obsolete	replaced_by:GO:0005886	releases/2026-07-26	obsolete
+GO:0044237	GO:0044237	obsolete cellular metabolic process	biological_process	obsolete	replaced_by:GO:0008152	releases/2026-07-26	obsolete
+GO:0044242	GO:0044242	obsolete cellular lipid catabolic process	biological_process	obsolete	replaced_by:GO:0016042	releases/2026-07-26	obsolete
+GO:0044248	GO:0044248	obsolete cellular catabolic process	biological_process	obsolete	replaced_by:GO:0009056	releases/2026-07-26	obsolete
+GO:0044249	GO:0044249	obsolete cellular biosynthetic process	biological_process	obsolete	replaced_by:GO:0009058	releases/2026-07-26	obsolete
+GO:0044255	GO:0044255	obsolete cellular lipid metabolic process	biological_process	obsolete	replaced_by:GO:0006629	releases/2026-07-26	obsolete
+GO:0044257	GO:0030163	protein catabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:0044260	GO:0044260	obsolete cellular macromolecule metabolic process	biological_process	obsolete	replaced_by:GO:0043170	releases/2026-07-26	obsolete
+GO:0044265	GO:0044265	obsolete cellular macromolecule catabolic process	biological_process	obsolete	replaced_by:GO:0009057	releases/2026-07-26	obsolete
+GO:0044267	GO:0019538	protein metabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:0044270	GO:0044270	obsolete cellular nitrogen compound catabolic process	biological_process	obsolete	replaced_by:GO:0009056	releases/2026-07-26	obsolete
+GO:0044271	GO:0044271	obsolete cellular nitrogen compound biosynthetic process	biological_process	obsolete	replaced_by:GO:0009058	releases/2026-07-26	obsolete
+GO:0044420	GO:0044420	obsolete extracellular matrix component	cellular_component	obsolete	consider:GO:0031012	releases/2026-07-26	obsolete
+GO:0044421	GO:0044421	obsolete extracellular region part	cellular_component	obsolete	consider:GO:0005576	releases/2026-07-26	obsolete
+GO:0044422	GO:0044422	obsolete organelle part	cellular_component	obsolete	consider:GO:0043226	releases/2026-07-26	obsolete
+GO:0044424	GO:0044424	obsolete intracellular part	cellular_component	obsolete	consider:GO:0005622	releases/2026-07-26	obsolete
+GO:0044427	GO:0044427	obsolete chromosomal part	cellular_component	obsolete	consider:GO:0005694	releases/2026-07-26	obsolete
+GO:0044428	GO:0044428	obsolete nuclear part	cellular_component	obsolete	consider:GO:0005634	releases/2026-07-26	obsolete
+GO:0044429	GO:0044429	obsolete mitochondrial part	cellular_component	obsolete	consider:GO:0005739	releases/2026-07-26	obsolete
+GO:0044430	GO:0044430	obsolete cytoskeletal part	cellular_component	obsolete	consider:GO:0005856	releases/2026-07-26	obsolete
+GO:0044437	GO:0044437	obsolete vacuolar part	cellular_component	obsolete	consider:GO:0005773	releases/2026-07-26	obsolete
+GO:0044440	GO:0044440	obsolete endosomal part	cellular_component	obsolete	consider:GO:0005768	releases/2026-07-26	obsolete
+GO:0044444	GO:0044444	obsolete cytoplasmic part	cellular_component	obsolete	consider:GO:0005737	releases/2026-07-26	obsolete
+GO:0044445	GO:0044445	obsolete cytosolic part	cellular_component	obsolete	consider:GO:0005829	releases/2026-07-26	obsolete
+GO:0044446	GO:0044446	obsolete intracellular organelle part	cellular_component	obsolete	consider:GO:0043229	releases/2026-07-26	obsolete
+GO:0044447	GO:0044447	obsolete axoneme part	cellular_component	obsolete	consider:GO:0005930	releases/2026-07-26	obsolete
+GO:0044448	GO:0044448	obsolete cell cortex part	cellular_component	obsolete	consider:GO:0005938	releases/2026-07-26	obsolete
+GO:0044449	GO:0044449	obsolete contractile fiber part	cellular_component	obsolete	consider:GO:0043292	releases/2026-07-26	obsolete
+GO:0044450	GO:0044450	obsolete microtubule organizing center part	cellular_component	obsolete	consider:GO:0005815	releases/2026-07-26	obsolete
+GO:0044451	GO:0044451	obsolete nucleoplasm part	cellular_component	obsolete	consider:GO:0005654	releases/2026-07-26	obsolete
+GO:0044452	GO:0044452	obsolete nucleolar part	cellular_component	obsolete	consider:GO:0005730	releases/2026-07-26	obsolete
+GO:0044454	GO:0044454	obsolete nuclear chromosome part	cellular_component	obsolete	consider:GO:0000228	releases/2026-07-26	obsolete
+GO:0044455	GO:0044455	obsolete mitochondrial membrane part	cellular_component	obsolete	consider:GO:0031966	releases/2026-07-26	obsolete
+GO:0044456	GO:0044456	obsolete synapse part	cellular_component	obsolete	consider:GO:0045202	releases/2026-07-26	obsolete
+GO:0044459	GO:0044459	obsolete plasma membrane part	cellular_component	obsolete	consider:GO:0005886	releases/2026-07-26	obsolete
+GO:0044463	GO:0044463	obsolete cell projection part	cellular_component	obsolete	consider:GO:0042995	releases/2026-07-26	obsolete
+GO:0044464	GO:0044464	obsolete cell part	cellular_component	obsolete		releases/2026-07-26	obsolete
+GO:0044531	GO:0051709	regulation of killing of cells of another organism	biological_process	current		releases/2026-07-26	alternate_id
+GO:0044532	GO:0044532	obsolete modulation of apoptotic process in another organism	biological_process	obsolete	consider:GO:0052150	releases/2026-07-26	obsolete
+GO:0044648	GO:0044648	obsolete histone H3-K4 dimethylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0044728	GO:0044728	obsolete DNA methylation or demethylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0044766	GO:0044766	obsolete multi-organism transport	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0044783	GO:0031571	mitotic G1 DNA damage checkpoint signaling	biological_process	current		releases/2026-07-26	alternate_id
+GO:0044789	GO:0044789	obsolete modulation by host of viral release from host cell	biological_process	obsolete	replaced_by:GO:0019076	releases/2026-07-26	obsolete
+GO:0044791	GO:0044791	obsolete positive regulation by host of viral release from host cell	biological_process	obsolete	replaced_by:GO:0019076	releases/2026-07-26	obsolete
+GO:0044798	GO:0005667	transcription regulator complex	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0044815	GO:0044815	obsolete DNA packaging complex	cellular_component	obsolete		releases/2026-07-26	obsolete
+GO:0045261	GO:0045261	obsolete proton-transporting ATP synthase complex, catalytic core F(1)	cellular_component	obsolete	replaced_by:GO:0045259	releases/2026-07-26	obsolete
+GO:0045263	GO:0045263	obsolete proton-transporting ATP synthase complex, coupling factor F(o)	cellular_component	obsolete	replaced_by:GO:0045259	releases/2026-07-26	obsolete
+GO:0045495	GO:0045495	obsolete pole plasm	cellular_component	obsolete	replaced_by:GO:0060293	releases/2026-07-26	obsolete
+GO:0045935	GO:0045935	obsolete positive regulation of nucleobase-containing compound metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0046466	GO:0046466	obsolete membrane lipid catabolic process	biological_process	obsolete	replaced_by:GO:0016042	releases/2026-07-26	obsolete
+GO:0046483	GO:0046483	obsolete heterocycle metabolic process	biological_process	obsolete	replaced_by:GO:0008152	releases/2026-07-26	obsolete
+GO:0046700	GO:0046700	obsolete heterocycle catabolic process	biological_process	obsolete	replaced_by:GO:0009056	releases/2026-07-26	obsolete
+GO:0046916	GO:0046916	obsolete intracellular transition metal ion homeostasis	biological_process	obsolete	replaced_by:GO:0030003	releases/2026-07-26	obsolete
+GO:0047485	GO:0047485	obsolete protein N-terminus binding	molecular_function	obsolete	replaced_by:GO:0005515	releases/2026-07-26	obsolete
+GO:0048016	GO:0048016	obsolete inositol phosphate-mediated signaling	biological_process	obsolete	consider:GO:0019722;GO:0043491	releases/2026-07-26	obsolete
+GO:0048037	GO:0048037	obsolete cofactor binding	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0048096	GO:0045815	transcription initiation-coupled chromatin remodeling	biological_process	current		releases/2026-07-26	alternate_id
+GO:0048365	GO:0031267	small GTPase binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0048563	GO:0048563	obsolete post-embryonic animal organ morphogenesis	biological_process	obsolete	replaced_by:GO:0009887	releases/2026-07-26	obsolete
+GO:0048569	GO:0048569	obsolete post-embryonic animal organ development	biological_process	obsolete	replaced_by:GO:0048513	releases/2026-07-26	obsolete
+GO:0048739	GO:0055013	cardiac muscle cell development	biological_process	current		releases/2026-07-26	alternate_id
+GO:0050662	GO:0050662	obsolete coenzyme binding	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0050880	GO:0097746	blood vessel diameter maintenance	biological_process	current		releases/2026-07-26	alternate_id
+GO:0051090	GO:0051090	obsolete regulation of DNA-binding transcription factor activity	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051102	GO:0051102	obsolete DNA ligation involved in DNA recombination	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051103	GO:0051103	obsolete DNA ligation involved in DNA repair	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051171	GO:0051171	obsolete regulation of nitrogen compound metabolic process	biological_process	obsolete	replaced_by:GO:0019222	releases/2026-07-26	obsolete
+GO:0051172	GO:0051172	obsolete negative regulation of nitrogen compound metabolic process	biological_process	obsolete	replaced_by:GO:0009892	releases/2026-07-26	obsolete
+GO:0051173	GO:0051173	obsolete positive regulation of nitrogen compound metabolic process	biological_process	obsolete	replaced_by:GO:0019222	releases/2026-07-26	obsolete
+GO:0051186	GO:0051186	obsolete cofactor metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051188	GO:0051188	obsolete cofactor biosynthetic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051270	GO:0051270	obsolete regulation of cellular component movement	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051271	GO:0051271	obsolete negative regulation of cellular component movement	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051272	GO:0051272	obsolete positive regulation of cellular component movement	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051284	GO:0051284	obsolete positive regulation of sequestering of calcium ion	biological_process	obsolete	consider:GO:0140314	releases/2026-07-26	obsolete
+GO:0051303	GO:0051303	obsolete establishment of chromosome localization	biological_process	obsolete	replaced_by:GO:0050000	releases/2026-07-26	obsolete
+GO:0051347	GO:0051347	obsolete positive regulation of transferase activity	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051567	GO:0051567	obsolete histone H3-K9 methylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051568	GO:0051568	obsolete histone H3-K4 methylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051570	GO:0051570	obsolete regulation of histone H3-K9 methylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051574	GO:0051574	obsolete positive regulation of histone H3-K9 methylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051603	GO:0051603	obsolete proteolysis involved in protein catabolic process	biological_process	obsolete	replaced_by:GO:0030163	releases/2026-07-26	obsolete
+GO:0051704	GO:0051704	obsolete multi-organism process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051705	GO:0051705	obsolete multi-organism behavior	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051817	GO:0051817	obsolete modulation of process of other organism involved in symbiotic interaction	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0051836	GO:0044417	translocation of molecules into host	biological_process	current		releases/2026-07-26	alternate_id
+GO:0051941	GO:0051941	obsolete regulation of amino acid uptake involved in synaptic transmission	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0052248	GO:0051709	regulation of killing of cells of another organism	biological_process	current		releases/2026-07-26	alternate_id
+GO:0052433	GO:0051709	regulation of killing of cells of another organism	biological_process	current		releases/2026-07-26	alternate_id
+GO:0055065	GO:0055065	obsolete metal ion homeostasis	biological_process	obsolete	consider:GO:0030003	releases/2026-07-26	obsolete
+GO:0055072	GO:0055072	obsolete iron ion homeostasis	biological_process	obsolete	consider:GO:0006879;GO:0060586	releases/2026-07-26	obsolete
+GO:0055076	GO:0055076	obsolete transition metal ion homeostasis	biological_process	obsolete	consider:GO:0030003	releases/2026-07-26	obsolete
+GO:0055114	GO:0055114	obsolete oxidation-reduction process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0060316	GO:0060316	obsolete positive regulation of ryanodine-sensitive calcium-release channel activity	biological_process	obsolete	consider:GO:0008047	releases/2026-07-26	obsolete
+GO:0060548	GO:0060548	obsolete negative regulation of cell death	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0060968	GO:0060968	obsolete regulation of gene silencing	biological_process	obsolete	consider:GO:0040029	releases/2026-07-26	obsolete
+GO:0060969	GO:0060969	obsolete negative regulation of gene silencing	biological_process	obsolete	consider:GO:0010629;GO:0031047;GO:0031507	releases/2026-07-26	obsolete
+GO:0061077	GO:0061077	obsolete chaperone-mediated protein folding	biological_process	obsolete	replaced_by:GO:0006457	releases/2026-07-26	obsolete
+GO:0061392	GO:0061392	obsolete regulation of transcription from RNA polymerase II promoter in response to osmotic stress	biological_process	obsolete	consider:GO:0006357;GO:0071470	releases/2026-07-26	obsolete
+GO:0061393	GO:0061393	obsolete positive regulation of transcription from RNA polymerase II promoter in response to osmotic stress	biological_process	obsolete	consider:GO:0045944;GO:0071470	releases/2026-07-26	obsolete
+GO:0061404	GO:0061404	obsolete positive regulation of transcription from RNA polymerase II promoter in response to increased salt	biological_process	obsolete	consider:GO:0045944;GO:0071472	releases/2026-07-26	obsolete
+GO:0061416	GO:0061416	obsolete regulation of transcription from RNA polymerase II promoter in response to salt stress	biological_process	obsolete	consider:GO:0006357;GO:0071472	releases/2026-07-26	obsolete
+GO:0061505	GO:0003918	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0061647	GO:0061647	obsolete histone H3-K9 modification	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0061774	GO:0061774	obsolete cohesin unloading	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0061781	GO:0061781	obsolete mitotic cohesin unloading	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0062023	GO:0062023	obsolete collagen-containing extracellular matrix	cellular_component	obsolete	replaced_by:GO:0031012	releases/2026-07-26	obsolete
+GO:0070011	GO:0008233	peptidase activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0070035	GO:0070035	obsolete purine NTP-dependent helicase activity	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0070209	GO:0070209	obsolete ASTRA complex	cellular_component	obsolete	replaced_by:GO:0110078	releases/2026-07-26	obsolete
+GO:0070413	GO:0070413	obsolete trehalose metabolism in response to stress	biological_process	obsolete	replaced_by:GO:0005991	releases/2026-07-26	obsolete
+GO:0070469	GO:0070469	obsolete respirasome	cellular_component	obsolete	replaced_by:GO:0098803	releases/2026-07-26	obsolete
+GO:0070491	GO:0140297	DNA-binding transcription factor binding	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0070577	GO:0070577	obsolete lysine-acetylated histone binding	molecular_function	obsolete	replaced_by:GO:0140566	releases/2026-07-26	obsolete
+GO:0070615	GO:0140658	ATP-dependent chromatin remodeler activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0070727	GO:0070727	obsolete cellular macromolecule localization	biological_process	obsolete	replaced_by:GO:0033036	releases/2026-07-26	obsolete
+GO:0070734	GO:0070734	obsolete histone H3-K27 methylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0070868	GO:0070868	obsolete heterochromatin organization involved in chromatin silencing	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071156	GO:0051726	regulation of cell cycle	biological_process	current		releases/2026-07-26	alternate_id
+GO:0071158	GO:0051726	regulation of cell cycle	biological_process	current		releases/2026-07-26	alternate_id
+GO:0071241	GO:0071241	obsolete cellular response to inorganic substance	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071310	GO:0071310	obsolete cellular response to organic substance	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071407	GO:0071407	obsolete cellular response to organic cyclic compound	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071417	GO:0071417	obsolete cellular response to organonitrogen compound	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071426	GO:0071426	obsolete ribonucleoprotein complex export from nucleus	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071427	GO:0071427	obsolete mRNA-containing ribonucleoprotein complex export from nucleus	biological_process	obsolete	consider:GO:0006406	releases/2026-07-26	obsolete
+GO:0071702	GO:0071702	obsolete organic substance transport	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071704	GO:0071704	obsolete organic substance metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071733	GO:0071733	obsolete transcriptional activation by promoter-enhancer looping	biological_process	obsolete	consider:GO:0045893	releases/2026-07-26	obsolete
+GO:0071804	GO:0006813	potassium ion transport	biological_process	current		releases/2026-07-26	alternate_id
+GO:0071847	GO:0071847	obsolete TNFSF11-mediated signaling pathway	biological_process	obsolete	replaced_by:GO:0033209	releases/2026-07-26	obsolete
+GO:0071850	GO:0051726	regulation of cell cycle	biological_process	current		releases/2026-07-26	alternate_id
+GO:0071922	GO:0071922	obsolete regulation of cohesin loading	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071923	GO:0071923	obsolete negative regulation of cohesin loading	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0071997	GO:0015431	ABC-type glutathione S-conjugate transporter activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0072358	GO:0072359	circulatory system development	biological_process	current		releases/2026-07-26	alternate_id
+GO:0072367	GO:0072367	obsolete regulation of lipid transport by regulation of transcription from RNA polymerase II promoter	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0072368	GO:0072368	obsolete regulation of lipid transport by negative regulation of transcription from RNA polymerase II promoter	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0072401	GO:0031570	DNA integrity checkpoint signaling	biological_process	current		releases/2026-07-26	alternate_id
+GO:0072422	GO:0000077	DNA damage checkpoint signaling	biological_process	current		releases/2026-07-26	alternate_id
+GO:0072425	GO:0007095	mitotic G2 DNA damage checkpoint signaling	biological_process	current		releases/2026-07-26	alternate_id
+GO:0072431	GO:0031571	mitotic G1 DNA damage checkpoint signaling	biological_process	current		releases/2026-07-26	alternate_id
+GO:0072503	GO:0072503	obsolete cellular divalent inorganic cation homeostasis	biological_process	obsolete	replaced_by:GO:0030003	releases/2026-07-26	obsolete
+GO:0072507	GO:0072507	obsolete divalent inorganic cation homeostasis	biological_process	obsolete	replaced_by:GO:0055080	releases/2026-07-26	obsolete
+GO:0072511	GO:0098662	obsolete inorganic cation transmembrane transport	biological_process	obsolete	replaced_by:GO:0055085	releases/2026-07-26	alternate_id
+GO:0072555	GO:0072555	obsolete 17-beta-ketosteroid reductase (NADPH) activity	molecular_function	obsolete	consider:GO:0072582	releases/2026-07-26	obsolete
+GO:0080182	GO:0080182	obsolete histone H3-K4 trimethylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0086037	GO:0086037	obsolete P-type sodium:potassium-exchanging transporter activity involved in regulation of cardiac muscle cell membrane potential	molecular_function	obsolete	replaced_by:GO:0005391	releases/2026-07-26	obsolete
+GO:0089717	GO:0089717	obsolete spanning component of membrane	cellular_component	obsolete	replaced_by:GO:0016020	releases/2026-07-26	obsolete
+GO:0090202	GO:0090202	obsolete gene looping	biological_process	obsolete	consider:GO:0140587	releases/2026-07-26	obsolete
+GO:0090239	GO:0090239	obsolete regulation of histone H4 acetylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0090305	GO:0090305	obsolete nucleic acid phosphodiester bond hydrolysis	biological_process	obsolete	replaced_by:GO:0090304	releases/2026-07-26	obsolete
+GO:0090501	GO:0090501	obsolete RNA phosphodiester bond hydrolysis	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0090502	GO:0090502	obsolete RNA phosphodiester bond hydrolysis, endonucleolytic	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0090568	GO:0017053	transcription repressor complex	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0090579	GO:0090579	obsolete dsDNA loop formation	biological_process	obsolete	consider:GO:0140587	releases/2026-07-26	obsolete
+GO:0090662	GO:0055085	transmembrane transport	biological_process	current		releases/2026-07-26	alternate_id
+GO:0097159	GO:0097159	obsolete organic cyclic compound binding	molecular_function	obsolete		releases/2026-07-26	obsolete
+GO:0097164	GO:0097164	obsolete ammonium ion metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0097458	GO:0097458	obsolete neuron part	cellular_component	obsolete		releases/2026-07-26	obsolete
+GO:0097549	GO:0097549	obsolete chromatin organization involved in negative regulation of transcription	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0097617	GO:0140666	annealing activity	molecular_function	current		releases/2026-07-26	alternate_id
+GO:0097659	GO:0097659	obsolete nucleic acid-templated transcription	biological_process	obsolete	consider:GO:0006366	releases/2026-07-26	obsolete
+GO:0097756	GO:0097756	obsolete negative regulation of blood vessel diameter	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0098532	GO:0098532	obsolete histone H3-K27 trimethylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:0098589	GO:0016020	membrane	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0098660	GO:0098660	obsolete inorganic ion transmembrane transport	biological_process	obsolete	replaced_by:GO:0055085	releases/2026-07-26	obsolete
+GO:0098662	GO:0098662	obsolete inorganic cation transmembrane transport	biological_process	obsolete	replaced_by:GO:0055085	releases/2026-07-26	obsolete
+GO:0098742	GO:0098742	obsolete cell-cell adhesion via plasma-membrane adhesion molecules	biological_process	obsolete	replaced_by:GO:0098609	releases/2026-07-26	obsolete
+GO:0098781	GO:0098781	obsolete ncRNA transcription	biological_process	obsolete	replaced_by:GO:0006351	releases/2026-07-26	obsolete
+GO:0098805	GO:0016020	membrane	cellular_component	current		releases/2026-07-26	alternate_id
+GO:0099131	GO:0034220	monoatomic ion transmembrane transport	biological_process	current		releases/2026-07-26	alternate_id
+GO:0099132	GO:0098655	monoatomic cation transmembrane transport	biological_process	current		releases/2026-07-26	alternate_id
+GO:0099133	GO:0098656	monoatomic anion transmembrane transport	biological_process	current		releases/2026-07-26	alternate_id
+GO:0120038	GO:0120038	obsolete plasma membrane bounded cell projection part	cellular_component	obsolete	consider:GO:0120025	releases/2026-07-26	obsolete
+GO:0198738	GO:0198738	obsolete cell-cell signaling by wnt	biological_process	obsolete	replaced_by:GO:0007166	releases/2026-07-26	obsolete
+GO:1900040	GO:0032663	regulation of interleukin-2 production	biological_process	current		releases/2026-07-26	alternate_id
+GO:1900042	GO:0032743	positive regulation of interleukin-2 production	biological_process	current		releases/2026-07-26	alternate_id
+GO:1900111	GO:1900111	obsolete positive regulation of histone H3-K9 dimethylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1900363	GO:1900363	obsolete regulation of mRNA polyadenylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1900364	GO:1900364	obsolete negative regulation of mRNA polyadenylation	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901071	GO:1901071	obsolete glucosamine-containing compound metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901214	GO:1901214	obsolete regulation of neuron death	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901215	GO:1901215	obsolete negative regulation of neuron death	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901216	GO:1901216	obsolete positive regulation of neuron death	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901360	GO:1901360	obsolete organic cyclic compound metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901361	GO:1901361	obsolete organic cyclic compound catabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901362	GO:1901362	obsolete organic cyclic compound biosynthetic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901537	GO:1901537	obsolete positive regulation of DNA demethylation	biological_process	obsolete	consider:GO:0141166;GO:0141167;GO:0141168;GO:0141169	releases/2026-07-26	obsolete
+GO:1901564	GO:1901564	obsolete organonitrogen compound metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901565	GO:1901565	obsolete organonitrogen compound catabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901566	GO:1901566	obsolete organonitrogen compound biosynthetic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901575	GO:1901575	obsolete organic substance catabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901576	GO:1901576	obsolete organic substance biosynthetic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901605	GO:1901605	obsolete alpha-amino acid metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901606	GO:1901606	obsolete alpha-amino acid catabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901607	GO:1901607	obsolete alpha-amino acid biosynthetic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901617	GO:1901617	obsolete organic hydroxy compound biosynthetic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1901674	GO:1901674	obsolete regulation of histone H3-K27 acetylation	biological_process	obsolete	consider:GO:0031507;GO:0045815	releases/2026-07-26	obsolete
+GO:1901685	GO:1901685	obsolete glutathione derivative metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1902186	GO:1902186	obsolete regulation of viral release from host cell	biological_process	obsolete	replaced_by:GO:0019076	releases/2026-07-26	obsolete
+GO:1902221	GO:1902221	obsolete erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1902222	GO:1902222	obsolete erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1902400	GO:0031571	mitotic G1 DNA damage checkpoint signaling	biological_process	current		releases/2026-07-26	alternate_id
+GO:1902579	GO:1902579	obsolete multi-organism localization	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1903050	GO:1903050	obsolete regulation of proteolysis involved in protein catabolic process	biological_process	obsolete	replaced_by:GO:0042176	releases/2026-07-26	obsolete
+GO:1903051	GO:1903051	obsolete negative regulation of proteolysis involved in protein catabolic process	biological_process	obsolete	replaced_by:GO:0042177	releases/2026-07-26	obsolete
+GO:1903052	GO:1903052	obsolete positive regulation of proteolysis involved in protein catabolic process	biological_process	obsolete	replaced_by:GO:0045732	releases/2026-07-26	obsolete
+GO:1903209	GO:1903209	obsolete positive regulation of oxidative stress-induced cell death	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1903280	GO:1903280	obsolete negative regulation of calcium:sodium antiporter activity	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1903362	GO:0042176	regulation of protein catabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:1903363	GO:0042177	negative regulation of protein catabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:1903364	GO:0045732	positive regulation of protein catabolic process	biological_process	current		releases/2026-07-26	alternate_id
+GO:1903506	GO:1903506	obsolete regulation of nucleic acid-templated transcription	biological_process	obsolete	consider:GO:0006357	releases/2026-07-26	obsolete
+GO:1903507	GO:1903507	obsolete negative regulation of nucleic acid-templated transcription	biological_process	obsolete	consider:GO:0000122	releases/2026-07-26	obsolete
+GO:1903508	GO:1903508	obsolete positive regulation of nucleic acid-templated transcription	biological_process	obsolete	consider:GO:0045944	releases/2026-07-26	obsolete
+GO:1903827	GO:0032880	regulation of protein localization	biological_process	current		releases/2026-07-26	alternate_id
+GO:1905114	GO:1905114	obsolete cell surface receptor signaling pathway involved in cell-cell signaling	biological_process	obsolete	consider:GO:0007166	releases/2026-07-26	obsolete
+GO:1905462	GO:1905462	obsolete regulation of DNA duplex unwinding	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1905463	GO:1905463	obsolete negative regulation of DNA duplex unwinding	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:1905616	GO:1905616	obsolete regulation of miRNA-mediated gene silencing by inhibition of translation	biological_process	obsolete	consider:GO:0035278;GO:0060964	releases/2026-07-26	obsolete
+GO:1905618	GO:1905618	obsolete positive regulation of miRNA-mediated gene silencing by inhibition of translation	biological_process	obsolete	consider:GO:0035278;GO:2000637	releases/2026-07-26	obsolete
+GO:2000112	GO:2000112	obsolete regulation of cellular macromolecule biosynthetic process	biological_process	obsolete	replaced_by:GO:0010556	releases/2026-07-26	obsolete
+GO:2000113	GO:2000113	obsolete negative regulation of cellular macromolecule biosynthetic process	biological_process	obsolete	replaced_by:GO:0010558	releases/2026-07-26	obsolete
+GO:2000650	GO:2000650	obsolete negative regulation of sodium ion transmembrane transporter activity	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:2000653	GO:2000653	obsolete regulation of genetic imprinting	biological_process	obsolete	consider:GO:0071514	releases/2026-07-26	obsolete
+GO:2000790	GO:2000790	obsolete regulation of mesenchymal cell proliferation involved in lung development	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:2001020	GO:2001020	obsolete regulation of response to DNA damage stimulus	biological_process	obsolete	replaced_by:GO:0006974	releases/2026-07-26	obsolete
+GO:2001021	GO:2001021	obsolete negative regulation of response to DNA damage stimulus	biological_process	obsolete	replaced_by:GO:0006974	releases/2026-07-26	obsolete
+GO:2001022	GO:2001022	obsolete positive regulation of response to DNA damage stimulus	biological_process	obsolete	replaced_by:GO:0006974	releases/2026-07-26	obsolete
+GO:2001273	GO:2001273	obsolete regulation of glucose import in response to insulin stimulus	biological_process	obsolete		releases/2026-07-26	obsolete
+GO:2001275	GO:2001275	obsolete positive regulation of glucose import in response to insulin stimulus	biological_process	obsolete		releases/2026-07-26	obsolete

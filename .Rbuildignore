@@ -1,0 +1,14 @@
+^\.git$
+^\.Rbuildignore$
+^\.gitignore$
+^ROOT_STRUCTURE\.txt$
+^config$
+^data$
+^docs$
+^governed_artifacts$
+^reproducibility$
+^results$
+^scripts$
+^tests/workflow$
+^run_fsf_publication_reproduction\.sh$
+^run_fsf_v1_synthetic_benchmark\.sh$

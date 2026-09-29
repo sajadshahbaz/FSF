@@ -1,0 +1,41 @@
+condition	stability_region	dominant_state	signal_class	class_count	class_proportion
+DES	Low Stability	tied	Low Stability	5837	0.384341871337328
+DES	Highly Stable	constant	Highly Stable Constant	7439	0.4898268255745045
+DES	Highly Stable	down	Highly Stable Down	1233	0.08118785803647857
+DES	Highly Stable	up	Highly Stable Up	678	0.04464344505168894
+GAM	Low Stability	constant	Low Stability	70	0.004609205241324818
+GAM	Low Stability	down	Low Stability	40	0.002633831566471324
+GAM	Low Stability	tied	Low Stability	958	0.06308026601698821
+GAM	Low Stability	up	Low Stability	17	0.0011193784157503127
+GAM	Transitional	constant	Transitional Constant	1125	0.07407651280700599
+GAM	Transitional	down	Transitional Down	622	0.04095608085862909
+GAM	Transitional	up	Transitional Up	359	0.023638638309080133
+GAM	Stable	constant	Stable Constant	3720	0.24494633568183316
+GAM	Stable	down	Stable Down	1378	0.09073549746493711
+GAM	Stable	up	Stable Up	1029	0.06775531704747481
+GAM	Highly Stable	constant	Highly Stable Constant	5447	0.35866201356423255
+GAM	Highly Stable	down	Highly Stable Down	377	0.02482386251399223
+GAM	Highly Stable	up	Highly Stable Up	45	0.0029630605122802395
+HT	Highly Stable	constant	Highly Stable Constant	10233	0.6737999604925266
+HT	Highly Stable	down	Highly Stable Down	2564	0.16882860341081188
+HT	Highly Stable	up	Highly Stable Up	2390	0.15737143609666163
+LT	Low Stability	tied	Low Stability	1211	0.07973925067491934
+LT	Highly Stable	constant	Highly Stable Constant	13850	0.911964179890696
+LT	Highly Stable	down	Highly Stable Down	84	0.0055310462895897805
+LT	Highly Stable	up	Highly Stable Up	42	0.0027655231447948903
+OSM	Highly Stable	constant	Highly Stable Constant	14746	0.9709620069796536
+OSM	Highly Stable	down	Highly Stable Down	238	0.01567129782050438
+OSM	Highly Stable	up	Highly Stable Up	203	0.01336669519984197
+UV	Low Stability	constant	Low Stability	1159	0.07631526963850661
+UV	Low Stability	down	Low Stability	392	0.025811549351418977
+UV	Low Stability	tied	Low Stability	1028	0.06768947125831302
+UV	Low Stability	up	Low Stability	369	0.024297096200697966
+UV	Transitional	constant	Transitional Constant	4888	0.3218542174227958
+UV	Transitional	down	Transitional Down	814	0.05359847237769145
+UV	Transitional	up	Transitional Up	995	0.06551656021597418
+UV	Stable	constant	Stable Constant	2596	0.17093566866398893
+UV	Stable	down	Stable Down	238	0.01567129782050438
+UV	Stable	up	Stable Up	317	0.020873115164285243
+UV	Highly Stable	constant	Highly Stable Constant	2133	0.14044906828208337
+UV	Highly Stable	down	Highly Stable Down	117	0.0077039573319286235
+UV	Highly Stable	up	Highly Stable Up	141	0.009284256271811418

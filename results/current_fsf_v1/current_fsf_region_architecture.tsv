@@ -1,0 +1,25 @@
+condition	stability_region	region_count	region_proportion
+DES	Low Stability	5837	0.384341871337328
+DES	Transitional	0	0
+DES	Stable	0	0
+DES	Highly Stable	9350	0.615658128662672
+GAM	Low Stability	1085	0.0714426812405347
+GAM	Transitional	2106	0.138671231974715
+GAM	Stable	6127	0.403437150194245
+GAM	Highly Stable	5869	0.386448936590505
+HT	Low Stability	0	0
+HT	Transitional	0	0
+HT	Stable	0	0
+HT	Highly Stable	15187	1
+LT	Low Stability	1211	0.0797392506749193
+LT	Transitional	0	0
+LT	Stable	0	0
+LT	Highly Stable	13976	0.920260749325081
+OSM	Low Stability	0	0
+OSM	Transitional	0	0
+OSM	Stable	0	0
+OSM	Highly Stable	15187	1
+UV	Low Stability	2948	0.194113386448937
+UV	Transitional	6697	0.440969250016461
+UV	Stable	3151	0.207480081648779
+UV	Highly Stable	2391	0.157437281885823
