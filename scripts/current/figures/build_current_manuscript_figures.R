@@ -515,7 +515,7 @@ p6c <- ggplot(f6b, aes(noise_sd, recovery_proportion, color = truth_display, gro
   labs(title = "C. Recovery by truth scenario", x = "Noise standard deviation", y = "Dominant-class recovery", color = "Truth scenario") +
   theme_fsf()
 figure6 <- p6a + p6b + p6c + plot_layout(widths = c(1.05, 0.9, 1.15)) +
-  plot_annotation(title = "Figure 6. Synthetic validation")
+  plot_annotation(title = "Figure 6. Synthetic benchmark performance")
 if (build_all && !figure4_s4_only) {
   save_figure(figure6, "Figure6", 15.0, 5.6, main_figure_dir)
 }
