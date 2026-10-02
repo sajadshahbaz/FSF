@@ -12,14 +12,14 @@ The package is dataset-independent and can be applied to any analysis in which s
 
 ### Install the release from GitHub
 
-The current release is **FSF 0.1.1**.
+The current release is **FSF 0.1.2**.
 
 ```r
 install.packages("remotes")
 
 remotes::install_github(
   "sajadshahbaz/FSF",
-  ref = "fsf-r-v0.1.1"
+  ref = "fsf-r-v0.1.2"
 )
 ```
 
@@ -34,10 +34,10 @@ library(FSF)
 ```sh
 git clone https://github.com/sajadshahbaz/FSF.git
 cd FSF
-git checkout fsf-r-v0.1.1
+git checkout fsf-r-v0.1.2
 
 R CMD build .
-R CMD INSTALL FSF_0.1.1.tar.gz
+R CMD INSTALL FSF_0.1.2.tar.gz
 ```
 
 FSF is not currently distributed through CRAN.
@@ -551,13 +551,13 @@ Users who only want to apply FSF to their own data need only install the R packa
 Current software release:
 
 ```text
-FSF 0.1.1
+FSF 0.1.2
 ```
 
 Release tag:
 
 ```text
-fsf-r-v0.1.1
+fsf-r-v0.1.2
 ```
 
 Repository:

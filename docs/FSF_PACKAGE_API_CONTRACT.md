@@ -12,12 +12,12 @@ ranking, enrichment, plotting, prediction, or species-specific analysis.
 ## Package identity
 
 - Package name: `FSF`.
-- Current package version: `0.1.1`.
+- Current package version: `0.1.2`.
 - License: MIT, as recorded by `DESCRIPTION` and the package `LICENSE` file.
 - Computational dependency target: base R only, with no Imports.
 - Testing dependency: `testthat (>= 3.0.0)` in Suggests.
 
-The package version matches the `fsf-r-v0.1.1` publication-release tag and makes
+The package version matches the `fsf-r-v0.1.2` publication-release tag and makes
 no CRAN-release claim.
 
 ## Canonical input
