@@ -1,7 +1,7 @@
 Package: FSF
 Type: Package
 Title: Feature Signal Stratification
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person("Sajad", "Shahbazi", role = c("aut", "cre"),
     email = "sajad642008@gmail.com")
 Description: Base-R implementation of the Feature Signal
